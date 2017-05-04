@@ -1,0 +1,142 @@
+\documentclass[a4paper, 12pt, twoside]{report} % , draft
+
+%\usepackage{times}%, mathptm}
+
+
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{multirow}
+\usepackage{graphicx}
+	\renewcommand{\topfraction}{0.8}       %DEFAULT: 0.7
+	\renewcommand{\bottomfraction}{0.8}    %DEFAULT: 0.3
+%	\renewcommand{\textfraction}{0.05}      %DEFAULT: 0.2
+%	\renewcommand{\floatpagefraction}{0.35} %DEFAULT: 0.5
+\usepackage{psfrag}
+\usepackage{verbatim}
+\usepackage{rotating}
+\usepackage{array,longtable,pdflscape}
+\usepackage{hvfloat}
+\usepackage{multicol}
+\usepackage{setspace}
+\usepackage[small]{caption}
+
+% \usepackage{afterpage} %allow clearpage without pagebreak
+% \usepackage{placeins}
+% \usepackage[font=footnotesize]{caption}
+
+\usepackage{fancyhdr} 
+\lhead[\thepage]{\rightmark}
+\rhead[\leftmark]{\thepage}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+\usepackage{anysize}
+
+\headheight 35pt
+
+%########
+%\textwidth 15cm
+%########
+
+\usepackage[pdftex]{hyperref}
+\hypersetup{%
+   pdftitle=Title,%
+   pdfauthor=Matthias Ziehm,%
+   pdfborder=0,%
+   %colorlinks=true,%
+}
+
+% pdfbookmark
+% To get a bookmark you can use
+% 
+% \pdfbookmark[0]{My Chapter}{myAnchorName}
+% 
+% - 0: Level (0=chapter, 1=section, 2=subsection, ...)
+% - "My Chapter": Text
+% - "myAnchorName": anything which hyperref can use for the anchor name.
+
+\clubpenalty=10000         % penalty for having a single line of a paragraph on the previous page
+\widowpenalty=10000        % penalty for having a single line of a paragraph on the need page
+\displaywidowpenalty=10000 
+\emergencystretch=15pt     % maximal addtional allowed dynamic space per line, if no linebreaking without overfull lines was possible
+
+\parindent=0mm
+
+\title{ \huge \textbf{Prediction of peptide immunogenicity\\using T~cell selection modeling}}
+
+\author{\\[5ex]
+  \Large Diplomarbeit \\[2ex]
+  \small betreut von \\
+  \large Prof.~Dr.~Oliver Kohlbacher\\
+  \large Prof.~Dr.~Stefan Stevanovi\'{c}\\
+  \large Nora Toussaint\\[2ex]
+  \small  vorgelegt von \\
+  \large Matthias Ziehm\\
+  \large (Matrikelnr. 2656740)\\[5ex]} 
+
+\date{T\"ubingen, 30. Januar 2009}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{figure}
+\centering
+\includegraphics[scale=1.0]{pic/unilogo.pdf}\ \\[2ex]
+
+\large Fakult\"at f\"ur Informations- und Kognitionswissenschaften\\
+\large Wilhelm-Schickard-Institut f\"ur Informatik\\
+\large Arbeitsbereich Simulation biologischer Systeme\\[3ex]
+
+\includegraphics[scale=0.3]{pic/ZBIT_logo.pdf}
+\label{titlepictures}
+\end{figure}
+
+
+%Erstellt das Titelblatt:
+\maketitle
+\cleardoublepage
+
+\newpage
+\pagenumbering{roman}\setcounter{page}{1}
+\tableofcontents
+\listoffigures
+\listoftables
+
+\input{abbreviations}
+
+\cleardoublepage
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markboth{\textsc{\thesection.\ #1}}{\textsc{\thesection.\ #1}}}
+\renewcommand{\subsectionmark}[1]{\markright{\textsc{\thesubsection.\ #1}}}
+%Der Rest soll arabisch numeriert sein:
+\pagenumbering{arabic}\setcounter{page}{1}
+
+\onehalfspacing	
+% \doublespacing
+  \input{abstract}
+	\input{introduction}
+	\input{materials_and_methods}
+	\input{results}
+	\input{discussion}
+% \singlespacing
+
+\begin{appendix}
+\input{appendix}
+\end{appendix}
+
+\clearpage
+\pagestyle{empty}
+\cleardoublepage
+\pagestyle{fancy}
+\bibliography{../../scientific_papers/diplomathesis}
+\bibliographystyle{abbrv} %original: plain
+
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\input{versicherung}
+\input{acknowledgements}
+
+\end{document}
+
