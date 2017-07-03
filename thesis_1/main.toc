@@ -2,5 +2,11 @@
 \contentsline {chapter}{Abstract}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
 \contentsline {chapter}{\numberline {2}Materials and methods}{3}{chapter.7}
-\contentsline {chapter}{Acknowledgements}{7}{section*.10}
-\contentsline {chapter}{Literature}{9}{section*.11}
+\contentsline {chapter}{\numberline {3}Results}{5}{chapter.8}
+\global \c@tocdepth 1\relax 
+\contentsline {section}{\numberline {3.1}Expression of GLUT1 in stable inducible cell lines}{5}{section.9}
+\contentsline {section}{\numberline {3.2}Proximity labeling of GLUT1 variants}{5}{section.10}
+\contentsline {section}{\numberline {3.3}Subcellular localization study of GLUT1 variants}{5}{section.11}
+\contentsline {chapter}{\numberline {4}Discussion}{7}{chapter.12}
+\contentsline {chapter}{Acknowledgements}{11}{section*.15}
+\contentsline {chapter}{Literature}{13}{section*.16}

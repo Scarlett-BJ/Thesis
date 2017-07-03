@@ -4,6 +4,8 @@ The top-level auxiliary file: main.aux
 The style file: apsrev4-1.bst
 A level-1 auxiliary file: Chapters/Chapter1.aux
 A level-1 auxiliary file: Chapters/Chapter2.aux
+A level-1 auxiliary file: Chapters/Chapter3.aux
+A level-1 auxiliary file: Chapters/Chapter4.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -27,45 +29,45 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (0) verbatim
 Control: production of eprint (0) enabled
-You've used 6 entries,
+You've used 8 entries,
             5847 wiz_defined-function locations,
-            1648 strings with 16226 characters,
-and the built_in function-call counts, 8726 in all, are:
-= -- 425
-> -- 328
-< -- 82
-+ -- 102
-- -- 97
-* -- 1513
-:= -- 766
-add.period$ -- 10
-call.type$ -- 6
-change.case$ -- 25
-chr.to.int$ -- 17
-cite$ -- 6
-duplicate$ -- 805
-empty$ -- 594
-format.name$ -- 173
-if$ -- 1687
+            1666 strings with 16515 characters,
+and the built_in function-call counts, 10610 in all, are:
+= -- 575
+> -- 359
+< -- 93
++ -- 114
+- -- 103
+* -- 1782
+:= -- 964
+add.period$ -- 14
+call.type$ -- 8
+change.case$ -- 35
+chr.to.int$ -- 19
+cite$ -- 8
+duplicate$ -- 982
+empty$ -- 743
+format.name$ -- 191
+if$ -- 2055
 int.to.chr$ -- 1
-int.to.str$ -- 13
-missing$ -- 104
-newline$ -- 67
-num.names$ -- 15
-pop$ -- 280
+int.to.str$ -- 15
+missing$ -- 127
+newline$ -- 73
+num.names$ -- 21
+pop$ -- 352
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 28
 quote$ -- 0
-skip$ -- 252
+skip$ -- 319
 stack$ -- 0
-substring$ -- 226
-swap$ -- 833
-text.length$ -- 40
+substring$ -- 304
+swap$ -- 992
+text.length$ -- 43
 text.prefix$ -- 0
 top$ -- 9
-type$ -- 101
+type$ -- 126
 warning$ -- 0
-while$ -- 31
+while$ -- 39
 width$ -- 0
-write$ -- 97
+write$ -- 115
 (There was 1 error message)

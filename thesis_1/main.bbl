@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{5}%
+\begin{thebibliography}{7}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -65,6 +65,23 @@
   {journal} {\bibinfo  {journal} {The Journal of Biological Chemistry}\
   }\textbf {\bibinfo {volume} {283}},\ \bibinfo {pages} {16732--16742}
   (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {MUECKLER}(1994)}]{MUECKLER}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {MUECKLER}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Facilitative
+  glucose transporters},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {European Journal of Biochemistry}\ }\textbf {\bibinfo {volume}
+  {219}},\ \bibinfo {pages} {713--725} (\bibinfo {year} {1994})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Uldry}\ and\ \citenamefont {Thorens}(2004)}]{Uldry}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Uldry}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Thorens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The slc2 family
+  of facilitated hexose and polyol transporters},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Pfl{\"u}gers Archiv}\ }\textbf {\bibinfo
+  {volume} {447}},\ \bibinfo {pages} {480--489} (\bibinfo {year}
+  {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {De~Vivo}\ \emph {et~al.}(1991)\citenamefont
   {De~Vivo}, \citenamefont {Trifiletti}, \citenamefont {Jacobson},
   \citenamefont {Ronen}, \citenamefont {Behmand},\ and\ \citenamefont
