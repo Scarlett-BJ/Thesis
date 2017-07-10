@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  10 JUL 2017 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  10 JUL 2017 18:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2246,11 +2246,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 14.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+<Figures/vectors.png, id=197, 383.93437pt x 289.83281pt>
+File: Figures/vectors.png Graphic file (type png)
 
-Overfull \hbox (2.2701pt too wide) in paragraph at lines 31--35
-\T1/ptm/m/n/12 nolo-gies) com-ple-mented with glu-tamine (Glu-ta-max, Life Tech
--nolo-gies), pyru-vate (Life Tech-
- []
+<use Figures/vectors.png>
+Package pdftex.def Info: Figures/vectors.png used on input line 28.
+(pdftex.def)             Requested size: 345.53773pt x 260.8471pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 1: section
 [3
@@ -2258,25 +2262,32 @@ Overfull \hbox (2.2701pt too wide) in paragraph at lines 31--35
 
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 38.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+Overfull \hbox (2.2701pt too wide) in paragraph at lines 38--40
+\T1/ptm/m/n/12 nolo-gies) com-ple-mented with glu-tamine (Glu-ta-max, Life Tech
+-nolo-gies), pyru-vate (Life Tech-
+ []
+
+[4 <./Figures/vectors.png>]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 43.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [4]
-[5] [6]) [7] [8]
+) [5] [6]
+[7] [8]) [9]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (./Chapters/Chapter3.tex
-Chapter 3.
-)
-1: section
-[9
+ (./Chapters/Chapter3.tex [10
 
 
 
 ]
+Chapter 3.
+)
+1: section
+[11]
 \openout2 = `Chapters/Chapter4.aux'.
 
- (./Chapters/Chapter4.tex [10
+ (./Chapters/Chapter4.tex [12
 
 
 
@@ -2284,74 +2295,75 @@ Chapter 3.
 Chapter 4.
 )
 1: section
-[11] [12
+[13] [14
 
 
 ]
 1: section
-[13] [14
-
-]
+[15] [16]
 --------------------
  Acknowledgements
 --------------------
 1: section
-[15] [16
+[17
+
+] [18
 
 ]
 --------------------
  Literature
 --------------------
 
-Package natbib Warning: Citation `apsrev41Control' undefined on input line 289.
+Package natbib Warning: Citation `apsrev41Control' undefined on input line 297.
 
 
 (./main.bbl
 1: section
-[17]
-Underfull \hbox (badness 2932) in paragraph at lines 352--357
+[19]
+Underfull \hbox (badness 2932) in paragraph at lines 352--362
 []\T1/ptm/m/n/12 H. Dinkel, K. Van Roey, S. Michael, M. Ku-mar, B. Uyar, B. Al-
 tenberg,
  []
 
-)
+[20])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
-[18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
+[21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
  (./main.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
 (./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C7ECDB344A61986166AEEE86DE816F87;1990.
+(rerunfilecheck)             Checksum: 0B4CE5926E0E7302C48C8AD5359D839B;1990.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27644 strings out of 493014
- 561157 string characters out of 6133352
- 567317 words of memory out of 5000000
- 30839 multiletter control sequences out of 15000+600000
+ 27665 strings out of 493014
+ 561443 string characters out of 6133352
+ 569688 words of memory out of 5000000
+ 30851 multiletter control sequences out of 15000+600000
  56990 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,19n,73p,10377b,914s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,20n,72p,10377b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw
-/times/utmri8a.pfb>
-Output written on main.pdf (26 pages, 209613 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on main.pdf (29 pages, 241754 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 263 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

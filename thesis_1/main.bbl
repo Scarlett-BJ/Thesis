@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{16}%
+\begin{thebibliography}{18}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -354,4 +354,43 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nucleic Acids
   Research}\ }\textbf {\bibinfo {volume} {44}},\ \bibinfo {pages} {D294--D300}
   (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Couzens}\ \emph {et~al.}(2013)\citenamefont
+  {Couzens}, \citenamefont {Knight}, \citenamefont {Kean}, \citenamefont {Teo},
+  \citenamefont {Weiss}, \citenamefont {Dunham}, \citenamefont {Lin},
+  \citenamefont {Bagshaw}, \citenamefont {Sicheri}, \citenamefont {Pawson},
+  \citenamefont {Wrana}, \citenamefont {Choi},\ and\ \citenamefont
+  {Gingras}}]{Couzens}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
+  {Couzens}}, \bibinfo {author} {\bibfnamefont {J.~D.~R.}\ \bibnamefont
+  {Knight}}, \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Kean}},
+  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Teo}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Weiss}}, \bibinfo {author} {\bibfnamefont
+  {W.~H.}\ \bibnamefont {Dunham}}, \bibinfo {author} {\bibfnamefont {Z.-Y.}\
+  \bibnamefont {Lin}}, \bibinfo {author} {\bibfnamefont {R.~D.}\ \bibnamefont
+  {Bagshaw}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Sicheri}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Pawson}}, \bibinfo
+  {author} {\bibfnamefont {J.~L.}\ \bibnamefont {Wrana}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Choi}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.-C.}\ \bibnamefont {Gingras}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Protein interaction network of the mammalian
+  hippo pathway reveals mechanisms of kinase-phosphatase interactions},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
+  Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
+  (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Cox}\ \emph {et~al.}(2014)\citenamefont {Cox},
+  \citenamefont {Hein}, \citenamefont {Luber}, \citenamefont {Paron},
+  \citenamefont {Nagaraj},\ and\ \citenamefont {Mann}}]{Cox}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Cox}}, \bibinfo {author} {\bibfnamefont {M.~Y.}\ \bibnamefont {Hein}},
+  \bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Luber}}, \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Paron}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Nagaraj}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Mann}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Accurate proteome-wide label-free quantification by
+  delayed normalization and maximal peptide ratio extraction, termed
+  {M}ax{LFQ}},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Molecular \& Cellular Proteomics : MCP}\ }\textbf {\bibinfo {volume} {13}},\
+  \bibinfo {pages} {2513--2526} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \end{thebibliography}%
