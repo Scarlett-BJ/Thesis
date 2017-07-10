@@ -43,7 +43,9 @@ headsepline, % Uncomment to get a line under the header
 \usepackage[T1]{fontenc} % Output font encoding for international characters
 \usepackage{siunitx}
 \usepackage{times} % Use the Palatino font by default
-
+\usepackage{textgreek}
+\usepackage{textcomp}
+\usepackage{caption}
 %\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 
 %\addbibresource{main.bib} % The filename of the bibliography
@@ -56,6 +58,7 @@ headsepline, % Uncomment to get a line under the header
 %\usepackage{doi}%<----------
 %\usepackage{hyperref}
 \def\bibsection{\section*{\refname}} 
+\sisetup{detect-all}
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
 %----------------------------------------------------------------------------------------
@@ -204,7 +207,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 
 \listoffigures % Prints the list of figures
 
-\listoftables % Prints the list of tables
+%\listoftables % Prints the list of tables
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
@@ -229,16 +232,30 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 
 \begin{abbreviations}{ll} % Include a list of abbreviations (a table of two columns)
 
+\textbf{ABC} & Ammonium bicarbonate\\
 \textbf{BSA} & Bovine serum albumin\\
 \textbf{CPZ} & Chlorpromazine\\
+\textbf{CSF} & Cerebrospinal fluid\\
+\textbf{DMEM} & Dulbecco's modified Eagle's medium\\
 \textbf{DTT} & Dithiothreitol\\
 \textbf{EDTA} & Ethylenediaminetetraacetic acid\\
-\textbf{GLUT1} & Glucose transporter 1\\
+\textbf{GLUT1} & Facilitated glucose transporter member 1\\
 \textbf{G1DS} & Glucose transporter 1 deficiency syndrome\\
+\textbf{HEK} & Human embryonic kidney\\
+\textbf{HEPES} & 4-(2-Hydroxyethyl)-1-piperazineethanesulfonic acid)\\
+\textbf{HPLC} & High-pressure liquid chromatography\\
+\textbf{HRP} & Horseradish peroxidase\\
+\textbf{MS} & Mass spectrometry\\
+\textbf{PBS} & Phosphate-buffered saline\\
+\textbf{PVDF} & Polyvinylidene fluoride\\
+\textbf{RIPA} & Radioimmunoprecipitation assay\\
 \textbf{SDS-PAGE} & Sodium dodecyl sulfate polyacrylamide gel electrophoresis\\
 \textbf{SILAC} & Stable isotope labeling by amino acids in cell culture\\
-\textbf{TGN} & Tran-Golgi network\\
-
+\textbf{TAP} & Tandem affinity purification\\
+\textbf{TBST} & Tris buffered saline with tween 20\\
+\textbf{TFA} & Trifluoroacetic acid\\
+\textbf{TGN} & Trans-Golgi network\\
+\textbf{Tris} & Tris(hydroxymethyl)aminomethane\\
 
 \end{abbreviations}
 
