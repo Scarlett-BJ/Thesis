@@ -4,10 +4,10 @@
 \label{Chapter2} % For referencing the chapter elsewhere, use \ref{Chapter2}
 
 \bfseries{Cell line generation}\\
-\normalfont Stable cell lines expressing the wild-type and mutant GLUT1 were kindly provided by Katrina Meyer and Markus Landthaler at Max Delbr\"{u}ck Center. In brief, the gene \textit{SLC2A} was purchased from Harvard Plasmid Repository and a stop codon was added with the primers listed in Table~\ref{tab:primers}. The P485L mutation was introduced by polymerase chain reaction-directed mutagenesis with the primers listed in Table~\ref{tab:primers}.
+\normalfont Stable HEK293 cell lines expressing the wild-type and mutant GLUT1 were kindly provided by Katrina Meyer and Markus Landthaler at Max Delbr\"{u}ck Center. In brief, the gene \textit{SLC2A} was purchased from Harvard Plasmid Repository and a stop codon was added with the primers listed in Table~\ref{tab:primers}. The P485L mutation was introduced by polymerase chain reaction-directed mutagenesis with the primers listed in Table~\ref{tab:primers}. The wild-type and mutant \textit{SLC2A} coding sequences were recombined into the vector pDEST-pcDNA5-BirA-FLAG N-term~\cite{Couzens} using Gateway cloning system (ThermoFisher), as illustrated in Figure~\ref{fig:vectors}. 
 
 \begin{table}[h]
-\captionsetup{font=normalsize}
+%\captionsetup{font=normalsize}
 \caption{Primer sequences for GLUT1 cloning.}
 \label{tab:primers}
 \small
@@ -24,17 +24,20 @@ P485L reverse & CTCCTCGGGTGTCTTGTCAC\\
 \end{tabular*}
 \end{table}
 \begin{figure}[h]
-\captionsetup{font=normalsize}
+%\captionsetup{font=normalsize}
 \centering
 \includegraphics[scale=0.9]{Figures/vectors}
 \caption{Graphic map of the recombinant plasmids.}
 \label{fig:vectors}
 \end{figure}
-The wild-type and mutant \textit{SLC2A} coding sequences were recombined into the vector pDEST-pcDNA5-BirA-FLAG N-term~\cite{Couzens} using Gateway cloning system (ThermoFisher), as illustrated in Figure~\ref{fig:vectors}. Stable HEK293 cell lines expressing the recombinant proteins were generated using the Flp-In T-REx system. A control 293T-REx cell line was generated in a similar manner with an integrated transgene for the inducible expression of GFP1-10.
+For the generation of each cell line, 0.1 \textmu g of the resulting vector was mixed with 0.9 \textmu g pOG44 Flp-recombinase expression vector (ThermoFisher) and 2 \textmu L Lipofectamine 200 (ThermoFisher) in 100 \textmu L Opti-MEM (ThermoFisher). After incubation for 5 min, the transfection mixture was added to HEK293 Flp-In T-Rex cells. After growing for 48 hr, hygromycin (100 \textmu g/mL, InvivoGen) was added and the cells were selected for 2-3 weeks by the addition of fresh hygromycin-containing cell culture media. A control HEK293 T-REx cell line was generated in a similar manner with an integrated transgene for the inducible expression of GFP1-10.
+% clone addgene ID??
+
+The three cell lines were stored in cryogenic vials (Croning) in liquid nitrogen. To recover cells, one vial of each cell line was removed from the liquid nitrogen tank and immediately warmed up to \SI{37}{\celsius}. The contents were diluted in 10 mL pre-warmed DMEM (Life Technologies) complemented with 10\% fetal bovine serum (Pan-Biotech). The medium is referred to as complete DMEM in the following. After spinning down at room temperature and 500 rpm for 3 min, the cell pellets were resuspended in 10 mL complete DMEM and seeded in T-75 flasks (CELLSTAR).
 \\
 \\*
 \bfseries{Cell culture}\\
-\normalfont Stable HEK293 cells were cultured at \SI{37}{\celsius} and 5\% CO\textsubscript{2} in T-75 flasks (CELLSTAR) at approximately 10\% confluency in DMEM (Life Technologies) complemented with 10\% fetal bovine serum (Pan-Biotech). The medium is referred to as complete DMEM in the following. Cells were routinely passaged twice a week as follows: the medium was aspirated and the cells were briefly washed with 4 mL sterile pre-warmed PBS (Life Technologies). To detach the cells 1 mL trypsin-EDTA (0.05\%, Life Technologies) was added and the flask was placed in an incubator at \SI{37}{\celsius} and 5\% CO\textsubscript{2} for 1 min. Trypsin was then inactivated with 9 mL pre-warmed complete DMEM. The medium was gently pipetted to the bottom of the flask in order to recover all the cells and homogenize them. 1 mL of the cell suspension was transferred into 10 mL fresh complete DMEM in a new culture flask which was then placed back in the incubator. The cells would reach approximately 80\% confluency before the next passaging.
+\normalfont Stable HEK293 cells were cultured at \SI{37}{\celsius} and 5\% CO\textsubscript{2} in culture flasks at approximately 10\% confluency in complete DMEM. Cells were routinely passaged twice a week as follows: the medium was aspirated and the cells were briefly washed with 4 mL sterile pre-warmed PBS (Life Technologies). To detach the cells 1 mL trypsin-EDTA (0.05\%, Life Technologies) was added and the flask was placed in an incubator at \SI{37}{\celsius} and 5\% CO\textsubscript{2} for 1 min. Trypsin was then inactivated with 9 mL pre-warmed complete DMEM. The medium was gently pipetted to the bottom of the flask in order to recover all the cells and homogenize them. 1 mL of the cell suspension was transferred into 10 mL fresh complete DMEM in a new culture flask which was then placed back in the incubator. The cells would reach approximately 80\% confluency before the next passaging.
 
 Cells used for BioID experiments were cultured in SILAC DMEM (Life Technologies) complemented with glutamine (Glutamax, Life Technologies), pyruvate (Life Technologies), non-essential amino acids (Life Technologies) and 10\% dialyzed fetal bovine serum (Pan-Biotech). In addition, L-arginine (Arg0, Sigma-Aldrich) and L-lysine (Lys0, Sigma-Aldrich) were added to the Light SILAC DMEM to a final concentration of 0.199 mM and 0.339 mM, respectively. Alternatively, Arg6 and Lys4 or Arg10 and Lys8 were added in place of their Light counterparts to make Medium-heavy SILAC DMEM and Heave SILAC DMEM, respectively. PBS-EDTA (Lonza) was used to detach the cells when passaging to avoid isotope contamination. After six passages cells were fully labeled as assessed by MS.
 % From Koshi: stock conc. are Lys 0.798M, Arg 0.398M (my dilution is 1:2000). DMEM conc: Lys 146mg/L, Arg 84mg/L; if 1:3000 dilution, final conc. should be 1/4 of standard DMEM conc.
@@ -53,7 +56,6 @@ Before transferring a PVDF membrane (Merck Millipore) was activated in methanol 
 
 After transferring the membrane was blocked in 5\% milk powder in TBST (150 mM sodium chloride, 20 mM Tris-HCl, 0.1\% Tween-20, pH 7.6) at room temperature for 30 min. The membrane was then incubated with the primary antibody diluted in blocking buffer while rotating at \SI{4}{\celsius}. The membrane was washed 3 times for 5 min in TBST before being incubated at room temperature for 1 hr with the HRP-conjugated secondary antibody diluted in blocking buffer. The membrane was washed again before the chemiluminescence substrate (PerkinElmer) was applied to the membrane. The chemiluminescent signals were captured using a ChemiDoc MP Imaging System (Bio-Rad) and analyzed with Image Lab 5.2.1. The primary and secondary antibodies used in this thesis are summarized in Table~\ref{tab:antibodies}.
 \begin{table}[h]
-\captionsetup{font=normalsize}
 \caption{Antibodies used for Western blotting and their dilutions.}
 \label{tab:antibodies}
 \small
@@ -94,7 +96,7 @@ The resulting raw files were analyzed using MaxQuant 1.5.2.8~\cite{Cox}. The ref
 \normalfont Prior to staining, cell culture medium was aspirated and cells were briefly washed with pre-warmed PBS. The cells were fixed in 4\% PFA for 15 min at room temperature before being washed 3 times for 5 min in PBS. To permeabilize cells and block unspecific binding sites the cells were incubated for 1 hr at room temperature in blocking buffer [5\% goat serum (Sigma-Aldrich), 0.3\% Triton X-100 (Sigma-Aldrich) in PBS]. The primary antibody was diluted in antibody dilution buffer [1\% BSA - Fraction V (Sigma-Aldrich), 0.3\% Triton X-100 in PBS], as indicated in Table~\ref{tab:IF}. The coverslips were placed face-down on droplets of 50 {}\textmu L primary antibody solution on a piece of parafilm in a dark humid chamber. After 1 hr incubation at room temperature, the coverslips were placed face-up in the plate and washed 3 times for 5 min in PBS. Similarly, the coverslips were incubated with secondary antibody solution for 1 hr at room temperature in the humid chamber before being washed for 5 min in PBS. The coverslips were then counterstained with DAPI (0.1 {}\textmu g/mL in PBS, Sigma-Aldrich) for 3 min and washed for 10 min in PBS. Finally, the coverslips were rinsed briefly in MilliQ H\textsubscript{2}O and mounted with ProLong Gold Antifade Mountant (Life Technologies) on slides. After overnight incubation, the slides were stored at \SI{4}{\celsius} in the dark.
 
 \begin{table}[h]
-\captionsetup{font=normalsize}
+%\captionsetup{font=normalsize}
 \caption{Antibodies for immunofluorescence and their dilutions.}
 \label{tab:IF}
 \small
@@ -114,10 +116,10 @@ Donkey anti-Rabbit IgG (H+L) & Invitrogen & 1:500 & Alexa Fluor 568 \\
 \bottomrule
 \end{tabular*}
 \end{table}
-Images in this thesis were acquired using Leica DMI6600 confocal laser scanning microscope with an HCX PL APO 63.0$\times$/1.40 oil objective. As summarized in Table~\ref{tab:laser}, fluorophores were excited using 405 nm laser diode, Argon 488 nm laser (20\% power) or DPSS 561 nm laser and detected using photomultiplier tubes (PMT). The pinhole diameter was set to 95.6 {}\textmu m, scanning mode was unidirectional, line average was 2, sampling speed was 400 Hz, and zoom was 5. The voxel size was set to 48.1 nm (width) $\times$ 48.1 nm (height) $\times$ 125.9 nm (depth).
+Images in this thesis were acquired using Leica DMI6600 confocal laser scanning microscope with an HCX PL APO 63.0$\times$/1.40 oil objective. As summarized in Table~\ref{tab:laser}, fluorophores were excited using 405 nm laser diode, Argon 488 nm laser (20\% power) or DPSS 561 nm laser and detected using photomultiplier tubes (PMT). The pinhole diameter was set to 95.6 {}\textmu m, scanning mode was unidirectional, line average was 2, sampling speed was 400 Hz. For co-localization studies the zoom was set to 5 and the voxel size was 48.1 nm (width) $\times$ 48.1 nm (height) $\times$ 125.9 nm (depth).
 
 \begin{table}[h]
-\captionsetup{font=normalsize}
+%\captionsetup{font=normalsize}
 \caption{Settings for fluorescence excitation and detection.}
 \label{tab:laser}
 \small
@@ -132,7 +134,7 @@ Alexa 568 & 561 nm & 15.00\% & 580-710 nm & 619 V & -1\\
 \bottomrule
 \end{tabular*}
 \end{table}
-The z-stack confocal microscopy images were further analyzed using ImageJ 1.51j. The stack viewing and color options were set as the default configuration of the Bio-Formats plugin. One z slice was selected in each image to represent all stacks. The brightness and contrast of the channels were uniformly adjusted in each staining experiment.
+The z-stack confocal microscopy images were further analyzed using ImageJ 1.51j. The stack viewing and color options were set as the default configuration of the Bio-Formats plugin. One z slice was selected in each image to represent all stacks. The brightness and contrast of the channels were uniformly adjusted in each staining experiment and a 10 {}\textmu m scale bar was added to the images.
 %----------------------------------------------------------------------------------------
 
 % Define some commands to keep the formatting separated from the content 

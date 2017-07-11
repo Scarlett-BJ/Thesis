@@ -45,7 +45,9 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{times} % Use the Palatino font by default
 \usepackage{textgreek}
 \usepackage{textcomp}
+%\usepackage{titlesec}
 \usepackage{caption}
+\usepackage[calcwidth = \linewidth, labelfont = bf, textfont=bf]{caption}
 %\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 
 %\addbibresource{main.bib} % The filename of the bibliography
@@ -59,6 +61,8 @@ headsepline, % Uncomment to get a line under the header
 %\usepackage{hyperref}
 \def\bibsection{\section*{\refname}} 
 \sisetup{detect-all}
+\captionsetup{font=normalsize,width=\columnwidth}
+%\titleformat*{\section}{\Large\bfseries}
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
 %----------------------------------------------------------------------------------------
@@ -207,7 +211,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 
 \listoffigures % Prints the list of figures
 
-%\listoftables % Prints the list of tables
+\listoftables % Prints the list of tables
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
@@ -239,6 +243,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 \textbf{CSF} & Cerebrospinal fluid\\
 \textbf{DAPI} & 4',6-Diamidino-2-phenylindole\\
 \textbf{DMEM} & Dulbecco's modified Eagle's medium\\
+\textbf{DOX} & Doxycycline\\
 \textbf{DPSS} & Diode-pumped solid-state\\
 \textbf{DTT} & Dithiothreitol\\
 \textbf{EDTA} & Ethylenediaminetetraacetic acid\\
@@ -266,6 +271,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 \textbf{TFA} & Trifluoroacetic acid\\
 \textbf{TGN} & Trans-Golgi network\\
 \textbf{Tris} & Tris(hydroxymethyl)aminomethane\\
+\textbf{WT} & Wild-type\\
 
 \end{abbreviations}
 
