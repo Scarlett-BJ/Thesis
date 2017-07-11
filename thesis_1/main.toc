@@ -7,9 +7,10 @@
 \contentsline {chapter}{\numberline {2}Materials and methods}{3}{chapter.8}
 \contentsline {chapter}{\numberline {3}Results}{11}{chapter.14}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {3.1}Expression of GLUT1 in stable inducible cell lines}{11}{section.15}
-\contentsline {section}{\numberline {3.2}Proximity labeling of GLUT1 variants}{11}{section.16}
-\contentsline {section}{\numberline {3.3}Subcellular localization study of GLUT1 variants}{11}{section.17}
-\contentsline {chapter}{\numberline {4}Discussion}{13}{chapter.18}
-\contentsline {chapter}{Acknowledgements}{17}{section*.21}
-\contentsline {chapter}{Literature}{19}{section*.22}
+\contentsline {section}{\numberline {3.1}Assessment of GLUT1 inducible expression}{11}{section.15}
+\contentsline {section}{\numberline {3.2}Subcellular localization of GLUT1 variants}{11}{section.16}
+\contentsline {section}{\numberline {3.3}Proximity labeling of GLUT1 variants}{11}{section.17}
+\contentsline {section}{\numberline {3.4}Co-localization study of GLUT1 variants}{11}{section.18}
+\contentsline {chapter}{\numberline {4}Discussion}{13}{chapter.19}
+\contentsline {chapter}{Acknowledgements}{17}{section*.22}
+\contentsline {chapter}{Literature}{19}{section*.23}

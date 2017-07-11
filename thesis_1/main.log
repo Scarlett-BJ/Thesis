@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  10 JUL 2017 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  11 JUL 2017 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2150,7 +2150,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \c__siunitx_mathtt_int=\count168
 
 1: section
-<Figures/Charite.pdf, id=52, 95.35625pt x 37.13875pt>
+<Figures/Charite.pdf, id=56, 95.35625pt x 37.13875pt>
 File: Figures/Charite.pdf Graphic file (type pdf)
 
 <use Figures/Charite.pdf>
@@ -2158,7 +2158,7 @@ Package pdftex.def Info: Figures/Charite.pdf used on input line 115.
 (pdftex.def)             Requested size: 95.356pt x 37.13866pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 117.
- <Figures/molmed.pdf, id=53, 77.28876pt x 61.22874pt>
+ <Figures/molmed.pdf, id=57, 77.28876pt x 61.22874pt>
 File: Figures/molmed.pdf Graphic file (type pdf)
 
 <use Figures/molmed.pdf>
@@ -2243,14 +2243,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
  (./Chapters/Chapter2.tex
 Chapter 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
+(Font)              <10.95> on input line 15.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
-<Figures/vectors.png, id=197, 383.93437pt x 289.83281pt>
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+<Figures/vectors.png, id=202, 383.93437pt x 289.83281pt>
 File: Figures/vectors.png Graphic file (type png)
 
 <use Figures/vectors.png>
-Package pdftex.def Info: Figures/vectors.png used on input line 28.
+Package pdftex.def Info: Figures/vectors.png used on input line 29.
 (pdftex.def)             Requested size: 345.53773pt x 260.8471pt.
 
 
@@ -2262,18 +2262,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ]
-Overfull \hbox (2.2701pt too wide) in paragraph at lines 38--40
-\T1/ptm/m/n/12 nolo-gies) com-ple-mented with glu-tamine (Glu-ta-max, Life Tech
--nolo-gies), pyru-vate (Life Tech-
- []
-
-[4 <./Figures/vectors.png>]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 43.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 44.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [5] [6]
-[7] [8]) [9]
+) [4 <./Figures/vectors.png>] [5] [6] [7]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]) [9]
 \openout2 = `Chapters/Chapter3.aux'.
 
  (./Chapters/Chapter3.tex [10
@@ -2314,7 +2310,7 @@ Chapter 4.
  Literature
 --------------------
 
-Package natbib Warning: Citation `apsrev41Control' undefined on input line 297.
+Package natbib Warning: Citation `apsrev41Control' undefined on input line 299.
 
 
 (./main.bbl
@@ -2329,25 +2325,25 @@ tenberg,
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
 [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
  (./main.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
 (./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0B4CE5926E0E7302C48C8AD5359D839B;1990.
+(rerunfilecheck)             Checksum: 92720E3BF09710BB99FA27D42FD565C2;2160.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27665 strings out of 493014
- 561443 string characters out of 6133352
- 569688 words of memory out of 5000000
- 30851 multiletter control sequences out of 15000+600000
+ 27667 strings out of 493014
+ 561457 string characters out of 6133352
+ 569692 words of memory out of 5000000
+ 30852 multiletter control sequences out of 15000+600000
  56990 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,20n,72p,10377b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2360,10 +2356,10 @@ ive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on main.pdf (29 pages, 241754 bytes).
+Output written on main.pdf (29 pages, 242702 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 286 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
