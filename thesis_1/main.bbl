@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{18}%
+\begin{thebibliography}{23}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -378,6 +378,27 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
   Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
   (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fehr}\ and\ \citenamefont {Yu}(2010)}]{Fehr}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont
+  {Fehr}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Yu}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Human cytomegalovirus gene
+  ul21a encodes a short-lived cytoplasmic protein and facilitates virus
+  replication in fibroblasts},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Journal of Virology}\ }\textbf {\bibinfo {volume} {84}},\
+  \bibinfo {pages} {291--302} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Rappsilber}\ \emph {et~al.}(2007)\citenamefont
+  {Rappsilber}, \citenamefont {Mann},\ and\ \citenamefont
+  {Ishihama}}]{Rappsilber}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Rappsilber}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Mann}}, \
+  and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Ishihama}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Protocol for
+  micro-purification, enrichment, pre-fractionation and storage of peptides for
+  proteomics using stagetips},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Nature Protoccols}\ }\textbf {\bibinfo {volume} {2}},\ \bibinfo
+  {pages} {1896--1906} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Cox}\ \emph {et~al.}(2014)\citenamefont {Cox},
   \citenamefont {Hein}, \citenamefont {Luber}, \citenamefont {Paron},
   \citenamefont {Nagaraj},\ and\ \citenamefont {Mann}}]{Cox}%
@@ -391,6 +412,42 @@
   {\bibinfo {title} {Accurate proteome-wide label-free quantification by
   delayed normalization and maximal peptide ratio extraction, termed
   {M}ax{LFQ}},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Molecular \& Cellular Proteomics : MCP}\ }\textbf {\bibinfo {volume} {13}},\
+  {Molecular \& Cellular Proteomics: MCP}\ }\textbf {\bibinfo {volume} {13}},\
   \bibinfo {pages} {2513--2526} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hillen}\ and\ \citenamefont {Berens}(1994)}]{Hillen}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Hillen}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Berens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Mechanisms
+  underlying expression of tn10 encoded tetracycline resistance},}\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {Annual Review of
+  Microbiology}\ }\textbf {\bibinfo {volume} {48}},\ \bibinfo {pages}
+  {345--369} (\bibinfo {year} {1994})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Xu}\ \emph {et~al.}(2003)\citenamefont {Xu},
+  \citenamefont {Mizuguchi}, \citenamefont {Mayumi},\ and\ \citenamefont
+  {Hayakawa}}]{Xu}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.-L.}\ \bibnamefont
+  {Xu}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Mizuguchi}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Mayumi}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Hayakawa}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Regulated gene expression from adenovirus
+  vectors: a systematic comparison of various inducible systems},}\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {Gene}\ }\textbf {\bibinfo
+  {volume} {309}},\ \bibinfo {pages} {145 -- 151} (\bibinfo {year}
+  {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zel'tser}\ \emph {et~al.}(1978)\citenamefont
+  {Zel'tser}, \citenamefont {Balabanova}, \citenamefont {Lapchinskaia},
+  \citenamefont {Anufrieva},\ and\ \citenamefont {Gerasimova}}]{Zeltser}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~Z.}\ \bibnamefont
+  {Zel'tser}}, \bibinfo {author} {\bibfnamefont {E.~L.}\ \bibnamefont
+  {Balabanova}}, \bibinfo {author} {\bibfnamefont {A.~V.}\ \bibnamefont
+  {Lapchinskaia}}, \bibinfo {author} {\bibfnamefont {R.~G.}\ \bibnamefont
+  {Anufrieva}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~S.}\ \bibnamefont
+  {Gerasimova}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Comparative
+  toxicity of oxytetracycline and its semisynthetic derivatives, methacycline
+  and doxycycline},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Antibiotiki}\ }\textbf {\bibinfo {volume} {23}},\ \bibinfo {pages}
+  {533--536} (\bibinfo {year} {1978})}\BibitemShut {NoStop}%
 \end{thebibliography}%
