@@ -49,6 +49,7 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{caption}
 \usepackage[calcwidth = \linewidth, labelfont = bf, textfont=bf]{caption}
 \usepackage{ragged2e}
+\usepackage[section]{placeins}
 %\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 
 %\addbibresource{main.bib} % The filename of the bibliography
@@ -236,7 +237,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 %----------------------------------------------------------------------------------------
 
 \begin{abbreviations}{ll} % Include a list of abbreviations (a table of two columns)
-
+\addchaptertocentry{\abbrevname}
 \textbf{ABC} & Ammonium bicarbonate\\
 \textbf{AGC} & Automatic gain control\\
 \textbf{BAF} & Bafilomycin A1\\
@@ -262,6 +263,7 @@ In this study we used stable inducible HEK293 cells to further investigate the e
 \textbf{IAA} & Iodoacemtamide\\
 \textbf{IgG} & Immunoglobulin G\\
 \textbf{LAMP1} & Lysosomal-associated membrane protein 1\\
+\textbf{LC3} & Microtubule-associated protein 1A/1B-light chain 3\\
 \textbf{MS} & Mass spectrometry\\
 \textbf{MS/MS} & Tandem mass spectrometry\\
 \textbf{PBS} & Phosphate-buffered saline\\

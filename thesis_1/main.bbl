@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{23}%
+\begin{thebibliography}{32}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -60,8 +60,8 @@
   {\bibfnamefont {L.}~\bibnamefont {Shi}}, \bibinfo {author} {\bibfnamefont
   {H.}~\bibnamefont {Yang}}, \ and\ \bibinfo {author} {\bibfnamefont {D.~C.}\
   \bibnamefont {De~Vivo}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Structural signatures and membrane helix 4 in glut1: inferences from human
-  blood-brain glucose transport mutants},}\ }\href@noop {} {\bibfield
+  {Structural signatures and membrane helix 4 in {GLUT}1: inferences from human
+  blood-brain glucose transport mutants.}}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {The Journal of Biological Chemistry}\
   }\textbf {\bibinfo {volume} {283}},\ \bibinfo {pages} {16732--16742}
   (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
@@ -69,7 +69,7 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
   {Mueckler}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Facilitative
-  glucose transporters},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  glucose transporters.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {European Journal of Biochemistry}\ }\textbf {\bibinfo {volume}
   {219}},\ \bibinfo {pages} {713--725} (\bibinfo {year} {1994})}\BibitemShut
   {NoStop}%
@@ -77,19 +77,19 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
   {Uldry}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
-  {Thorens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The slc2 family
-  of facilitated hexose and polyol transporters},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Pfl{\"u}gers Archiv}\ }\textbf {\bibinfo
-  {volume} {447}},\ \bibinfo {pages} {480--489} (\bibinfo {year}
+  {Thorens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The {SLC}2
+  family of facilitated hexose and polyol transporters.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Pfl{\"u}gers Archiv}\ }\textbf
+  {\bibinfo {volume} {447}},\ \bibinfo {pages} {480--489} (\bibinfo {year}
   {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Lee}\ and\ \citenamefont {Klip}(2012)}]{Lee}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.~L.}\ \bibnamefont
   {Lee}}\ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Klip}},\
   }\bibfield  {title} {\enquote {\bibinfo {title} {Shuttling glucose across
-  brain microvessels, with a little help from glut1 and amp kinase. focus on
-  'amp kinase regulation of sugar transport in brain capillary endothelial
-  cells during acute metabolic stress'},}\ }\href@noop {} {\bibfield  {journal}
+  brain microvessels, with a little help from {GLUT}1 and {AMP} kinase. focus
+  on '{AMP} kinase regulation of sugar transport in brain capillary endothelial
+  cells during acute metabolic stress'.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {American Journal of Physiology - Cell Physiology}\
   }\textbf {\bibinfo {volume} {303}},\ \bibinfo {pages} {C803--C805} (\bibinfo
   {year} {2012})}\BibitemShut {NoStop}%
@@ -99,25 +99,26 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont
   {Wheeler}}\ and\ \bibinfo {author} {\bibfnamefont {P.~C.}\ \bibnamefont
   {Hinkle}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The glucose
-  transporter of mammalian cells},}\ }\href@noop {} {\bibfield  {journal}
+  transporter of mammalian cells.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {Annual Review of Physiology}\ }\textbf {\bibinfo
   {volume} {47}},\ \bibinfo {pages} {503--517} (\bibinfo {year}
   {1985})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Paul W.~Hruz}(2001)}]{Paul-W.-Hruz}%
+\bibitem [{\citenamefont {Paul W.~Hruz}(2001{\natexlab{a}})}]{Paul-W.-Hruz}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M.~M.}\
   \bibnamefont {Paul W.~Hruz}},\ }\bibfield  {title} {\enquote {\bibinfo
-  {title} {Structural analysis of the glut1 facilitative glucose
-  transporter},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {title} {Structural analysis of the {GLUT}1 facilitative glucose
+  transporter.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Molecular Membrane Biology}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
-  {pages} {183--193} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+  {pages} {183--193} (\bibinfo {year} {2001}{\natexlab{a}})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Duelli}\ and\ \citenamefont
   {Kuschinsky}(2001)}]{Duelli}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
   {Duelli}}\ and\ \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
   {Kuschinsky}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Brain
-  glucose transporters: relationship to local energy demand},}\ }\href@noop {}
+  glucose transporters: relationship to local energy demand.}}\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Physiology}\ }\textbf {\bibinfo
   {volume} {16}},\ \bibinfo {pages} {71} (\bibinfo {year} {2001})}\BibitemShut
   {NoStop}%
@@ -134,7 +135,7 @@
   \bibinfo {author} {\bibfnamefont {S.~I.}\ \bibnamefont {Harik}},\ }\bibfield
   {title} {\enquote {\bibinfo {title} {Defective glucose transport across the
   blood-brain barrier as a cause of persistent hypoglycorrhachia, seizures, and
-  developmental delay},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  developmental delay.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {New England Journal of Medicine}\ }\textbf {\bibinfo {volume}
   {325}},\ \bibinfo {pages} {703--709} (\bibinfo {year} {1991})}\BibitemShut
   {NoStop}%
@@ -151,7 +152,7 @@
   {\bibfnamefont {C.}~\bibnamefont {Kutzick}}, \bibinfo {author} {\bibfnamefont
   {A.}~\bibnamefont {Fl{\"o}rcken}}, \ and\ \bibinfo {author} {\bibfnamefont
   {T.}~\bibnamefont {Voit}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Autosomal dominant transmission of glut1 deficiency},}\ }\href@noop {}
+  {Autosomal dominant transmission of {GLUT}1 deficiency.}}\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Human Molecular Genetics}\
   }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {63--68} (\bibinfo
   {year} {2001})}\BibitemShut {NoStop}%
@@ -241,7 +242,7 @@
   and\ \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont {Willemsen}},\
   }\bibfield  {title} {\enquote {\bibinfo {title} {Glucose transporter-1
   deficiency syndrome: the expanding clinical and genetic spectrum of a
-  treatable disorder},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  treatable disorder.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Brain}\ }\textbf {\bibinfo {volume} {133}},\ \bibinfo {pages}
   {655--670} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Suls}\ \emph {et~al.}(2008)\citenamefont {Suls},
@@ -282,17 +283,17 @@
   {\bibfnamefont {P.}~\bibnamefont {De~Jonghe}}, \ and\ \bibinfo {author}
   {\bibfnamefont {W.}~\bibnamefont {Van~Paesschen}},\ }\bibfield  {title}
   {\enquote {\bibinfo {title} {Paroxysmal exercise-induced dyskinesia and
-  epilepsy is due to mutations in slc2a1, encoding the glucose transporter
-  glut1},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Brain}\
-  }\textbf {\bibinfo {volume} {131}},\ \bibinfo {pages} {1831--1844} (\bibinfo
-  {year} {2008})}\BibitemShut {NoStop}%
+  epilepsy is due to mutations in {SLC}2{A}1, encoding the glucose transporter
+  {GLUT}1.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Brain}\ }\textbf {\bibinfo {volume} {131}},\ \bibinfo {pages} {1831--1844}
+  (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Klepper}\ and\ \citenamefont
   {Leiendecker}(2007)}]{Klepper.2}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
   {Klepper}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
-  {Leiendecker}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Glut1
-  deficiency syndrome--2007 update},}\ }\href@noop {} {\bibfield  {journal}
+  {Leiendecker}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {{GLUT}1
+  deficiency syndrome--2007 update.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {Developmental Medicine and Child Neurology}\ }\textbf
   {\bibinfo {volume} {49}},\ \bibinfo {pages} {707--716} (\bibinfo {year}
   {2007})}\BibitemShut {NoStop}%
@@ -303,8 +304,8 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
   {Slaughter}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
   {Vartzelis}}, \ and\ \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Arthur}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {New glut-1
-  mutation in a child with treatment-resistant epilepsy},}\ }\href@noop {}
+  {Arthur}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {New {GLUT}-1
+  mutation in a child with treatment-resistant epilepsy.}}\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Epilepsy Research}\ }\textbf
   {\bibinfo {volume} {84}},\ \bibinfo {pages} {254--256} (\bibinfo {year}
   {2009})}\BibitemShut {NoStop}%
@@ -312,7 +313,7 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~N.}\ \bibnamefont
   {Pandey}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Functional roles
-  of short sequence motifs in the endocytosis of membrane receptors},}\
+  of short sequence motifs in the endocytosis of membrane receptors.}}\
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Frontiers in
   Bioscience (Landmark Ed)}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo
   {pages} {5339--5360} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
@@ -349,11 +350,11 @@
   {L.}~\bibnamefont {Welti}}, \bibinfo {author} {\bibfnamefont {N.~E.}\
   \bibnamefont {Davey}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
   {Diella}}, \ and\ \bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont
-  {Gibson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Elm 2016---data
-  update and new functionality of the eukaryotic linear motif resource},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nucleic Acids
-  Research}\ }\textbf {\bibinfo {volume} {44}},\ \bibinfo {pages} {D294--D300}
-  (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+  {Gibson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {{ELM}
+  2016---data update and new functionality of the eukaryotic linear motif
+  resource.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nucleic Acids Research}\ }\textbf {\bibinfo {volume} {44}},\ \bibinfo
+  {pages} {D294--D300} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Couzens}\ \emph {et~al.}(2013)\citenamefont
   {Couzens}, \citenamefont {Knight}, \citenamefont {Kean}, \citenamefont {Teo},
   \citenamefont {Weiss}, \citenamefont {Dunham}, \citenamefont {Lin},
@@ -374,7 +375,7 @@
   {\bibfnamefont {H.}~\bibnamefont {Choi}}, \ and\ \bibinfo {author}
   {\bibfnamefont {A.-C.}\ \bibnamefont {Gingras}},\ }\bibfield  {title}
   {\enquote {\bibinfo {title} {Protein interaction network of the mammalian
-  hippo pathway reveals mechanisms of kinase-phosphatase interactions},}\
+  {H}ippo pathway reveals mechanisms of kinase-phosphatase interactions.}}\
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
   Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
   (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
@@ -383,8 +384,8 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont
   {Fehr}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Yu}},\
   }\bibfield  {title} {\enquote {\bibinfo {title} {Human cytomegalovirus gene
-  ul21a encodes a short-lived cytoplasmic protein and facilitates virus
-  replication in fibroblasts},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {UL}21a encodes a short-lived cytoplasmic protein and facilitates virus
+  replication in fibroblasts.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
    {journal} {Journal of Virology}\ }\textbf {\bibinfo {volume} {84}},\
   \bibinfo {pages} {291--302} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Rappsilber}\ \emph {et~al.}(2007)\citenamefont
@@ -396,9 +397,9 @@
   and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Ishihama}},\
   }\bibfield  {title} {\enquote {\bibinfo {title} {Protocol for
   micro-purification, enrichment, pre-fractionation and storage of peptides for
-  proteomics using stagetips},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Nature Protoccols}\ }\textbf {\bibinfo {volume} {2}},\ \bibinfo
-  {pages} {1896--1906} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+  proteomics using {S}tage{T}ips.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature Protoccols}\ }\textbf {\bibinfo {volume} {2}},\
+  \bibinfo {pages} {1896--1906} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Cox}\ \emph {et~al.}(2014)\citenamefont {Cox},
   \citenamefont {Hein}, \citenamefont {Luber}, \citenamefont {Paron},
   \citenamefont {Nagaraj},\ and\ \citenamefont {Mann}}]{Cox}%
@@ -411,7 +412,7 @@
   {\bibfnamefont {M.}~\bibnamefont {Mann}},\ }\bibfield  {title} {\enquote
   {\bibinfo {title} {Accurate proteome-wide label-free quantification by
   delayed normalization and maximal peptide ratio extraction, termed
-  {M}ax{LFQ}},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {M}ax{LFQ}.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Molecular \& Cellular Proteomics: MCP}\ }\textbf {\bibinfo {volume} {13}},\
   \bibinfo {pages} {2513--2526} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Hillen}\ and\ \citenamefont {Berens}(1994)}]{Hillen}%
@@ -419,8 +420,8 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
   {Hillen}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
   {Berens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Mechanisms
-  underlying expression of tn10 encoded tetracycline resistance},}\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {Annual Review of
+  underlying expression of {T}n10 encoded tetracycline resistance.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Annual Review of
   Microbiology}\ }\textbf {\bibinfo {volume} {48}},\ \bibinfo {pages}
   {345--369} (\bibinfo {year} {1994})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Xu}\ \emph {et~al.}(2003)\citenamefont {Xu},
@@ -432,7 +433,7 @@
   \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Mayumi}}, \ and\ \bibinfo
   {author} {\bibfnamefont {T.}~\bibnamefont {Hayakawa}},\ }\bibfield  {title}
   {\enquote {\bibinfo {title} {Regulated gene expression from adenovirus
-  vectors: a systematic comparison of various inducible systems},}\ }\href@noop
+  vectors: a systematic comparison of various inducible systems.}}\ }\href@noop
   {} {\bibfield  {journal} {\bibinfo  {journal} {Gene}\ }\textbf {\bibinfo
   {volume} {309}},\ \bibinfo {pages} {145 -- 151} (\bibinfo {year}
   {2003})}\BibitemShut {NoStop}%
@@ -447,7 +448,128 @@
   {Anufrieva}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~S.}\ \bibnamefont
   {Gerasimova}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Comparative
   toxicity of oxytetracycline and its semisynthetic derivatives, methacycline
-  and doxycycline},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  and doxycycline.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Antibiotiki}\ }\textbf {\bibinfo {volume} {23}},\ \bibinfo {pages}
   {533--536} (\bibinfo {year} {1978})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pham}\ \emph {et~al.}(2008)\citenamefont {Pham},
+  \citenamefont {Moretti}, \citenamefont {Goodall},\ and\ \citenamefont
+  {Pitson}}]{Pham}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~H.}\ \bibnamefont
+  {Pham}}, \bibinfo {author} {\bibfnamefont {P.~A.~B.}\ \bibnamefont
+  {Moretti}}, \bibinfo {author} {\bibfnamefont {G.~J.}\ \bibnamefont
+  {Goodall}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~M.}\ \bibnamefont
+  {Pitson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Attenuation of
+  leakiness in doxycycline-inducible expression via incorporation of 3'
+  {AU}-rich m{RNA} destabilizing elements.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Biotechniques}\ }\textbf {\bibinfo {volume}
+  {45}},\ \bibinfo {pages} {155--156} (\bibinfo {year} {2008})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Senkel}\ \emph {et~al.}(2009)\citenamefont {Senkel},
+  \citenamefont {Waldner}, \citenamefont {Ryffel},\ and\ \citenamefont
+  {Thomas}}]{Senkel}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Senkel}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Waldner}},
+  \bibinfo {author} {\bibfnamefont {G.~U.}\ \bibnamefont {Ryffel}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Thomas}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {Improved conditional expression systems
+  resulting in physiological level of {HNF}4? expression confirm {HNF}4?
+  induced apoptosis in the pancreatic ?-cell line {INS}-1},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {BMC Research Notes}\ }\textbf
+  {\bibinfo {volume} {2}},\ \bibinfo {pages} {210--210} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tanida}\ \emph {et~al.}(2005)\citenamefont {Tanida},
+  \citenamefont {Minematsu-Ikeguchi}, \citenamefont {Ueno},\ and\ \citenamefont
+  {Kominami}}]{Tanida}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Tanida}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Minematsu-Ikeguchi}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Ueno}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Kominami}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Lysosomal
+  turnover, but not a cellular level, of endogenous {LC}3 is a marker for
+  autophagy.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Autophagy}\ }\textbf {\bibinfo {volume} {1}},\ \bibinfo {pages} {84--91}
+  (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lee}\ and\ \citenamefont {Goldberg}(2017)}]{Lee.2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~H.}\ \bibnamefont
+  {Lee}}\ and\ \bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
+  {Goldberg}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Proteasome
+  inhibitors: valuable new tools for cell biologists},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Trends in Cell Biology}\ }\textbf
+  {\bibinfo {volume} {8}},\ \bibinfo {pages} {397--403} (\bibinfo {year}
+  {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Yamamoto}\ \emph {et~al.}(1998)\citenamefont
+  {Yamamoto}, \citenamefont {Tagawa}, \citenamefont {Yoshimori}, \citenamefont
+  {Moriyama}, \citenamefont {Masaki},\ and\ \citenamefont
+  {Tashiro}}]{Yamamoto}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Yamamoto}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Tagawa}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Yoshimori}}, \bibinfo
+  {author} {\bibfnamefont {Y.}~\bibnamefont {Moriyama}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Masaki}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {Y.}~\bibnamefont {Tashiro}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Bafilomycin {A}1 prevents maturation of autophagic
+  vacuoles by inhibiting fusion between autophagosomes and lysosomes in rat
+  hepatoma cell line, h-4-ii-e cells.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Cell Structure and Function}\ }\textbf {\bibinfo
+  {volume} {23}},\ \bibinfo {pages} {33--42} (\bibinfo {year}
+  {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Klionsky}\ \emph {et~al.}(2008)\citenamefont
+  {Klionsky}, \citenamefont {Elazar}, \citenamefont {Seglen},\ and\
+  \citenamefont {Rubinsztein}}]{Klionsky}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~J.}\ \bibnamefont
+  {Klionsky}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Elazar}},
+  \bibinfo {author} {\bibfnamefont {P.~O.}\ \bibnamefont {Seglen}}, \ and\
+  \bibinfo {author} {\bibfnamefont {D.~C.}\ \bibnamefont {Rubinsztein}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Does bafilomycin {A}1 block
+  the fusion of autophagosomes with lysosomes?}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Autophagy}\ }\textbf {\bibinfo {volume}
+  {4}},\ \bibinfo {pages} {849--850} (\bibinfo {year} {2008})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Mueckler}\ \emph {et~al.}(1985)\citenamefont
+  {Mueckler}, \citenamefont {Caruso}, \citenamefont {Baldwin}, \citenamefont
+  {Panico}, \citenamefont {Blench}, \citenamefont {Morris}, \citenamefont
+  {Allard}, \citenamefont {Lienhard},\ and\ \citenamefont
+  {Lodish}}]{Mueckler.2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Mueckler}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Caruso}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Baldwin}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Panico}}, \bibinfo {author}
+  {\bibfnamefont {I.}~\bibnamefont {Blench}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Morris}}, \bibinfo {author} {\bibfnamefont
+  {W.}~\bibnamefont {Allard}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Lienhard}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Lodish}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Sequence and structure of a human glucose transporter.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo
+  {volume} {229}},\ \bibinfo {pages} {941--945} (\bibinfo {year}
+  {1985})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hresko}\ \emph {et~al.}(1994)\citenamefont {Hresko},
+  \citenamefont {Kruse}, \citenamefont {Strube},\ and\ \citenamefont
+  {Mueckler}}]{Hresko}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~C.}\ \bibnamefont
+  {Hresko}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Kruse}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Strube}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Mueckler}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Topology of the {G}lut 1 glucose transporter
+  deduced from glycosylation scanning mutagenesis.}}\ }\href@noop {} {\bibfield
+   {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
+  {\bibinfo {volume} {269}},\ \bibinfo {pages} {20482--8} (\bibinfo {year}
+  {1994})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Paul W.~Hruz}(2001{\natexlab{b}})}]{Hruz}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M.~M.}\
+  \bibnamefont {Paul W.~Hruz}},\ }\bibfield  {title} {\enquote {\bibinfo
+  {title} {Structural analysis of the {GLUT}1 facilitative glucose
+  transporter},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Molecular Membrane Biology}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
+  {pages} {183--193} (\bibinfo {year} {2001}{\natexlab{b}})}\BibitemShut
+  {NoStop}%
 \end{thebibliography}%
