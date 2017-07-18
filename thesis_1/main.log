@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  18 JUL 2017 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  18 JUL 2017 22:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2290,12 +2290,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 15.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-<Figures/vectors.png, id=262, 383.93437pt x 289.83281pt>
-File: Figures/vectors.png Graphic file (type png)
+<Figures/vector.pdf, id=262, 615.19644pt x 370.11214pt>
+File: Figures/vector.pdf Graphic file (type pdf)
 
-<use Figures/vectors.png>
-Package pdftex.def Info: Figures/vectors.png used on input line 27.
-(pdftex.def)             Requested size: 345.53773pt x 260.8471pt.
+<use Figures/vector.pdf>
+Package pdftex.def Info: Figures/vector.pdf used on input line 27.
+(pdftex.def)             Requested size: 430.63457pt x 259.07672pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2305,7 +2305,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <Figures/BioID.pdf, id=271, 617.57024pt x 384.56693pt>
+] <Figures/BioID.pdf, id=270, 617.57024pt x 384.56693pt>
 File: Figures/BioID.pdf Graphic file (type pdf)
 
 <use Figures/BioID.pdf>
@@ -2315,8 +2315,8 @@ Package pdftex.def Info: Figures/BioID.pdf used on input line 39.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./Figures/vectors.png>] [5 <./Figures/BioID.pdf>]
-<Figures/treatment.pdf, id=300, 616.60808pt x 229.82643pt>
+[4 <./Figures/vector.pdf>] [5 <./Figures/BioID.pdf>]
+<Figures/treatment.pdf, id=319, 616.60808pt x 229.82643pt>
 File: Figures/treatment.pdf Graphic file (type pdf)
 
 <use Figures/treatment.pdf>
@@ -2332,7 +2332,7 @@ Package pdftex.def Info: Figures/treatment.pdf used on input line 82.
 
 ]
 Chapter 3.
-<Figures/WB.pdf, id=366, 615.35829pt x 415.983pt>
+<Figures/WB.pdf, id=384, 615.35829pt x 415.983pt>
 File: Figures/WB.pdf Graphic file (type pdf)
  <use Figures/WB.pdf>
 Package pdftex.def Info: Figures/WB.pdf used on input line 15.
@@ -2341,7 +2341,7 @@ Package pdftex.def Info: Figures/WB.pdf used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/if.pdf, id=371, 618.0957pt x 547.3753pt>
+<Figures/if.pdf, id=389, 618.0957pt x 547.3753pt>
 File: Figures/if.pdf Graphic file (type pdf)
  <use Figures/if.pdf>
 Package pdftex.def Info: Figures/if.pdf used on input line 29.
@@ -2353,7 +2353,7 @@ Package pdftex.def Info: Figures/if.pdf used on input line 29.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Figures/WB.pdf>] [15 <./Figures/if.pdf>]
-<Figures/wb2.pdf, id=492, 614.56279pt x 223.1282pt>
+<Figures/wb2.pdf, id=510, 614.56279pt x 223.1282pt>
 File: Figures/wb2.pdf Graphic file (type pdf)
  <use Figures/wb2.pdf>
 Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
@@ -2361,13 +2361,13 @@ Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
 
 [16
 
- <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=549, 619.48228pt x 223.07973pt>
+ <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=567, 619.48228pt x 223.07973pt>
 File: Figures/wb3.pdf Graphic file (type pdf)
 
 <use Figures/wb3.pdf>
 Package pdftex.def Info: Figures/wb3.pdf used on input line 57.
 (pdftex.def)             Requested size: 433.63463pt x 156.15474pt.
- <Figures/glut1.pdf, id=555, 618.56865pt x 404.2567pt>
+ <Figures/glut1.pdf, id=573, 618.56865pt x 404.2567pt>
 File: Figures/glut1.pdf Graphic file (type pdf)
 
 <use Figures/glut1.pdf>
@@ -2378,27 +2378,27 @@ Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./Figures/wb3.pdf>]
-<Figures/bioid2.pdf, id=618, 617.47325pt x 429.90532pt>
+<Figures/bioid2.pdf, id=636, 616.5739pt x 399.62247pt>
 File: Figures/bioid2.pdf Graphic file (type pdf)
 
 <use Figures/bioid2.pdf>
 Package pdftex.def Info: Figures/bioid2.pdf used on input line 83.
-(pdftex.def)             Requested size: 432.22833pt x 300.93167pt.
+(pdftex.def)             Requested size: 431.59879pt x 279.73381pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/GO.pdf, id=619, 615.43095pt x 544.16202pt>
+<Figures/GO.pdf, id=637, 617.26097pt x 514.0802pt>
 File: Figures/GO.pdf Graphic file (type pdf)
  <use Figures/GO.pdf>
 Package pdftex.def Info: Figures/GO.pdf used on input line 93.
-(pdftex.def)             Requested size: 430.79872pt x 380.91081pt.
+(pdftex.def)             Requested size: 432.07973pt x 359.85368pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18 <./Figures/glut1.pdf>] [19 <./Figures/bioid2.pdf>] [20 <./Figures/GO.pdf>]
-<Figures/tf.pdf, id=704, 619.43768pt x 396.67938pt>
+<Figures/tf.pdf, id=729, 619.43768pt x 396.67938pt>
 File: Figures/tf.pdf Graphic file (type pdf)
  <use Figures/tf.pdf>
 Package pdftex.def Info: Figures/tf.pdf used on input line 104.
@@ -2436,7 +2436,7 @@ Chapter 4.
  Literature
 --------------------
 
-Package natbib Warning: Citation `apsrev41Control' undefined on input line 325.
+Package natbib Warning: Citation `apsrev41Control' undefined on input line 326.
 
 
 (./main.bbl
@@ -2451,13 +2451,13 @@ tenberg,
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
 [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
  (./main.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
 (./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DEC3FE9C0CFD2492796E42921FA8BF3C;3061.
 
@@ -2466,8 +2466,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27916 strings out of 493014
- 565768 string characters out of 6133352
+ 27915 strings out of 493014
+ 565757 string characters out of 6133352
  571635 words of memory out of 5000000
  31037 multiletter control sequences out of 15000+600000
  52088 words of font info for 73 fonts, out of 8000000 for 9000
@@ -2482,10 +2482,10 @@ ive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on main.pdf (42 pages, 31110413 bytes).
+Output written on main.pdf (42 pages, 31095457 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 672 compressed objects within 7 object streams
+ 868 PDF objects out of 1000 (max. 8388607)
+ 693 compressed objects within 7 object streams
  113 named destinations out of 1000 (max. 500000)
  202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
