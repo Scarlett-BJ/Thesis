@@ -25,7 +25,7 @@ P485L mutation & Forward: CTGTTCCATCTCCTGGGGGCT \newline Reverse: CTCCTCGGGTGTCT
 %\captionsetup{font=normalsize}
 \centering
 \includegraphics[scale=0.9]{Figures/vectors}
-\caption{Graphic map of the recombinant plasmids.}
+\caption{Graphic map of the recombinant plasmid.}
 \label{fig:vectors}
 \end{figure}
 The stable cell lines were stored in cryogenic vials (Croning) in liquid nitrogen. To recover cells, one vial of each cell line was warmed up to \SI{37}{\celsius} and the contents were diluted in 10 mL pre-warmed DMEM (Life Technologies) complemented with 10\% fetal bovine serum (Pan-Biotech). The medium is referred to as complete DMEM in the following. After spinning down at room temperature and 500 rpm for 3 min, the cell pellets were resuspended in 10 mL complete DMEM and seeded in T-75 flasks (CELLSTAR).
@@ -77,9 +77,15 @@ Sheep anti-mouse IgG & GE Healthcare & 1:25 000 & HRP\\
 \end{table}
 \\*
 \bfseries{Transfection and inhibitor treatments}\\
-\normalfont Inhibitor treatment experiments were performed as the doxycycline induction experiments but only with the 24 hr induction time point. In addition to inducing GLUT1 expression with 0.1 \textmu g/mL doxycycline, different inhibitors or DMSO (Biomol) control were added. Lysosomal degradation was inhibited using 250 nM bafilomycin A1 (Invitrogen) in DMSO for 6 hr before the cells were lysed for Western blotting analysis.
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.7]{Figures/treatment}
+\caption{A timeline of inhibition experiments.}
+\label{fig:inhibition}
+\end{figure}
+\normalfont Inhibitor treatment experiments were performed as the doxycycline (DOX) induction experiments but only with the 24 hr induction time point. In addition to inducing GLUT1 expression with 0.1 \textmu g/mL doxycycline, different inhibitors or DMSO (Biomol) control were added. Lysosomal degradation was inhibited using 250 nM bafilomycin A1 (Invitrogen, BAF) in DMSO for 6 hr before the cells were lysed for Western blotting analysis (Figure~\ref{fig:inhibition} A).
 
-Cells for proteosomal inhibition experiments were transfected with UL21a-HA, an HA-epitope tagged HCMV gene, 1 hr after adding doxycycline. In brief, 20 \textmu g UL21a-HA was mixed with 40 \textmu L jetPRIME (Polyplus) in 2 mL jetPRIME (Polyplus) buffer. After incubation for 10 min, 200 \textmu L of the resulting transfection mix was added drop wise onto the cells in each well. On the next day proteasomes were blocked using 20 mM MG132 (Cayman chemical) in DMSO for 6 hr. The cells were then lysed for Western blotting analysis.
+Cells for proteosomal inhibition experiments were transfected with UL21a-HA, an HA-epitope tagged HCMV gene, 1 hr after adding doxycycline. In brief, 20 \textmu g UL21a-HA was mixed with 40 \textmu L jetPRIME (Polyplus) in 2 mL jetPRIME (Polyplus) buffer. After incubation for 10 min, 200 \textmu L of the resulting transfection mix was added drop wise onto the cells in each well. On the next day proteasomes were blocked using 20 mM MG132 (Cayman chemical) in DMSO for 6 hr. The cells were then lysed for Western blotting analysis (Figure~\ref{fig:inhibition} B). The cellular levels of UL21a were taken as the positive control for the inhibitory effect of MG132 treatment.
 \\
 \\*
 \bfseries{BioID and MS analysis}\\
@@ -91,7 +97,9 @@ The beads were then carefully washed twice in RIPA buffer and twice in TAP lysis
 
 Peptides were separated on a reverse-phase column on a High Performance Liquid Chromatography (HPLC) system (ThermoScientific) with a gradient set up as the following ratios of buffer B in buffer A: 2 min at 250 {}\textmu L/min with a linear gradient from 5\% to 6\% buffer B, 18 min at 200 {}\textmu L/min from 6\% to 8\%, 80 min at 200 {}\textmu L/min from 8\% to 20\%, 80 min at 200 {}\textmu L/min from 20\% to 33\%, 20 min at 200 {}\textmu L/min from 33\% to 45\%, 2 min at 200 {}\textmu L/min from 45\% to 60\%, 1 min at 250 {}\textmu L/min from 60\% to 95\%, 5 min at 250 {}\textmu L/min with 95\% buffer B, 1 min at 250 {}\textmu L/min from 95\% to 75\%, and 5 min at 250 {}\textmu L/min at 75\% buffer B. Peptides were ionized using an electrospray ionization source (ThermoScientific) and analyzed on a Q-Exactive Plus Orbitrap instrument (ThermoScientific). The mass spectrometer was operated with Xcalibur in data-dependent acquisition mode with the following parameters: a full MS scan (resolution: 70 000, scan range: 300 to 1700 m/z, AGC target: 1 000 000 ions, maximum injection time: 120 ms) followed by MS-MS analysis (resolution: 17 500, AGC target: 100 000 ions, maximum injection time: 60 ms) on the top 10 abundant ions.
 
-The resulting raw files were analyzed using MaxQuant 1.5.2.8~\cite{Cox}. The reference human proteome database, consisting of 159 616 entries, was downloaded from the UniProt Knowledgebase on February 28th, 2017. Lys4, Arg6 and Lys8, Arg10 were added to the labels. Variable modifications were set as N-terminal acetylation and oxidation of methionines. The \textit{in silico} digestion of peptides in the reference database was performed with trypsin/P site-specific cleavage. Default global parameters were kept except that "re-quantify" and "match between runs" were turned on. The false discovery rate, assessed by in-parallel searching in a decoy database generated by reversing the reference database, was set to 0.01 at peptide and protein levels. The following analysis and graphics were performed using Perseus v1.5.8.4 and R v3.3.3.
+The resulting raw files were analyzed using MaxQuant 1.5.2.8~\cite{Cox}. The reference human proteome database, consisting of 159 616 entries, was downloaded from the UniProt Knowledgebase on February 28th, 2017. Lys4, Arg6 and Lys8, Arg10 were added to the labels. Variable modifications were set as N-terminal acetylation and oxidation of methionines. The \textit{in silico} digestion of peptides in the reference database was performed with trypsin/P site-specific cleavage. Default global parameters were kept except that "re-quantify" and "match between runs" were turned on. The false discovery rate, assessed by in-parallel searching in a decoy database generated by reversing the reference database, was set to 0.01 at peptide and protein levels. 
+
+The following analysis and graphics were performed using Perseus v1.5.8.4 and R v3.3.3. 
 % cut off
 \\
 \\*

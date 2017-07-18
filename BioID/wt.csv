@@ -1,0 +1,10 @@
+GO,Category,Description,Count,%,Log10(P),Log10(q)
+GO:0045202,GO Cellular Components,Synapse,10,45.45,-8.92,-4.59
+GO:0098590,GO Cellular Components,Plasma membrane region,10,45.45,-8.23,-4.2
+GO:0030866,GO Biological Processes,Cortical actin cytoskeleton organization,4,18.18,-7.82,-3.97
+GO:0030260,GO Biological Processes,Entry into host cell,5,22.73,-6.87,-3.62
+GO:0045296,GO Molecular Functions,Cadherin binding,6,27.27,-6.47,-3.25
+GO:0015175,GO Molecular Functions,Neutral amino acid transmembrane transporter activity,3,13.64,-5.38,-2.39
+GO:0048666,GO Biological Processes,Neuron development,6,27.27,-3.59,-1.05
+GO:0035091,GO Molecular Functions,Phosphatidylinositol binding,3,13.64,-2.97,-0.54
+,,,,,,

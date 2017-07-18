@@ -2,19 +2,20 @@
 \contentsline {chapter}{Abstract}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {1.1}The GLUT1\textsuperscript {P485L} mutation}{1}{section.7}
+\contentsline {section}{\numberline {1.1}The GLUT1\textsuperscript {P485L} mutation and G1DS}{1}{section.7}
 \contentsline {section}{\numberline {1.2}Clathrin-mediated endocytosis}{2}{section.8}
 \contentsline {chapter}{\numberline {2}Materials and methods}{3}{chapter.9}
-\contentsline {chapter}{\numberline {3}Results}{13}{chapter.16}
+\contentsline {chapter}{\numberline {3}Results}{13}{chapter.17}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {3.1}Assessment of inducible GLUT1 expression}{13}{section.17}
-\contentsline {section}{\numberline {3.2}Effect of blocking proteolysis on GLUT1 levels}{16}{section.20}
-\contentsline {section}{\numberline {3.3}Cellular localization of GLUT1 variants}{17}{section.23}
-\contentsline {section}{\numberline {3.4}Proximity labeling of GLUT1 variants}{18}{section.25}
-\contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{18}{section.26}
-\contentsline {chapter}{\numberline {4}Discussion}{21}{chapter.28}
+\contentsline {section}{\numberline {3.1}Assessment of inducible GLUT1 expression}{13}{section.18}
+\contentsline {section}{\numberline {3.2}Effect of blocking proteolysis on GLUT1 levels}{16}{section.21}
+\contentsline {section}{\numberline {3.3}Cellular localization of GLUT1 variants}{17}{section.24}
+\contentsline {section}{\numberline {3.4}Proximity labeling of GLUT1 variants}{18}{section.26}
+\contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{21}{section.29}
+\contentsline {chapter}{\numberline {4}Discussion}{23}{chapter.31}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {4.1}Leakiness and loss of GLUT1 expression}{21}{section.29}
-\contentsline {chapter}{List of Abbreviations}{23}{table.31}
-\contentsline {chapter}{Acknowledgements}{25}{section*.32}
-\contentsline {chapter}{Literature}{27}{section*.33}
+\contentsline {section}{\numberline {4.1}GLUT1 localization}{23}{section.32}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{23}{section.33}
+\contentsline {chapter}{List of Abbreviations}{25}{table.35}
+\contentsline {chapter}{Acknowledgements}{27}{section*.36}
+\contentsline {chapter}{Literature}{29}{section*.37}

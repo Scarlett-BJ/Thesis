@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  16 JUL 2017 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  18 JUL 2017 18:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2177,7 +2177,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \c__siunitx_mathtt_int=\count168
 
 1: section
-<Figures/Charite.pdf, id=68, 95.35625pt x 37.13875pt>
+<Figures/Charite.pdf, id=72, 95.35625pt x 37.13875pt>
 File: Figures/Charite.pdf Graphic file (type pdf)
 
 <use Figures/Charite.pdf>
@@ -2185,7 +2185,7 @@ Package pdftex.def Info: Figures/Charite.pdf used on input line 121.
 (pdftex.def)             Requested size: 95.356pt x 37.13866pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 123.
- <Figures/molmed.pdf, id=69, 77.28876pt x 61.22874pt>
+ <Figures/molmed.pdf, id=73, 77.28876pt x 61.22874pt>
 File: Figures/molmed.pdf Graphic file (type pdf)
 
 <use Figures/molmed.pdf>
@@ -2290,7 +2290,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 15.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-<Figures/vectors.png, id=251, 383.93437pt x 289.83281pt>
+<Figures/vectors.png, id=262, 383.93437pt x 289.83281pt>
 File: Figures/vectors.png Graphic file (type png)
 
 <use Figures/vectors.png>
@@ -2305,17 +2305,24 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <Figures/BioID.pdf, id=260, 615.18321pt x 206.06747pt>
+] <Figures/BioID.pdf, id=271, 617.57024pt x 384.56693pt>
 File: Figures/BioID.pdf Graphic file (type pdf)
 
 <use Figures/BioID.pdf>
 Package pdftex.def Info: Figures/BioID.pdf used on input line 39.
-(pdftex.def)             Requested size: 430.62532pt x 144.24623pt.
+(pdftex.def)             Requested size: 432.29622pt x 269.195pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./Figures/vectors.png>] [5 <./Figures/BioID.pdf>] [6] [7] [8] [9]) [10]
+[4 <./Figures/vectors.png>] [5 <./Figures/BioID.pdf>]
+<Figures/treatment.pdf, id=300, 616.60808pt x 229.82643pt>
+File: Figures/treatment.pdf Graphic file (type pdf)
+
+<use Figures/treatment.pdf>
+Package pdftex.def Info: Figures/treatment.pdf used on input line 82.
+(pdftex.def)             Requested size: 431.62271pt x 160.87738pt.
+ [6] [7 <./Figures/treatment.pdf>] [8] [9] [10])
 [11]
 \openout2 = `Chapters/Chapter3.aux'.
 
@@ -2325,7 +2332,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 Chapter 3.
-<Figures/WB.pdf, id=336, 615.35829pt x 415.983pt>
+<Figures/WB.pdf, id=366, 615.35829pt x 415.983pt>
 File: Figures/WB.pdf Graphic file (type pdf)
  <use Figures/WB.pdf>
 Package pdftex.def Info: Figures/WB.pdf used on input line 15.
@@ -2334,7 +2341,7 @@ Package pdftex.def Info: Figures/WB.pdf used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/if.pdf, id=341, 618.0957pt x 547.3753pt>
+<Figures/if.pdf, id=371, 618.0957pt x 547.3753pt>
 File: Figures/if.pdf Graphic file (type pdf)
  <use Figures/if.pdf>
 Package pdftex.def Info: Figures/if.pdf used on input line 29.
@@ -2346,7 +2353,7 @@ Package pdftex.def Info: Figures/if.pdf used on input line 29.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Figures/WB.pdf>] [15 <./Figures/if.pdf>]
-<Figures/wb2.pdf, id=462, 614.56279pt x 223.1282pt>
+<Figures/wb2.pdf, id=492, 614.56279pt x 223.1282pt>
 File: Figures/wb2.pdf Graphic file (type pdf)
  <use Figures/wb2.pdf>
 Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
@@ -2354,13 +2361,13 @@ Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
 
 [16
 
- <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=519, 619.48228pt x 223.07973pt>
+ <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=549, 619.48228pt x 223.07973pt>
 File: Figures/wb3.pdf Graphic file (type pdf)
 
 <use Figures/wb3.pdf>
 Package pdftex.def Info: Figures/wb3.pdf used on input line 57.
 (pdftex.def)             Requested size: 433.63463pt x 156.15474pt.
- <Figures/glut1.pdf, id=525, 618.56865pt x 404.2567pt>
+ <Figures/glut1.pdf, id=555, 618.56865pt x 404.2567pt>
 File: Figures/glut1.pdf Graphic file (type pdf)
 
 <use Figures/glut1.pdf>
@@ -2370,21 +2377,39 @@ Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17 <./Figures/wb3.pdf>] <Figures/tf.pdf, id=588, 619.43768pt x 396.67938pt>
-File: Figures/tf.pdf Graphic file (type pdf)
+[17 <./Figures/wb3.pdf>]
+<Figures/bioid2.pdf, id=618, 617.47325pt x 429.90532pt>
+File: Figures/bioid2.pdf Graphic file (type pdf)
 
-<use Figures/tf.pdf>
-Package pdftex.def Info: Figures/tf.pdf used on input line 84.
-(pdftex.def)             Requested size: 433.60341pt x 277.67366pt.
+<use Figures/bioid2.pdf>
+Package pdftex.def Info: Figures/bioid2.pdf used on input line 83.
+(pdftex.def)             Requested size: 432.22833pt x 300.93167pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [18 <./Figures/glut1.pdf>] [19 <./Figures/tf.pdf>]
+<Figures/GO.pdf, id=619, 615.43095pt x 544.16202pt>
+File: Figures/GO.pdf Graphic file (type pdf)
+ <use Figures/GO.pdf>
+Package pdftex.def Info: Figures/GO.pdf used on input line 93.
+(pdftex.def)             Requested size: 430.79872pt x 380.91081pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./Figures/glut1.pdf>] [19 <./Figures/bioid2.pdf>] [20 <./Figures/GO.pdf>]
+<Figures/tf.pdf, id=704, 619.43768pt x 396.67938pt>
+File: Figures/tf.pdf Graphic file (type pdf)
+ <use Figures/tf.pdf>
+Package pdftex.def Info: Figures/tf.pdf used on input line 104.
+(pdftex.def)             Requested size: 433.60341pt x 277.67366pt.
+)
+[21
+
+ <./Figures/tf.pdf>]
 \openout2 = `Chapters/Chapter4.aux'.
 
- (./Chapters/Chapter4.tex
-[20
+ (./Chapters/Chapter4.tex [22
 
 
 
@@ -2392,19 +2417,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Chapter 4.
 )
 1: section
-[21] [22
+[23] [24
 
 
 ]
 1: section
-[23] [24]
+[25] [26]
 --------------------
  Acknowledgements
 --------------------
 1: section
-[25
+[27
 
-] [26
+] [28
 
 ]
 --------------------
@@ -2416,41 +2441,38 @@ Package natbib Warning: Citation `apsrev41Control' undefined on input line 325.
 
 (./main.bbl
 1: section
-[27]
+[29]
 Underfull \hbox (badness 2932) in paragraph at lines 353--363
 []\T1/ptm/m/n/12 H. Dinkel, K. Van Roey, S. Michael, M. Ku-mar, B. Uyar, B. Al-
 tenberg,
  []
 
-[28] [29])
+[30] [31])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
-[30]
+[32]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
  (./main.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
 (./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9EC27A724E430A208B88225732FC477D;2862.
+(rerunfilecheck)             Checksum: DEC3FE9C0CFD2492796E42921FA8BF3C;3061.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 27891 strings out of 493014
- 565347 string characters out of 6133352
- 572383 words of memory out of 5000000
- 31021 multiletter control sequences out of 15000+600000
+ 27916 strings out of 493014
+ 565768 string characters out of 6133352
+ 571635 words of memory out of 5000000
+ 31037 multiletter control sequences out of 15000+600000
  52088 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,19n,73p,10377b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,19n,74p,10377b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
@@ -2460,10 +2482,10 @@ ive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on main.pdf (40 pages, 30929708 bytes).
+Output written on main.pdf (42 pages, 31110413 bytes).
 PDF statistics:
- 756 PDF objects out of 1000 (max. 8388607)
- 605 compressed objects within 7 object streams
- 107 named destinations out of 1000 (max. 500000)
- 179 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 672 compressed objects within 7 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

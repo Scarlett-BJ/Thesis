@@ -1,0 +1,22 @@
+GO,Category,Description,Count,%,-Log10(P),Log10(q)
+GO:0006897,GO Biological Processes,Endocytosis,9,64.29,10.37,-6.04
+GO:0030136,GO Cellular Components,Clathrin-coated vesicle,6,42.86,9.21,-5.18
+GO:0045296,GO Molecular Functions,Cadherin binding,6,42.86,7.82,-4.1
+GO:0005768,GO Cellular Components,Endosome,7,50,6.67,-3.13
+GO:0030904,GO Cellular Components,Retromer complex,3,21.43,6.61,-3.13
+GO:0006898,GO Biological Processes,Receptor-mediated endocytosis,4,28.57,4.35,-1.1
+GO:0019058,GO Biological Processes,Viral life cycle,3,21.43,2.63,0
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
