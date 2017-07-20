@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{32}%
+\begin{thebibliography}{39}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -379,15 +379,6 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
   Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
   (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Fehr}\ and\ \citenamefont {Yu}(2010)}]{Fehr}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont
-  {Fehr}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Yu}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Human cytomegalovirus gene
-  {UL}21a encodes a short-lived cytoplasmic protein and facilitates virus
-  replication in fibroblasts.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Journal of Virology}\ }\textbf {\bibinfo {volume} {84}},\
-  \bibinfo {pages} {291--302} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Rappsilber}\ \emph {et~al.}(2007)\citenamefont
   {Rappsilber}, \citenamefont {Mann},\ and\ \citenamefont
   {Ishihama}}]{Rappsilber}%
@@ -415,6 +406,91 @@
   {M}ax{LFQ}.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Molecular \& Cellular Proteomics: MCP}\ }\textbf {\bibinfo {volume} {13}},\
   \bibinfo {pages} {2513--2526} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tyanova}\ \emph {et~al.}(2016)\citenamefont
+  {Tyanova}, \citenamefont {Temu}, \citenamefont {Sinitcyn}, \citenamefont
+  {Carlson}, \citenamefont {Hein}, \citenamefont {Geiger}, \citenamefont
+  {Mann},\ and\ \citenamefont {Cox}}]{Tyanova}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Tyanova}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Temu}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Sinitcyn}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Carlson}}, \bibinfo {author}
+  {\bibfnamefont {M.~Y.}\ \bibnamefont {Hein}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Geiger}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Mann}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Cox}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {The {P}erseus computational platform for comprehensive analysis of
+  (prote)omics data.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature Methods}\ }\textbf {\bibinfo {volume} {13}},\ \bibinfo
+  {pages} {731--740} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tripathi}\ \emph {et~al.}(2017)\citenamefont
+  {Tripathi}, \citenamefont {Pohl}, \citenamefont {Zhou}, \citenamefont
+  {Rodriguez-Frandsen}, \citenamefont {Wang}, \citenamefont {Stein},
+  \citenamefont {Moulton}, \citenamefont {DeJesus}, \citenamefont {Che},
+  \citenamefont {Mulder}, \citenamefont {Y{\'a}ng{\"u}ez}, \citenamefont
+  {Andenmatten}, \citenamefont {Pache}, \citenamefont {Manicassamy},
+  \citenamefont {Albrecht}, \citenamefont {Gonzalez}, \citenamefont {Nguyen},
+  \citenamefont {Brass}, \citenamefont {Elledge}, \citenamefont {White},
+  \citenamefont {Shapira}, \citenamefont {Hacohen}, \citenamefont {Karlas},
+  \citenamefont {Meyer}, \citenamefont {Shales}, \citenamefont {Gatorano},
+  \citenamefont {Johnson}, \citenamefont {Jang}, \citenamefont {Johnson},
+  \citenamefont {Verschueren}, \citenamefont {Sanders}, \citenamefont {Krogan},
+  \citenamefont {Shaw}, \citenamefont {K{\"o}nig}, \citenamefont {Stertz},
+  \citenamefont {Garc{\'\i}a-Sastre},\ and\ \citenamefont {Chanda}}]{Tripathi}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Tripathi}}, \bibinfo {author} {\bibfnamefont {M.~O.}\ \bibnamefont {Pohl}},
+  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Zhou}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Rodriguez-Frandsen}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Wang}}, \bibinfo {author} {\bibfnamefont
+  {D.~A.}\ \bibnamefont {Stein}}, \bibinfo {author} {\bibfnamefont {H.~M.}\
+  \bibnamefont {Moulton}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {DeJesus}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Che}},
+  \bibinfo {author} {\bibfnamefont {L.~C.~F.}\ \bibnamefont {Mulder}}, \bibinfo
+  {author} {\bibfnamefont {E.}~\bibnamefont {Y{\'a}ng{\"u}ez}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Andenmatten}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Pache}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Manicassamy}}, \bibinfo {author} {\bibfnamefont {R.~A.}\
+  \bibnamefont {Albrecht}}, \bibinfo {author} {\bibfnamefont {M.~G.}\
+  \bibnamefont {Gonzalez}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Nguyen}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Brass}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Elledge}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {White}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Shapira}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Hacohen}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Karlas}}, \bibinfo {author} {\bibfnamefont {T.~F.}\
+  \bibnamefont {Meyer}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Shales}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Gatorano}},
+  \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Johnson}}, \bibinfo
+  {author} {\bibfnamefont {G.}~\bibnamefont {Jang}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Johnson}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Verschueren}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Sanders}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Krogan}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Shaw}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {K{\"o}nig}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Stertz}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Garc{\'\i}a-Sastre}}, \
+  and\ \bibinfo {author} {\bibfnamefont {S.~K.}\ \bibnamefont {Chanda}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Meta- and orthogonal
+  integration of influenza {OMIC}s data defines a role for {UBR}4 in virus
+  budding.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Cell
+  Host \& Microbe}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo {pages}
+  {723--735} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Costes}\ \emph {et~al.}(2004)\citenamefont {Costes},
+  \citenamefont {Daelemans}, \citenamefont {Cho}, \citenamefont {Dobbin},
+  \citenamefont {Pavlakis},\ and\ \citenamefont {Lockett}}]{Costes}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~V.}\ \bibnamefont
+  {Costes}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Daelemans}},
+  \bibinfo {author} {\bibfnamefont {E.~H.}\ \bibnamefont {Cho}}, \bibinfo
+  {author} {\bibfnamefont {Z.}~\bibnamefont {Dobbin}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Pavlakis}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Lockett}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Automatic and quantitative measurement of protein-protein
+  colocalization in live cells.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Biophysical Journal}\ }\textbf {\bibinfo {volume}
+  {86}},\ \bibinfo {pages} {3993--4003} (\bibinfo {year} {2004})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Hillen}\ and\ \citenamefont {Berens}(1994)}]{Hillen}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
@@ -531,6 +607,15 @@
   {journal} {\bibinfo  {journal} {Autophagy}\ }\textbf {\bibinfo {volume}
   {4}},\ \bibinfo {pages} {849--850} (\bibinfo {year} {2008})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Fehr}\ and\ \citenamefont {Yu}(2010)}]{Fehr}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont
+  {Fehr}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Yu}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Human cytomegalovirus gene
+  {UL}21a encodes a short-lived cytoplasmic protein and facilitates virus
+  replication in fibroblasts.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Journal of Virology}\ }\textbf {\bibinfo {volume} {84}},\
+  \bibinfo {pages} {291--302} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Mueckler}\ \emph {et~al.}(1985)\citenamefont
   {Mueckler}, \citenamefont {Caruso}, \citenamefont {Baldwin}, \citenamefont
   {Panico}, \citenamefont {Blench}, \citenamefont {Morris}, \citenamefont
@@ -568,8 +653,64 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M.~M.}\
   \bibnamefont {Paul W.~Hruz}},\ }\bibfield  {title} {\enquote {\bibinfo
   {title} {Structural analysis of the {GLUT}1 facilitative glucose
-  transporter},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  transporter.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Molecular Membrane Biology}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
   {pages} {183--193} (\bibinfo {year} {2001}{\natexlab{b}})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Kim}\ \emph {et~al.}(2014)\citenamefont {Kim},
+  \citenamefont {KC}, \citenamefont {Zhu}, \citenamefont {Motamedchaboki},
+  \citenamefont {Doye},\ and\ \citenamefont {Roux}}]{Kim}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~I.}\ \bibnamefont
+  {Kim}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {KC}}, \bibinfo
+  {author} {\bibfnamefont {W.}~\bibnamefont {Zhu}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Motamedchaboki}}, \bibinfo {author}
+  {\bibfnamefont {V.}~\bibnamefont {Doye}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {K.~J.}\ \bibnamefont {Roux}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Probing nuclear pore complex architecture with
+  proximity-dependent biotinylation.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Proceedings of the National Academy of Sciences}\
+  }\textbf {\bibinfo {volume} {111}},\ \bibinfo {pages} {E2453--E2461}
+  (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dong}\ \emph {et~al.}(2016)\citenamefont {Dong},
+  \citenamefont {Tay}, \citenamefont {Swa}, \citenamefont {Gunaratne},
+  \citenamefont {Leung}, \citenamefont {Burke},\ and\ \citenamefont
+  {Manser}}]{Dong}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont
+  {Dong}}, \bibinfo {author} {\bibfnamefont {F.~P.-L.}\ \bibnamefont {Tay}},
+  \bibinfo {author} {\bibfnamefont {H.~L.-F.}\ \bibnamefont {Swa}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Gunaratne}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Leung}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Burke}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Manser}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Proximity biotinylation provides insight into the molecular composition of
+  focal adhesions at the nanometer scale.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Sci Signal}\ }\textbf {\bibinfo {volume}
+  {9}},\ \bibinfo {pages} {rs4} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {He}\ \emph {et~al.}(2009)\citenamefont {He},
+  \citenamefont {Vasiliou},\ and\ \citenamefont {Nebert}}]{He}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {He}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Vasiliou}}, \ and\
+  \bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont {Nebert}},\ }\bibfield
+   {title} {\enquote {\bibinfo {title} {Analysis and update of the human solute
+  carrier ({SLC}) gene superfamily.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Human Genomics}\ }\textbf {\bibinfo {volume} {3}},\
+  \bibinfo {pages} {195--205} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Himanen}\ \emph {et~al.}(2001)\citenamefont
+  {Himanen}, \citenamefont {Rajashankar}, \citenamefont {Lackmann},
+  \citenamefont {Cowan}, \citenamefont {Henkemeyer},\ and\ \citenamefont
+  {Nikolov}}]{Himanen}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-P.}\ \bibnamefont
+  {Himanen}}, \bibinfo {author} {\bibfnamefont {K.~R.}\ \bibnamefont
+  {Rajashankar}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Lackmann}}, \bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Cowan}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Henkemeyer}}, \ and\
+  \bibinfo {author} {\bibfnamefont {D.~B.}\ \bibnamefont {Nikolov}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Crystal structure of an
+  {E}ph receptor-ephrin complex.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {414}},\ \bibinfo
+  {pages} {933--938} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
 \end{thebibliography}%

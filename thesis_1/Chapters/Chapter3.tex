@@ -20,7 +20,7 @@ Additionally, GLUT1 protein expression was quantified after 24 hr and 48 hr of d
 Different conditions were investigated to induce the expression of BirA-FLAG tagged GLUT1 with doxycycline. GLUT1 wild-type (WT) and mutant (P485L) cells were treated with varying concentrations of doxycycline (0, 0.1 or 1 \textmu g/mL) for 24 hr and analyzed with Western blotting (A). The inducible expression of GLUT1 was also compared between 24 hr and 48 hr induction with 0.1 \textmu g/mL doxycycline (B). Quantification of GLUT1 levels was achieved by normalizing to \textbeta -actin (C, D).
 \label{fig:wb}
 \end{figure}
-Furthermore, the doxycycline-inducible expression of GLUT1 was confirmed by immunofluorescence confocal microscopy. A different anti-FLAG antibody (see Methods) was used to analyze transgene expression with or without doxycycline treatment in both cell lines. Interestingly, although leakiness in expression was not detected in Western blotting, a small subpopulation of uninduced wild-type and mutant cells showed transgene expression in immunofluorescence microscopy (Figure~\ref{fig:if}, A and B), 
+Furthermore, the doxycycline-inducible expression of GLUT1 was confirmed by immunofluorescence confocal microscopy. A different anti-FLAG antibody (see "Methods" section) was used to analyze transgene expression with or without doxycycline treatment in both cell lines. Interestingly, although leakiness in expression was not detected in Western blotting, a small subpopulation of uninduced wild-type and mutant cells showed transgene expression in immunofluorescence microscopy (Figure~\ref{fig:if}, A and B), 
 % In addition, a low basal expression of FLAG-tagged GLUT1 was visible under stronger laser excitation in uninduced wild-type cells, Supplementary fig???, 
 suggesting the existence of leaky expression from the Tet promoter in the absence of doxycycline~\cite{Pham,Senkel}. 
 In consistence with Western blotting results, strong and roughly uniform expression in response to doxycycline was observed in wild-type and mutant cells (Figure~\ref{fig:if}, C and D). 
@@ -77,24 +77,28 @@ Localization of GLUT1 wild-type (WT) and mutant (P485L) was analyzed in HEK293 c
 \label{fig:glut1}
 \end{figure}
 \section{Proximity labeling of GLUT1 variants}
+In order to systematically characterize the subcellular localization of the wild-type and mutant GLUT1, proximity-dependent biotinylation (BioID) was used to label neighboring proteins within approximately 20 nm of the BirA-tagged GLUT1 variants~\cite{Kim,Dong}. Three-state stable isotope labeling with amino acids in cell culture (SILAC) in combination with mass spectrometry analysis was used to quantitatively identify the \textit{in situ} biotinylated proteins. A HEK293 stable cell line containing the GFP1-10 transgene was used as nonbiotinylated negative control in the light channel (Figure~\ref{fig:bioid}). 
 
+Consistent with microscopy results shown in Figure~\ref{fig:glut1}, many of the specific proximal proteins of wild-type GLUT1 are either transmembrane proteins on the cell surface, such as members of the SLC superfamily, or binding partners of transmembrane proteins, such as ephrin ligands (EFNB1, EFNB2)~\cite{He,Himanen}. Moreover, some of the other proteins identified to be proximal to wild-type GLUT1 have been reported
+
+Conversely,
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/bioid2}
-\caption{The differential cellular localization of GLUT1 variants.}
+\caption{SILAC ratio of proteins proximal to the GLUT1 variants.}
 \vspace*{-3mm}
 \small \justify
-Localization of GLUT1 wild-type (WT) and mutant (P485L) was analyzed in HEK293 cells induced with 0.1 \textmu g/mL doxycycline for 24 hr. Immunostaining of the FLAG-tagged GLUT1 variants was performed with rabbit anti-GLUT1 and Alexa 488-conjugated anti-rabbit antibodies (green, A and D), as well as mouse anti-FLAG and Alexa 568-conjugated anti-mouse antibodies (red, B and E). The overlay images with DAPI-stained nuclei were also shown (C and F). Scale = 10 \textmu m.
+HEK293 stable cells expressing GFP1-10 were fully labeled in light (L) isotope medium, whereas HEK293 stable cells expressing BirA-FLAG-GLUT1 wild-type (WT) and BirA-FLAG-GLUT1 mutant (P485L) were fully labeled in medium-heavy (M) or heavy (H) isotope media. The cells were incubated in 0.1 \textmu g/mL doxycycline and 1 mM biotin for 24 hr before being harvested. Purified proteins were quantified by MS/MS analysis. Proteins with a SILAC heavy/light (H/L) or medium/light (M/L) ratio smaller than 1.5 were considered to be background proteins and discarded. After background subtraction, proteins with a SILAC wild-type/mutant (WT/P485L) ratio or mutant/wild-type (P485/L) higher than 2 in both forward and reverse experiments were identified as specific proximal proteins and the gene names were annotated.
 \label{fig:bioid2}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/GO}
-\caption{The differential cellular localization of GLUT1 variants.}
+\caption{Enrichment analysis of GLUT1-proximal proteins.}
 \vspace*{-3mm}
 \small \justify
-Localization of GLUT1 wild-type (WT) and mutant (P485L) was analyzed in HEK293 cells induced with 0.1 \textmu g/mL doxycycline for 24 hr. Immunostaining of the FLAG-tagged GLUT1 variants was performed with rabbit anti-GLUT1 and Alexa 488-conjugated anti-rabbit antibodies (green, A and D), as well as mouse anti-FLAG and Alexa 568-conjugated anti-mouse antibodies (red, B and E). The overlay images with DAPI-stained nuclei were also shown (C and F). Scale = 10 \textmu m.
+bla
 \label{fig:go}
 \end{figure}
 
@@ -109,5 +113,24 @@ But not the wild-type GLUT1. Scale = 10 \textmu m.
 \label{fig:tf}
 \end{figure}
 
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.7]{Figures/EE}
+\caption{The mutant GLUT1 co-localizes with early endosomal markers.}
+\vspace*{-3mm}
+\small \justify
+But not the wild-type GLUT1. Scale = 10 \textmu m.
+\label{fig:ee}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.7]{Figures/tgn}
+\caption{The mutant GLUT1 co-localizes with TGN markers.}
+\vspace*{-3mm}
+\small \justify
+But not the wild-type GLUT1. Scale = 10 \textmu m.
+\label{fig:tf}
+\end{figure}
 %----------------------------------------------------------------------------------------
 % Define some commands to keep the formatting separated from the content 
