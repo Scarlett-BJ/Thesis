@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{39}%
+\begin{thebibliography}{43}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -423,7 +423,7 @@
   (prote)omics data.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Nature Methods}\ }\textbf {\bibinfo {volume} {13}},\ \bibinfo
   {pages} {731--740} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Tripathi}\ \emph {et~al.}(2017)\citenamefont
+\bibitem [{\citenamefont {Tripathi}\ \emph {et~al.}(2015)\citenamefont
   {Tripathi}, \citenamefont {Pohl}, \citenamefont {Zhou}, \citenamefont
   {Rodriguez-Frandsen}, \citenamefont {Wang}, \citenamefont {Stein},
   \citenamefont {Moulton}, \citenamefont {DeJesus}, \citenamefont {Che},
@@ -475,7 +475,7 @@
   integration of influenza {OMIC}s data defines a role for {UBR}4 in virus
   budding.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Cell
   Host \& Microbe}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo {pages}
-  {723--735} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+  {723--735} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Costes}\ \emph {et~al.}(2004)\citenamefont {Costes},
   \citenamefont {Daelemans}, \citenamefont {Cho}, \citenamefont {Dobbin},
   \citenamefont {Pavlakis},\ and\ \citenamefont {Lockett}}]{Costes}%
@@ -713,4 +713,80 @@
   {E}ph receptor-ephrin complex.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {414}},\ \bibinfo
   {pages} {933--938} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Rojas}\ \emph {et~al.}(2007)\citenamefont {Rojas},
+  \citenamefont {Kametaka}, \citenamefont {Haft},\ and\ \citenamefont
+  {Bonifacino}}]{Rojas}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Rojas}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kametaka}},
+  \bibinfo {author} {\bibfnamefont {C.~R.}\ \bibnamefont {Haft}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Bonifacino}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Interchangeable but
+  essential functions of {SNX}1 and {SNX}2 in the association of retromer with
+  endosomes and the trafficking of mannose 6-phosphate receptors.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Molecular and
+  Cellular Biology}\ }\textbf {\bibinfo {volume} {27}},\ \bibinfo {pages}
+  {1112--1124} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carlton}\ \emph {et~al.}(2004)\citenamefont
+  {Carlton}, \citenamefont {Bujny}, \citenamefont {Peter}, \citenamefont
+  {Oorschot}, \citenamefont {Rutherford}, \citenamefont {Mellor}, \citenamefont
+  {Klumperman}, \citenamefont {McMahon},\ and\ \citenamefont
+  {Cullen}}]{Carlton}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Carlton}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Bujny}},
+  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Peter}}, \bibinfo
+  {author} {\bibfnamefont {V.~M.~J.}\ \bibnamefont {Oorschot}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Rutherford}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Mellor}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Klumperman}}, \bibinfo {author} {\bibfnamefont {H.~T.}\
+  \bibnamefont {McMahon}}, \ and\ \bibinfo {author} {\bibfnamefont {P.~J.}\
+  \bibnamefont {Cullen}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Sorting nexin-1 mediates tubular endosome-to-{TGN} transport through
+  coincidence sensing of high-curvature membranes and 3-phosphoinositides},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Current Biology}\
+  }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1791--1800} (\bibinfo
+  {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Mari}\ \emph {et~al.}(2008)\citenamefont {Mari},
+  \citenamefont {Bujny}, \citenamefont {Zeuschner}, \citenamefont {Geerts},
+  \citenamefont {Griffith}, \citenamefont {Petersen}, \citenamefont {Cullen},
+  \citenamefont {Klumperman},\ and\ \citenamefont {Geuze}}]{Mari}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Mari}}, \bibinfo {author} {\bibfnamefont {M.~V.}\ \bibnamefont {Bujny}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Zeuschner}}, \bibinfo
+  {author} {\bibfnamefont {W.~J.~C.}\ \bibnamefont {Geerts}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Griffith}}, \bibinfo {author}
+  {\bibfnamefont {C.~M.}\ \bibnamefont {Petersen}}, \bibinfo {author}
+  {\bibfnamefont {P.~J.}\ \bibnamefont {Cullen}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Klumperman}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {H.~J.}\ \bibnamefont {Geuze}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {{SNX}1 defines an early endosomal recycling exit for
+  sortilin and mannose 6-phosphate receptors},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Traffic}\ }\textbf {\bibinfo {volume} {9}},\
+  \bibinfo {pages} {380--393} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Harterink}\ \emph {et~al.}(2011)\citenamefont
+  {Harterink}, \citenamefont {Port}, \citenamefont {Lorenowicz}, \citenamefont
+  {McGough}, \citenamefont {Silhankova}, \citenamefont {Betist}, \citenamefont
+  {van Weering}, \citenamefont {van Heesbeen}, \citenamefont {Middelkoop},
+  \citenamefont {Basler}, \citenamefont {Cullen},\ and\ \citenamefont
+  {Korswagen}}]{Harterink}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Harterink}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Port}},
+  \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Lorenowicz}},
+  \bibinfo {author} {\bibfnamefont {I.~J.}\ \bibnamefont {McGough}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Silhankova}}, \bibinfo {author}
+  {\bibfnamefont {M.~C.}\ \bibnamefont {Betist}}, \bibinfo {author}
+  {\bibfnamefont {J.~R.~T.}\ \bibnamefont {van Weering}}, \bibinfo {author}
+  {\bibfnamefont {R.~G. H.~P.}\ \bibnamefont {van Heesbeen}}, \bibinfo {author}
+  {\bibfnamefont {T.~C.}\ \bibnamefont {Middelkoop}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Basler}}, \bibinfo {author} {\bibfnamefont
+  {P.~J.}\ \bibnamefont {Cullen}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {H.~C.}\ \bibnamefont {Korswagen}},\ }\bibfield  {title} {\enquote {\bibinfo
+  {title} {A {SNX}3-dependent retromer pathway mediates retrograde transport of
+  the {W}nt sorting receptor {W}ntless and is required for {W}nt secretion},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\
+  }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {914--923} (\bibinfo
+  {year} {2011})}\BibitemShut {NoStop}%
 \end{thebibliography}%

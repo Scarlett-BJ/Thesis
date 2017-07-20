@@ -19,3 +19,4 @@
 \contentsline {chapter}{List of Abbreviations}{27}{table.37}
 \contentsline {chapter}{Acknowledgements}{29}{section*.38}
 \contentsline {chapter}{Literature}{31}{section*.39}
+\contentsline {chapter}{Statement of independent work}{37}{section*.41}

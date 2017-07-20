@@ -433,6 +433,33 @@ KOMA-script documentation for details.}]{fancyhdr}
 }
 
 %----------------------------------------------------------------------------------------
+% STATEMENT OF INDEPENDENT WORK PAGE DESIGN
+%----------------------------------------------------------------------------------------
+
+\usepackage{xcolor}
+\colorlet{mdtRed}{red!50!black}
+\newcommand{\statementname}{Statement of independent work}
+\providecaptionname{american,australian,british,canadian,english,newzealand,UKenglish,USenglish}{\statementname}{Statement of independent work} % Acknowledgement text for English countries
+
+\ifbool{consistentlayout}{
+	\DeclareDocumentEnvironment{statement}{}{%
+		\tttypeout{\statementname}
+		\addchap*{\statementname}
+	}
+}
+{
+	\DeclareDocumentEnvironment{statement}{}{%
+		\checktoopen
+		\tttypeout{\statementname}
+		\thispagestyle{plain}
+		\begin{center}{\huge\bfseries{\statementname}\par}\end{center}
+	}
+	{
+		\vfil\vfil\null
+	}
+}
+
+%----------------------------------------------------------------------------------------
 %	LITERATURE PAGE DESIGN
 %----------------------------------------------------------------------------------------
 
