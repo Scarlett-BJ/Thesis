@@ -12,11 +12,11 @@
 \contentsline {section}{\numberline {3.3}Cellular localization of GLUT1 variants}{17}{section.24}
 \contentsline {section}{\numberline {3.4}Proximity labeling of GLUT1 variants}{18}{section.26}
 \contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{20}{section.29}
-\contentsline {chapter}{\numberline {4}Discussion}{25}{chapter.33}
+\contentsline {chapter}{\numberline {4}Discussion}{25}{chapter.34}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {4.1}GLUT1 localization}{25}{section.34}
-\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{25}{section.35}
-\contentsline {chapter}{List of Abbreviations}{27}{table.37}
-\contentsline {chapter}{Acknowledgements}{29}{section*.38}
-\contentsline {chapter}{Literature}{31}{section*.39}
-\contentsline {chapter}{Statement of independent work}{37}{section*.41}
+\contentsline {section}{\numberline {4.1}GLUT1 localization}{25}{section.35}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{25}{section.36}
+\contentsline {chapter}{List of Abbreviations}{27}{table.38}
+\contentsline {chapter}{Acknowledgements}{29}{section*.39}
+\contentsline {chapter}{Literature}{31}{section*.40}
+\contentsline {chapter}{Statement of independent work}{37}{section*.42}
