@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{43}%
+\begin{thebibliography}{48}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -785,8 +785,85 @@
   {P.~J.}\ \bibnamefont {Cullen}}, \ and\ \bibinfo {author} {\bibfnamefont
   {H.~C.}\ \bibnamefont {Korswagen}},\ }\bibfield  {title} {\enquote {\bibinfo
   {title} {A {SNX}3-dependent retromer pathway mediates retrograde transport of
-  the {W}nt sorting receptor {W}ntless and is required for {W}nt secretion},}\
+  the {W}nt sorting receptor {W}ntless and is required for {W}nt secretion.}}\
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\
   }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {914--923} (\bibinfo
   {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Mills}\ \emph {et~al.}(2003)\citenamefont {Mills},
+  \citenamefont {Praefcke}, \citenamefont {Vallis}, \citenamefont {Peter},
+  \citenamefont {Olesen}, \citenamefont {Gallop}, \citenamefont {Butler},
+  \citenamefont {Evans},\ and\ \citenamefont {McMahon}}]{Mills}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~G.}\ \bibnamefont
+  {Mills}}, \bibinfo {author} {\bibfnamefont {G.~J.~K.}\ \bibnamefont
+  {Praefcke}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Vallis}},
+  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Peter}}, \bibinfo
+  {author} {\bibfnamefont {L.~E.}\ \bibnamefont {Olesen}}, \bibinfo {author}
+  {\bibfnamefont {J.~L.}\ \bibnamefont {Gallop}}, \bibinfo {author}
+  {\bibfnamefont {P.~J.~G.}\ \bibnamefont {Butler}}, \bibinfo {author}
+  {\bibfnamefont {P.~R.}\ \bibnamefont {Evans}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {H.~T.}\ \bibnamefont {McMahon}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Epsin{R}.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {The Journal of Cell Biology}\ }\textbf
+  {\bibinfo {volume} {160}},\ \bibinfo {pages} {213} (\bibinfo {year}
+  {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kalthoff}\ \emph {et~al.}(2002)\citenamefont
+  {Kalthoff}, \citenamefont {Groos}, \citenamefont {Kohl}, \citenamefont
+  {Mahrhold},\ and\ \citenamefont {Ungewickell}}]{Kalthoff}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Kalthoff}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Groos}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Kohl}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Mahrhold}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {E.~J.}\ \bibnamefont {Ungewickell}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Clint: a novel clathrin-binding {ENTH}-domain
+  protein at the {G}olgi.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Molecular Biology of the Cell}\ }\textbf {\bibinfo {volume}
+  {13}},\ \bibinfo {pages} {4060--4073} (\bibinfo {year} {2002})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Hirst}\ \emph {et~al.}(2015)\citenamefont {Hirst},
+  \citenamefont {Edgar}, \citenamefont {Borner}, \citenamefont {Li},
+  \citenamefont {Sahlender}, \citenamefont {Antrobus},\ and\ \citenamefont
+  {Robinson}}]{Hirst}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Hirst}}, \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Edgar}},
+  \bibinfo {author} {\bibfnamefont {G.~H.~H.}\ \bibnamefont {Borner}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {D.~A.}\ \bibnamefont {Sahlender}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Antrobus}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {M.~S.}\ \bibnamefont {Robinson}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Contributions of epsin{R} and gadkin to
+  clathrin-mediated intracellular trafficking.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Molecular Biology of the Cell}\ }\textbf
+  {\bibinfo {volume} {26}},\ \bibinfo {pages} {3085--3103} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Byrd}\ \emph {et~al.}(2000)\citenamefont {Byrd},
+  \citenamefont {Park}, \citenamefont {Schaffer}, \citenamefont {Garmroudi},\
+  and\ \citenamefont {MacDonald}}]{Byrd}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont
+  {Byrd}}, \bibinfo {author} {\bibfnamefont {J.~H.~Y.}\ \bibnamefont {Park}},
+  \bibinfo {author} {\bibfnamefont {B.~S.}\ \bibnamefont {Schaffer}}, \bibinfo
+  {author} {\bibfnamefont {F.}~\bibnamefont {Garmroudi}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {R.~G.}\ \bibnamefont {MacDonald}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {Dimerization of the insulin-like growth
+  factor ii/mannose 6-phosphate receptor.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
+  {\bibinfo {volume} {275}},\ \bibinfo {pages} {18647--18656} (\bibinfo {year}
+  {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Daro}\ \emph {et~al.}(1996)\citenamefont {Daro},
+  \citenamefont {van~der Sluijs}, \citenamefont {Galli},\ and\ \citenamefont
+  {Mellman}}]{Daro}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Daro}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {van~der
+  Sluijs}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Galli}}, \ and\
+  \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Mellman}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {Rab4 and cellubrevin define different
+  early endosome populations on the pathway of transferrin receptor
+  recycling.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Proceedings of the National Academy of Sciences}\ }\textbf {\bibinfo
+  {volume} {93}},\ \bibinfo {pages} {9559--9564} (\bibinfo {year}
+  {1996})}\BibitemShut {NoStop}%
 \end{thebibliography}%
