@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{48}%
+\begin{thebibliography}{53}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -866,4 +866,81 @@
   {Proceedings of the National Academy of Sciences}\ }\textbf {\bibinfo
   {volume} {93}},\ \bibinfo {pages} {9559--9564} (\bibinfo {year}
   {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hanover}\ \emph {et~al.}(1984)\citenamefont
+  {Hanover}, \citenamefont {Willingham},\ and\ \citenamefont
+  {Pastan}}]{Hanover}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~A.}\ \bibnamefont
+  {Hanover}}, \bibinfo {author} {\bibfnamefont {M.~C.}\ \bibnamefont
+  {Willingham}}, \ and\ \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Pastan}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Kinetics of
+  transit of transferrin and epidermal growth factor through clathrin-coated
+  membranes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Cell}\ }\textbf {\bibinfo {volume} {39}},\ \bibinfo {pages} {283--293}
+  (\bibinfo {year} {1984})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Mu}\ \emph {et~al.}(1995)\citenamefont {Mu},
+  \citenamefont {Callaghan}, \citenamefont {Steele-Mortimer}, \citenamefont
+  {Stenmark}, \citenamefont {Parton}, \citenamefont {Campbell}, \citenamefont
+  {McCluskey}, \citenamefont {Yeo}, \citenamefont {Tock},\ and\ \citenamefont
+  {Toh}}]{Mu}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.-T.}\ \bibnamefont
+  {Mu}}, \bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont {Callaghan}},
+  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Steele-Mortimer}},
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Stenmark}}, \bibinfo
+  {author} {\bibfnamefont {R.~G.}\ \bibnamefont {Parton}}, \bibinfo {author}
+  {\bibfnamefont {P.~L.}\ \bibnamefont {Campbell}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {McCluskey}}, \bibinfo {author}
+  {\bibfnamefont {J.-P.}\ \bibnamefont {Yeo}}, \bibinfo {author} {\bibfnamefont
+  {E.~P.~C.}\ \bibnamefont {Tock}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {B.-H.}\ \bibnamefont {Toh}},\ }\bibfield  {title} {\enquote {\bibinfo
+  {title} {{EEA}1, an early endosome-associated protein.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\
+  }\textbf {\bibinfo {volume} {270}},\ \bibinfo {pages} {13503--13511}
+  (\bibinfo {year} {1995})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Christoforidis}\ \emph {et~al.}(1999)\citenamefont
+  {Christoforidis}, \citenamefont {Miaczynska}, \citenamefont {Ashman},
+  \citenamefont {Wilm}, \citenamefont {Zhao}, \citenamefont {Yip},
+  \citenamefont {Waterfield}, \citenamefont {Backer},\ and\ \citenamefont
+  {Zerial}}]{Christoforidis}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Christoforidis}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Miaczynska}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Ashman}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Wilm}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Zhao}}, \bibinfo {author} {\bibfnamefont
+  {S.-C.}\ \bibnamefont {Yip}}, \bibinfo {author} {\bibfnamefont {M.~D.}\
+  \bibnamefont {Waterfield}}, \bibinfo {author} {\bibfnamefont {J.~M.}\
+  \bibnamefont {Backer}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Phosphatidylinositol-3-{OH} kinases are {R}ab5 effectors.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\ }\textbf
+  {\bibinfo {volume} {1}},\ \bibinfo {pages} {249--252} (\bibinfo {year}
+  {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Rubino}\ \emph {et~al.}(2000)\citenamefont {Rubino},
+  \citenamefont {Miaczynska}, \citenamefont {Lippe},\ and\ \citenamefont
+  {Zerial}}]{Rubino}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Rubino}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Miaczynska}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Lippe}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Selective membrane recruitment of {EEA}1
+  suggests a role in directional transport of clathrin-coated vesicles to early
+  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J
+  Biol Chem}\ }\textbf {\bibinfo {volume} {275}},\ \bibinfo {pages}
+  {3745--3748} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ballmer-Hofer}\ \emph {et~al.}(2011)\citenamefont
+  {Ballmer-Hofer}, \citenamefont {Andersson}, \citenamefont {Ratcliffe},\ and\
+  \citenamefont {Berger}}]{Ballmer}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Ballmer-Hofer}}, \bibinfo {author} {\bibfnamefont {A.~E.}\ \bibnamefont
+  {Andersson}}, \bibinfo {author} {\bibfnamefont {L.~E.}\ \bibnamefont
+  {Ratcliffe}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Berger}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Neuropilin-1
+  promotes {VEGFR}-2 trafficking through {R}ab11 vesicles thereby specifying
+  signal output.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Blood}\ }\textbf {\bibinfo {volume} {118}},\ \bibinfo {pages} {816--826}
+  (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
 \end{thebibliography}%

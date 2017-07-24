@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  23 JUL 2017 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  24 JUL 2017 02:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1858,12 +1858,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count161
+\c@subtable=\count162
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip77
 \bibsep=\skip78
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count161
+\c@NAT@ctr=\count163
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
@@ -1874,72 +1879,72 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \@title with sig. ' ' on line 87.
+. Redefining command \@title with sig. ' ' on line 88.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ttitle with sig. ' ' on line 87.
+. Defining command \ttitle with sig. ' ' on line 88.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \supname with sig. ' ' on line 88.
+. Defining command \supname with sig. ' ' on line 89.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \examname with sig. ' ' on line 89.
+. Defining command \examname with sig. ' ' on line 90.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \degreename with sig. ' ' on line 90.
+. Defining command \degreename with sig. ' ' on line 91.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \authorname with sig. ' ' on line 91.
+. Defining command \authorname with sig. ' ' on line 92.
 .................................................
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \@author with sig. ' ' on line 91.
+. Redefining command \@author with sig. ' ' on line 92.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addressname with sig. ' ' on line 92.
+. Defining command \addressname with sig. ' ' on line 93.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \subjectname with sig. ' ' on line 94.
+. Defining command \subjectname with sig. ' ' on line 95.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \keywordnames with sig. ' ' on line 95.
+. Defining command \keywordnames with sig. ' ' on line 96.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \univname with sig. ' ' on line 96.
+. Defining command \univname with sig. ' ' on line 97.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \deptname with sig. ' ' on line 97.
+. Defining command \deptname with sig. ' ' on line 98.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \groupname with sig. ' ' on line 98.
+. Defining command \groupname with sig. ' ' on line 99.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \facname with sig. ' ' on line 99.
+. Defining command \facname with sig. ' ' on line 100.
 .................................................
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -1994,15 +1999,15 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen189
-\Hy@linkcounter=\count162
-\Hy@pagecounter=\count163
+\Hy@linkcounter=\count164
+\Hy@pagecounter=\count165
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count164
+\Hy@SavedSpaceFactor=\count166
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -2014,7 +2019,7 @@ Package hyperref Info: Plain pages OFF on input line 4461.
 Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4691.
-\c@Hy@tempcnt=\count165
+\c@Hy@tempcnt=\count167
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
@@ -2022,7 +2027,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5044.
 \XeTeXLinkMargin=\dimen190
-\Fld@menulength=\count166
+\Fld@menulength=\count168
 \Field@Width=\dimen191
 \Fld@charsize=\dimen192
 Package hyperref Info: Hyper figures OFF on input line 6298.
@@ -2034,21 +2039,21 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6323.
 Package hyperref Info: PDF/A mode OFF on input line 6328.
 LaTeX Info: Redefining \ref on input line 6368.
 LaTeX Info: Redefining \pageref on input line 6372.
-\Hy@abspage=\count167
-\c@Item=\count168
-\c@Hfootnote=\count169
+\Hy@abspage=\count169
+\c@Item=\count170
+\c@Hfootnote=\count171
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 107.
+(scrhack)             need that hack, on input line 108.
 
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
-\Fld@listcount=\count170
-\c@bookmark@seq@number=\count171
+\Fld@listcount=\count172
+\c@bookmark@seq@number=\count173
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -2057,55 +2062,53 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip79
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 107.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 107.
-Package hyperref Info: Option `colorlinks' set `false' on input line 107.
-Package hyperref Info: Option `unicode' set `true' on input line 107.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 108.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 108.
+Package hyperref Info: Option `colorlinks' set `false' on input line 108.
+Package hyperref Info: Option `unicode' set `true' on input line 108.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2016/05/05 v6.83n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 107.
- (./main.aux
-(./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux) (./Chapters/Chapter3.aux)
-(./Chapters/Chapter4.aux))
+Package hyperref Info: Option `breaklinks' set `true' on input line 108.
+ (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 107.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 107.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 108.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 108.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 107.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 108.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 107.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 108.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -2118,16 +2121,16 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 ) (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count172
+\scratchcounter=\count174
 \scratchdimen=\dimen193
 \scratchbox=\box55
-\nofMPsegments=\count173
-\nofMParguments=\count174
+\nofMPsegments=\count175
+\nofMParguments=\count176
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count175
+\MPscratchCnt=\count177
 \MPscratchDim=\dimen194
-\MPnumerator=\count176
-\makeMPintoPDFobject=\count177
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
 \everyMPtoPDFconversion=\toks28
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -2184,72 +2187,72 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 107.
-Package scrbase Info: activating english \abbrevname on input line 107.
-Package scrbase Info: activating english \byname on input line 107.
-Package scrbase Info: activating english \acknowledgementname on input line 107
+(scrlayer)             \begin{document} on input line 108.
+Package scrbase Info: activating english \abbrevname on input line 108.
+Package scrbase Info: activating english \byname on input line 108.
+Package scrbase Info: activating english \acknowledgementname on input line 108
 .
-Package scrbase Info: activating english \statementname on input line 107.
-Package scrbase Info: activating english \literaturename on input line 107.
-Package scrbase Info: activating english \authorshipname on input line 107.
-Package scrbase Info: activating english \constantsname on input line 107.
-Package scrbase Info: activating english \symbolsname on input line 107.
+Package scrbase Info: activating english \statementname on input line 108.
+Package scrbase Info: activating english \literaturename on input line 108.
+Package scrbase Info: activating english \authorshipname on input line 108.
+Package scrbase Info: activating english \constantsname on input line 108.
+Package scrbase Info: activating english \symbolsname on input line 108.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 107.
+LaTeX Info: Redefining \selectfont on input line 108.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\ttitle' on input line 107.
+(hyperref)                removing `\ttitle' on input line 108.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\authorname' on input line 107.
+(hyperref)                removing `\authorname' on input line 108.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\keywordnames' on input line 107.
+(hyperref)                removing `\keywordnames' on input line 108.
 
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 107.
+Package hyperref Info: Link coloring OFF on input line 108.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count178
+\c@section@level=\count180
 )
-LaTeX Info: Redefining \ref on input line 107.
-LaTeX Info: Redefining \pageref on input line 107.
-LaTeX Info: Redefining \nameref on input line 107.
+LaTeX Info: Redefining \ref on input line 108.
+LaTeX Info: Redefining \pageref on input line 108.
+LaTeX Info: Redefining \nameref on input line 108.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-\c__siunitx_mathsf_int=\count179
-\c__siunitx_mathtt_int=\count180
+\c__siunitx_mathsf_int=\count181
+\c__siunitx_mathtt_int=\count182
 
 1: section
-<Figures/Charite.pdf, id=76, 95.35625pt x 37.13875pt>
+<Figures/Charite.pdf, id=4, 95.35625pt x 37.13875pt>
 File: Figures/Charite.pdf Graphic file (type pdf)
-
-<use Figures/Charite.pdf>
-Package pdftex.def Info: Figures/Charite.pdf used on input line 122.
+ <use Figures/Charite.pdf>
+Package pdftex.def Info: Figures/Charite.pdf used on input line 123.
 (pdftex.def)             Requested size: 95.356pt x 37.13866pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 124.
- <Figures/molmed.pdf, id=77, 77.28876pt x 61.22874pt>
-File: Figures/molmed.pdf Graphic file (type pdf)
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 125.
 
-<use Figures/molmed.pdf>
-Package pdftex.def Info: Figures/molmed.pdf used on input line 127.
+<Figures/molmed.pdf, id=5, 77.28876pt x 61.22874pt>
+File: Figures/molmed.pdf Graphic file (type pdf)
+ <use Figures/molmed.pdf>
+Package pdftex.def Info: Figures/molmed.pdf used on input line 128.
 (pdftex.def)             Requested size: 77.28856pt x 61.22858pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 131.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 132.
- [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 133.
+
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
@@ -2260,38 +2263,41 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
  Abstract
 --------------------
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 198.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 199.
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--204
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 
  []
 
 1: section
 [3] [4
 
-] (./main.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
+]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write4
 \openout4 = `main.toc'.
-
 
 1: section
 [5] [6
 
-] (./main.lof)
+]
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
 \tf@lof=\write5
 \openout5 = `main.lof'.
-
 
 1: section
 [7] [8
 
-] (./main.lot)
+]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
 \tf@lot=\write6
 \openout6 = `main.lot'.
-
 
 1: section
 [9] [10
@@ -2302,11 +2308,81 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 
 (./Chapters/Chapter1.tex
 Chapter 1.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
+
+Package natbib Warning: Citation `Pascual' on page 1 undefined on input line 8.
+
+
 LaTeX Font Info:    Try loading font information for LGR+ptm on input line 8.
 LaTeX Font Info:    No file LGRptm.fd. on input line 8.
 
 LaTeX Font Warning: Font shape `LGR/ptm/m/n' undefined
 (Font)              using `LGR/cmr/m/n' instead on input line 8.
+
+
+Package natbib Warning: Citation `MUECKLER' on page 1 undefined on input line 8
+.
+
+
+Package natbib Warning: Citation `Uldry' on page 1 undefined on input line 8.
+
+
+Package natbib Warning: Citation `Lee' on page 1 undefined on input line 8.
+
+
+Package natbib Warning: Citation `Wheeler' on page 1 undefined on input line 8.
+
+
+
+Package natbib Warning: Citation `Paul-W.-Hruz' on page 1 undefined on input li
+ne 8.
+
+
+Package natbib Warning: Citation `Duelli' on page 1 undefined on input line 8.
+
+
+Package natbib Warning: Citation `De' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Klepper' on page 1 undefined on input line 12
+.
+
+
+Package natbib Warning: Citation `Wang' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Leen' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Klepper' on page 1 undefined on input line 12
+.
+
+
+Package natbib Warning: Citation `Leen' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `De' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Klepper' on page 1 undefined on input line 12
+.
+
+
+Package natbib Warning: Citation `Wang' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Suls' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Wang' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Klepper.2' on page 1 undefined on input line 
+12.
+
+
+Package natbib Warning: Citation `Wang' on page 1 undefined on input line 12.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2320,6 +2396,22 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `superscript' on input line 14.
 
+
+Package natbib Warning: Citation `Pascual' on page 1 undefined on input line 18
+.
+
+
+Package natbib Warning: Citation `Slaughter' on page 1 undefined on input line 
+18.
+
+
+Package natbib Warning: Citation `Pandey' on page 1 undefined on input line 18.
+
+
+
+Package natbib Warning: Citation `Dinkel' on page 1 undefined on input line 18.
+
+
 1: section
 [1
 
@@ -2329,6 +2421,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
  (./Chapters/Chapter2.tex
 Chapter 2.
+
+LaTeX Warning: Reference `tab:primers' on page 3 undefined on input line 7.
+
+
+LaTeX Warning: Reference `tab:primers' on page 3 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig:vectors' on page 3 undefined on input line 7.
+
+
+Package natbib Warning: Citation `Couzens' on page 3 undefined on input line 7.
+
+
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 7.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -2340,7 +2445,7 @@ A5-BirA-FLAG us-ing Gate-
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-<Figures/vector.pdf, id=273, 615.19644pt x 370.11214pt>
+<Figures/vector.pdf, id=105, 615.19644pt x 370.11214pt>
 File: Figures/vector.pdf Graphic file (type pdf)
 
 <use Figures/vector.pdf>
@@ -2355,7 +2460,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <Figures/BioID.pdf, id=281, 617.57024pt x 384.56693pt>
+] <Figures/BioID.pdf, id=114, 617.57024pt x 384.56693pt>
 File: Figures/BioID.pdf Graphic file (type pdf)
 
 <use Figures/BioID.pdf>
@@ -2365,21 +2470,73 @@ Package pdftex.def Info: Figures/BioID.pdf used on input line 39.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./Figures/vector.pdf>] [5 <./Figures/BioID.pdf>]
-<Figures/treatment.pdf, id=330, 616.60808pt x 229.82643pt>
+[4 <./Figures/vector.pdf>]
+
+LaTeX Warning: Reference `fig:bioid' on page 5 undefined on input line 48.
+
+
+LaTeX Warning: Reference `fig:bioid' on page 5 undefined on input line 48.
+
+[5 <./Figures/BioID.pdf>]
+
+LaTeX Warning: Reference `tab:antibodies' on page 6 undefined on input line 58.
+
+
+<Figures/treatment.pdf, id=162, 616.60808pt x 229.82643pt>
 File: Figures/treatment.pdf Graphic file (type pdf)
 
 <use Figures/treatment.pdf>
 Package pdftex.def Info: Figures/treatment.pdf used on input line 82.
 (pdftex.def)             Requested size: 431.62271pt x 160.87738pt.
- [6] [7 <./Figures/treatment.pdf>] [8] [9]
+
+
+LaTeX Warning: Reference `fig:inhibition' on page 6 undefined on input line 86.
+
+
+[6]
+
+LaTeX Warning: Reference `fig:inhibition' on page 7 undefined on input line 88.
+
+
+
+LaTeX Warning: Reference `fig:bioid' on page 7 undefined on input line 92.
+
+[7 <./Figures/treatment.pdf>]
+
+Package natbib Warning: Citation `Rappsilber' on page 8 undefined on input line
+ 96.
+
+[8]
+
+Package natbib Warning: Citation `Cox' on page 9 undefined on input line 100.
+
+
+Package natbib Warning: Citation `Tyanova' on page 9 undefined on input line 10
+2.
+
+
+Package natbib Warning: Citation `Tripathi' on page 9 undefined on input line 1
+02.
+
+
+LaTeX Warning: Reference `tab:IF' on page 9 undefined on input line 110.
+
+[9]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: Reference `tab:laser' on page 10 undefined on input line 139.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10]) [11]
+[10]
+
+Package natbib Warning: Citation `Costes' on page 11 undefined on input line 15
+9.
+
+) [11]
 \openout2 = `Chapters/Chapter3.aux'.
 
  (./Chapters/Chapter3.tex [12
@@ -2388,7 +2545,34 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 Chapter 3.
-<Figures/WB.pdf, id=401, 615.35829pt x 415.983pt>
+
+LaTeX Warning: Reference `fig:vectors' on page 13 undefined on input line 7.
+
+
+Package natbib Warning: Citation `Hillen' on page 13 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `Hillen' on page 13 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `Xu' on page 13 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig:wb' on page 13 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:wb' on page 13 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:wb' on page 13 undefined on input line 11.
+
+
+Package natbib Warning: Citation `Zeltser' on page 13 undefined on input line 1
+1.
+
+<Figures/WB.pdf, id=214, 615.35829pt x 415.983pt>
 File: Figures/WB.pdf Graphic file (type pdf)
  <use Figures/WB.pdf>
 Package pdftex.def Info: Figures/WB.pdf used on input line 15.
@@ -2397,7 +2581,20 @@ Package pdftex.def Info: Figures/WB.pdf used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/if.pdf, id=406, 618.0957pt x 547.3753pt>
+
+LaTeX Warning: Reference `fig:if' on page 13 undefined on input line 23.
+
+
+Package natbib Warning: Citation `Pham' on page 13 undefined on input line 25.
+
+
+Package natbib Warning: Citation `Senkel' on page 13 undefined on input line 25
+.
+
+
+LaTeX Warning: Reference `fig:if' on page 13 undefined on input line 26.
+
+<Figures/if.pdf, id=215, 618.0957pt x 547.3753pt>
 File: Figures/if.pdf Graphic file (type pdf)
  <use Figures/if.pdf>
 Package pdftex.def Info: Figures/if.pdf used on input line 29.
@@ -2409,24 +2606,75 @@ Package pdftex.def Info: Figures/if.pdf used on input line 29.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Figures/WB.pdf>] [15 <./Figures/if.pdf>]
-<Figures/wb2.pdf, id=527, 614.56279pt x 223.1282pt>
+
+LaTeX Warning: Reference `fig:wb' on page 16 undefined on input line 39.
+
+
+Package natbib Warning: Citation `Tanida' on page 16 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `Lee.2' on page 16 undefined on input line 39.
+
+
+
+Package natbib Warning: Citation `Yamamoto' on page 16 undefined on input line 
+42.
+
+
+Package natbib Warning: Citation `Klionsky' on page 16 undefined on input line 
+42.
+
+
+LaTeX Warning: Reference `fig:wb2' on page 16 undefined on input line 42.
+
+
+LaTeX Warning: Reference `fig:wb2' on page 16 undefined on input line 42.
+
+<Figures/wb2.pdf, id=328, 614.56279pt x 223.1282pt>
 File: Figures/wb2.pdf Graphic file (type pdf)
  <use Figures/wb2.pdf>
 Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
 (pdftex.def)             Requested size: 430.19102pt x 156.18866pt.
 
+
+Package natbib Warning: Citation `Fehr' on page 16 undefined on input line 53.
+
+
+LaTeX Warning: Reference `fig:wb3' on page 16 undefined on input line 53.
+
 [16
 
- <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=585, 619.48228pt x 223.07973pt>
+ <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=381, 619.48228pt x 223.07973pt>
 File: Figures/wb3.pdf Graphic file (type pdf)
 
 <use Figures/wb3.pdf>
 Package pdftex.def Info: Figures/wb3.pdf used on input line 57.
 (pdftex.def)             Requested size: 433.63463pt x 156.15474pt.
- <Figures/glut1.pdf, id=591, 618.56865pt x 404.2567pt>
-File: Figures/glut1.pdf Graphic file (type pdf)
 
-<use Figures/glut1.pdf>
+
+Package natbib Warning: Citation `Mueckler.2' on page 17 undefined on input lin
+e 67.
+
+
+Package natbib Warning: Citation `Hresko' on page 17 undefined on input line 67
+.
+
+
+Package natbib Warning: Citation `Hruz' on page 17 undefined on input line 67.
+
+
+LaTeX Warning: Reference `fig:glut1' on page 17 undefined on input line 68.
+
+
+LaTeX Warning: Reference `fig:glut1' on page 17 undefined on input line 68.
+
+
+LaTeX Warning: Reference `fig:glut1' on page 17 undefined on input line 68.
+
+<Figures/glut1.pdf, id=382, 618.56865pt x 404.2567pt>
+File: Figures/glut1.pdf Graphic file (type pdf)
+ <use Figures/glut1.pdf>
 Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 (pdftex.def)             Requested size: 432.9951pt x 282.97775pt.
 
@@ -2434,128 +2682,267 @@ Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./Figures/wb3.pdf>]
-<Figures/bioid2.pdf, id=660, 615.49706pt x 393.18794pt>
+
+Package natbib Warning: Citation `Kim' on page 18 undefined on input line 80.
+
+
+Package natbib Warning: Citation `Dong' on page 18 undefined on input line 80.
+
+
+LaTeX Warning: Reference `fig:bioid' on page 18 undefined on input line 80.
+
+
+LaTeX Warning: Reference `fig:glut1' on page 18 undefined on input line 82.
+
+
+LaTeX Warning: Reference `fig:bioid2' on page 18 undefined on input line 82.
+
+
+Package natbib Warning: Citation `He' on page 18 undefined on input line 82.
+
+
+Package natbib Warning: Citation `Himanen' on page 18 undefined on input line 8
+2.
+
+<Figures/bioid2.pdf, id=444, 615.49706pt x 393.18794pt>
 File: Figures/bioid2.pdf Graphic file (type pdf)
 
 <use Figures/bioid2.pdf>
 Package pdftex.def Info: Figures/bioid2.pdf used on input line 85.
 (pdftex.def)             Requested size: 430.845pt x 275.22968pt.
- [18 <./Figures/glut1.pdf>] [19 <./Figures/bioid2.pdf>] <Figures/GO.pdf, id=739
-, 617.26097pt x 514.0802pt>
+ [18 <./Figures/glut1.pdf>]
+
+LaTeX Warning: Reference `fig:bioid2' on page 19 undefined on input line 94.
+
+
+Package natbib Warning: Citation `Rojas' on page 19 undefined on input line 94.
+
+
+
+Package natbib Warning: Citation `Carlton' on page 19 undefined on input line 9
+4.
+
+
+Package natbib Warning: Citation `Mari' on page 19 undefined on input line 94.
+
+
+Package natbib Warning: Citation `Harterink' on page 19 undefined on input line
+ 94.
+
+
+Package natbib Warning: Citation `Mills' on page 19 undefined on input line 94.
+
+
+
+Package natbib Warning: Citation `Kalthoff' on page 19 undefined on input line 
+94.
+
+
+Package natbib Warning: Citation `Hirst' on page 19 undefined on input line 94.
+
+
+
+Package natbib Warning: Citation `Byrd' on page 19 undefined on input line 94.
+
+
+Package natbib Warning: Citation `Daro' on page 19 undefined on input line 94.
+
+[19 <./Figures/bioid2.pdf>]
+
+LaTeX Warning: Reference `fig:bioid2' on page 20 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig:go' on page 20 undefined on input line 98.
+
+<Figures/GO.pdf, id=508, 617.26097pt x 514.0802pt>
 File: Figures/GO.pdf Graphic file (type pdf)
  <use Figures/GO.pdf>
 Package pdftex.def Info: Figures/GO.pdf used on input line 101.
 (pdftex.def)             Requested size: 432.07973pt x 359.85368pt.
 
-[20 <./Figures/GO.pdf>] <Figures/tf.pdf, id=780, 617.59836pt x 388.07837pt>
+
+Package natbib Warning: Citation `Tripathi' on page 20 undefined on input line 
+105.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] [21 <./Figures/GO.pdf>]
+
+Package natbib Warning: Citation `Hanover' on page 22 undefined on input line 1
+11.
+
+
+LaTeX Warning: Reference `fig:tf' on page 22 undefined on input line 111.
+
+<Figures/tf.pdf, id=552, 617.59836pt x 388.07837pt>
 File: Figures/tf.pdf Graphic file (type pdf)
-
-<use Figures/tf.pdf>
-Package pdftex.def Info: Figures/tf.pdf used on input line 113.
+ <use Figures/tf.pdf>
+Package pdftex.def Info: Figures/tf.pdf used on input line 114.
 (pdftex.def)             Requested size: 432.3159pt x 271.653pt.
- <Figures/EE.pdf, id=781, 616.46338pt x 751.6698pt>
-File: Figures/EE.pdf Graphic file (type pdf)
 
-<use Figures/EE.pdf>
-Package pdftex.def Info: Figures/EE.pdf used on input line 123.
-(pdftex.def)             Requested size: 431.52142pt x 526.16527pt.
+Overfull \hbox (7.32245pt too wide) in paragraph at lines 111--121
+\T1/ptm/m/n/12 To con-firm that the mu-tant GLUT1 is taken up via clathrin-medi
+ated en-do-cy-to-sis, doxycycline-
+ []
+
+<Figures/EE.pdf, id=553, 616.90417pt x 754.80444pt>
+File: Figures/EE.pdf Graphic file (type pdf)
+ <use Figures/EE.pdf>
+Package pdftex.def Info: Figures/EE.pdf used on input line 124.
+(pdftex.def)             Requested size: 431.82997pt x 528.35951pt.
+
+
+LaTeX Warning: Reference `tab:IF' on page 22 undefined on input line 128.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: Figures/EE.pdf Graphic file (type pdf)
-<use Figures/EE.pdf>
-Package pdftex.def Info: Figures/EE.pdf used on input line 133.
-(pdftex.def)             Requested size: 431.52142pt x 526.16527pt.
+
+LaTeX Warning: Reference `fig:ee' on page 22 undefined on input line 131.
+
+
+Package natbib Warning: Citation `Mu' on page 22 undefined on input line 131.
+
+
+LaTeX Warning: Reference `fig:ee' on page 22 undefined on input line 131.
+
+
+Package natbib Warning: Citation `Christoforidis' on page 22 undefined on input
+ line 131.
+
+
+Package natbib Warning: Citation `Rubino' on page 22 undefined on input line 13
+1.
+
+
+Package natbib Warning: Citation `Ballmer' on page 22 undefined on input line 1
+31.
+
+
+LaTeX Warning: Reference `fig:ee' on page 22 undefined on input line 131.
+
+[22
+
+ <./Figures/tf.pdf>] <Figures/re.pdf, id=585, 617.17729pt x 750.85983pt>
+File: Figures/re.pdf Graphic file (type pdf)
+
+<use Figures/re.pdf>
+Package pdftex.def Info: Figures/re.pdf used on input line 136.
+(pdftex.def)             Requested size: 432.02115pt x 525.5983pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: Figures/EE.pdf Graphic file (type pdf)
-<use Figures/EE.pdf>
-Package pdftex.def Info: Figures/EE.pdf used on input line 143.
-(pdftex.def)             Requested size: 431.52142pt x 526.16527pt.
+<Figures/le.pdf, id=586, 617.21332pt x 559.60545pt>
+File: Figures/le.pdf Graphic file (type pdf)
+ <use Figures/le.pdf>
+Package pdftex.def Info: Figures/le.pdf used on input line 147.
+(pdftex.def)             Requested size: 432.04637pt x 391.72115pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/tgn.pdf, id=782, 617.97935pt x 749.69275pt>
+<Figures/le2.pdf, id=587, 617.96735pt x 563.29073pt>
+File: Figures/le2.pdf Graphic file (type pdf)
+ <use Figures/le2.pdf>
+Package pdftex.def Info: Figures/le2.pdf used on input line 155.
+(pdftex.def)             Requested size: 432.57419pt x 394.30081pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/tgn.pdf, id=588, 617.97935pt x 749.69275pt>
 File: Figures/tgn.pdf Graphic file (type pdf)
  <use Figures/tgn.pdf>
-Package pdftex.def Info: Figures/tgn.pdf used on input line 153.
+Package pdftex.def Info: Figures/tgn.pdf used on input line 167.
 (pdftex.def)             Requested size: 432.5826pt x 524.78134pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/coloc.pdf, id=783, 560.0925pt x 305.14pt>
+<Figures/coloc.pdf, id=589, 560.0925pt x 305.14pt>
 File: Figures/coloc.pdf Graphic file (type pdf)
  <use Figures/coloc.pdf>
-Package pdftex.def Info: Figures/coloc.pdf used on input line 163.
+Package pdftex.def Info: Figures/coloc.pdf used on input line 177.
 (pdftex.def)             Requested size: 392.06207pt x 213.59653pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [21 <./Figures/tf.pdf>] [22 <./Figures/EE.pdf>] [23] [24] [25 <./Figures/tgn.
-pdf>] [26 <./Figures/coloc.pdf>]
+) [23] [24 <./Figures/EE.pdf>] [25 <./Figures/re.pdf>] [26 <./Figures/le.pdf>]
+[27 <./Figures/le2.pdf>] [28 <./Figures/tgn.pdf>] [29 <./Figures/coloc.pdf>]
 \openout2 = `Chapters/Chapter4.aux'.
 
- (./Chapters/Chapter4.tex
+
+(./Chapters/Chapter4.tex [30
+
+
+
+]
 Chapter 4.
 )
 1: section
-[27
-
-
-
-] [28
+[31] [32
 
 
 ]
 1: section
-[29] [30]
+[33]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 4.1 on input line 301.
+
+[34]
 --------------------
  Acknowledgements
 --------------------
 1: section
-[31
+[35
 
-] [32
+] [36
 
 ]
 --------------------
  Literature
 --------------------
 
-Package natbib Warning: Citation `apsrev41Control' undefined on input line 334.
+Package natbib Warning: Citation `apsrev41Control' undefined on input line 337.
 
 
 (./main.bbl
 1: section
-[33]
+[37]
 Underfull \hbox (badness 2932) in paragraph at lines 353--363
 []\T1/ptm/m/n/12 H. Dinkel, K. Van Roey, S. Michael, M. Ku-mar, B. Uyar, B. Al-
 tenberg,
  []
 
-[34] [35] [36] [37]) [38]
+[38] [39] [40] [41]) [42]
 --------------------
  Statement of independent work
 --------------------
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
 1: section
-[39
+[43
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
  (./main.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
-(./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 345.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 345.
+(./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux)
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -2563,57 +2950,42 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 066DA08E5A0A5CC429EC4BED866102D3;3261
-(rerunfilecheck)             After:  FED63456BE3B88EA37D2FAB29BD215A3;3261.
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  EA0C9BF19119CB0A3A80F03684166407;3261.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 28699 strings out of 493014
- 574762 string characters out of 6133352
- 589016 words of memory out of 5000000
- 31765 multiletter control sequences out of 15000+600000
+ 28759 strings out of 493014
+ 575848 string characters out of 6133352
+ 581670 words of memory out of 5000000
+ 31832 multiletter control sequences out of 15000+600000
  53210 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,20n,74p,10377b,986s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.40} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.39} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.38} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{section.36} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.35} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.34} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/ut
-mri8a.pfb>
-Output written on main.pdf (49 pages, 50191106 bytes).
+ 52i,20n,74p,10377b,1033s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on main.pdf (53 pages, 78965883 bytes).
 PDF statistics:
- 1056 PDF objects out of 1200 (max. 8388607)
- 837 compressed objects within 9 object streams
- 148 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1009 PDF objects out of 1200 (max. 8388607)
+ 744 compressed objects within 8 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

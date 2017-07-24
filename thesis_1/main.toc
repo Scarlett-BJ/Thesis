@@ -11,12 +11,12 @@
 \contentsline {section}{\numberline {3.2}Effect of blocking proteolysis on GLUT1 levels}{16}{section.21}
 \contentsline {section}{\numberline {3.3}Cellular localization of GLUT1 variants}{17}{section.24}
 \contentsline {section}{\numberline {3.4}Proximity labeling of GLUT1 variants}{18}{section.26}
-\contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{21}{section.29}
-\contentsline {chapter}{\numberline {4}Discussion}{27}{chapter.36}
+\contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{22}{section.29}
+\contentsline {chapter}{\numberline {4}Discussion}{31}{chapter.37}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {4.1}GLUT1 localization}{27}{section.37}
-\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{27}{section.38}
-\contentsline {chapter}{List of Abbreviations}{29}{table.40}
-\contentsline {chapter}{Acknowledgements}{31}{section*.41}
-\contentsline {chapter}{Literature}{33}{section*.42}
-\contentsline {chapter}{Statement of independent work}{39}{section*.44}
+\contentsline {section}{\numberline {4.1}GLUT1 localization}{31}{section.38}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{31}{section.39}
+\contentsline {chapter}{List of Abbreviations}{33}{table.41}
+\contentsline {chapter}{Acknowledgements}{35}{section*.42}
+\contentsline {chapter}{Literature}{37}{section*.43}
+\contentsline {chapter}{Statement of independent work}{43}{section*.45}
