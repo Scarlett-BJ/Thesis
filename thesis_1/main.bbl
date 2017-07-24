@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{53}%
+\begin{thebibliography}{62}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -943,4 +943,118 @@
   signal output.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Blood}\ }\textbf {\bibinfo {volume} {118}},\ \bibinfo {pages} {816--826}
   (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Grant}\ and\ \citenamefont
+  {Donaldson}(2009)}]{Grant}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.~D.}\ \bibnamefont
+  {Grant}}\ and\ \bibinfo {author} {\bibfnamefont {J.~G.}\ \bibnamefont
+  {Donaldson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Pathways and
+  mechanisms of endocytic recycling.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
+  {\bibinfo {volume} {10}},\ \bibinfo {pages} {597--608} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Stenmark}(2009)}]{Stenmark}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Stenmark}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Rab {GTP}ases
+  as coordinators of vesicle traffic.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
+  {\bibinfo {volume} {10}},\ \bibinfo {pages} {513--525} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Saftig}\ and\ \citenamefont
+  {Klumperman}(2009)}]{Saftig}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Saftig}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Klumperman}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Lysosome
+  biogenesis and lysosomal membrane proteins: trafficking meets function.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nature Reviews
+  Molecular Cell Biology}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages}
+  {623--635} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Chen}\ and\ \citenamefont {Scheller}(2001)}]{Chen}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.~A.}\ \bibnamefont
+  {Chen}}\ and\ \bibinfo {author} {\bibfnamefont {R.~H.}\ \bibnamefont
+  {Scheller}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {{SNARE}-mediated membrane fusion.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
+  {\bibinfo {volume} {2}},\ \bibinfo {pages} {98--106} (\bibinfo {year}
+  {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ohya}\ \emph {et~al.}(2009)\citenamefont {Ohya},
+  \citenamefont {Miaczynska}, \citenamefont {Coskun}, \citenamefont {Lommer},
+  \citenamefont {Runge}, \citenamefont {Drechsel}, \citenamefont
+  {Kalaidzidis},\ and\ \citenamefont {Zerial}}]{Ohya}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Ohya}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Miaczynska}},
+  \bibinfo {author} {\bibfnamefont {U.}~\bibnamefont {Coskun}}, \bibinfo
+  {author} {\bibfnamefont {B.}~\bibnamefont {Lommer}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Runge}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Drechsel}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Kalaidzidis}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Reconstitution of {R}ab- and {SNARE}-dependent membrane fusion by synthetic
+  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Nature}\ }\textbf {\bibinfo {volume} {459}},\ \bibinfo {pages} {1091--1097}
+  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ganley}\ \emph {et~al.}(2008)\citenamefont {Ganley},
+  \citenamefont {Espinosa},\ and\ \citenamefont {Pfeffer}}]{Ganley}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~G.}\ \bibnamefont
+  {Ganley}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Espinosa}}, \
+  and\ \bibinfo {author} {\bibfnamefont {S.~R.}\ \bibnamefont {Pfeffer}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {A syntaxin 10-{SNARE}
+  complex distinguishes two distinct transport routes from endosomes to the
+  trans-golgi in human cells.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Journal of Cell Biology}\ }\textbf {\bibinfo {volume} {180}},\
+  \bibinfo {pages} {159--172} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kreykenbohm}\ \emph {et~al.}(2002)\citenamefont
+  {Kreykenbohm}, \citenamefont {Wenzel}, \citenamefont {Antonin}, \citenamefont
+  {Atlachkine},\ and\ \citenamefont {von Mollard}}]{Kreykenbohm}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Kreykenbohm}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Wenzel}},
+  \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Antonin}}, \bibinfo
+  {author} {\bibfnamefont {V.}~\bibnamefont {Atlachkine}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {G.~F.}\ \bibnamefont {von Mollard}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {The {SNARE}s vti1a and vti1b have
+  distinct localization and {SNARE} complex partners.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {European Journal of Cell
+  Biology}\ }\textbf {\bibinfo {volume} {81}},\ \bibinfo {pages} {273--280}
+  (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Antonin}\ \emph {et~al.}(2000)\citenamefont
+  {Antonin}, \citenamefont {Holroyd}, \citenamefont {Fasshauer}, \citenamefont
+  {Pabst}, \citenamefont {Von~Mollard},\ and\ \citenamefont {Jahn}}]{Antonin}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Antonin}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Holroyd}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Fasshauer}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Pabst}}, \bibinfo {author}
+  {\bibfnamefont {G.~F.}\ \bibnamefont {Von~Mollard}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Jahn}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {A {SNARE} complex mediating fusion of late endosomes
+  defines conserved properties of snare structure and function.}}\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {EMBO Journal}\ }\textbf
+  {\bibinfo {volume} {19}},\ \bibinfo {pages} {6453--6464} (\bibinfo {year}
+  {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pryor}\ \emph {et~al.}(2004)\citenamefont {Pryor},
+  \citenamefont {Mullock}, \citenamefont {Bright}, \citenamefont {Lindsay},
+  \citenamefont {Gray}, \citenamefont {Richardson}, \citenamefont {Stewart},
+  \citenamefont {James}, \citenamefont {Piper},\ and\ \citenamefont
+  {Luzio}}]{Pryor}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~R.}\ \bibnamefont
+  {Pryor}}, \bibinfo {author} {\bibfnamefont {B.~M.}\ \bibnamefont {Mullock}},
+  \bibinfo {author} {\bibfnamefont {N.~A.}\ \bibnamefont {Bright}}, \bibinfo
+  {author} {\bibfnamefont {M.~R.}\ \bibnamefont {Lindsay}}, \bibinfo {author}
+  {\bibfnamefont {S.~R.}\ \bibnamefont {Gray}}, \bibinfo {author}
+  {\bibfnamefont {S.~C.~W.}\ \bibnamefont {Richardson}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Stewart}}, \bibinfo {author} {\bibfnamefont
+  {D.~E.}\ \bibnamefont {James}}, \bibinfo {author} {\bibfnamefont {R.~C.}\
+  \bibnamefont {Piper}}, \ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\
+  \bibnamefont {Luzio}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Combinatorial {SNARE} complexes with {VAMP}7 or {VAMP}8 define different
+  late endocytic fusion events.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {EMBO Reports}\ }\textbf {\bibinfo {volume} {5}},\
+  \bibinfo {pages} {590--595} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
 \end{thebibliography}%

@@ -95,7 +95,6 @@ Conversely, many proteins involved in intracellular trafficking were identified 
 % Together, these data confirmed the differential localization of the wild-type and mutant GLUT1 observed in immunofluorescence microscopy and further indicated that the mutant GLUT1 might reside in clathrin-coated vesicles, several endosomal compartments and the trans-Golgi network.
 %At steady state, GLUT1 is localized at the plasma membrane from where it undergoes continuous rounds of endocytosis and PDZ-motif-dependent endosome-to-plasma-membrane recycling (Wieman et al., 2009), the latter being mediated by the SNX27?retromer (Steinberg et al., 2013). RNA interference (RNAi)-mediated suppression of SNX27 or the retromer CSC component VPS35 leads to a pronounced decrease in the amount of GLUT1 at the cell surface and a corresponding decrease in whole-cell levels, as the transporter undergoes missorting and enhanced degradation in the lysosome (Steinberg et al., 2013).
 
-Furthermore, gene ontology (cellular component) analysis of the annotated proteins in Figure~\ref{fig:bioid2} also showed that proteins colocalizing with the wild-type GLUT1 were enriched for plasma membrane proteins ($P=5.89\times 10^{-9}$). In contrast, proteins colocalizing with the mutant GLUT1 were more associated with clathrin-coated vesicles ($P=6.17\times 10^{-10}$), endosomes ($P=2.14\times 10^{-7}$) and retromer complexes ($P=2.45\times 10^{-7}$) (Figure~\ref{fig:go}). Endocytosis was also identified as a significantly enriched biological process in the proteins colocalizing with the mutant GLUT1 ($P=4.27\times 10^{-11}$).
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/GO}
@@ -105,6 +104,7 @@ Furthermore, gene ontology (cellular component) analysis of the annotated protei
 Gene ontology analysis was performed with Metascape~\cite{Tripathi}. Only proteins with SILAC H/L and M/L ratios larger than 1.5, WT/P485L ratios larger than 2 in both forward and reverse experiments were selected for the analysis of wild-type specific proteins (A); the analysis of mutant-specific proteins (B) only included proteins with SILAC H/L and M/L ratios larger than 1.5, P485L/WT ratios larger than 2.
 \label{fig:go}
 \end{figure}
+Furthermore, gene ontology (cellular component) analysis of the annotated proteins in Figure~\ref{fig:bioid2} also showed that proteins colocalizing with the wild-type GLUT1 were enriched for plasma membrane proteins ($P=5.89\times 10^{-9}$). In contrast, proteins colocalizing with the mutant GLUT1 were more associated with clathrin-coated vesicles ($P=6.17\times 10^{-10}$), endosomes ($P=2.14\times 10^{-7}$) and retromer complexes ($P=2.45\times 10^{-7}$) (Figure~\ref{fig:go}). Endocytosis was also identified as a significantly enriched biological process in the proteins colocalizing with the mutant GLUT1 ($P=4.27\times 10^{-11}$).
 
 Together, these data confirmed the differential localization of the wild-type and mutant GLUT1 observed in immunofluorescence microscopy and indicated that the P485L mutation in GLUT1 causes the internalization of the protein via clathrin-dependent endocytosis. Consequently, the mutant protein might reside in clathrin-coated endocytic vesicles, endosomal compartments and the trans-Golgi network.
 \section{Co-localization study of GLUT1 variants}
@@ -118,60 +118,69 @@ To confirm that the mutant GLUT1 is taken up via clathrin-mediated endocytosis, 
 Wild-type (WT) and mutant (P485L) GLUT1-expressing cells were cultured on coverslips and induced with 0.1 \textmu g/mL doxycycline for 24 hr. The cells were then incubated with Alexa 568-conjugated transferrin (red, shown in greyscale in B and E) for 10 min before being fixed. The GLUT1 was stained with mouse anti-FLAG and Alexa 488-conjugated anti-mouse antibodies (green, shown in greyscale in A and D). Yellow in the overlay channels (C and F) indicates colocalization of green and red staining. Scale = 10 \textmu m.
 \label{fig:tf}
 \end{figure}
-
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/EE}
-\caption{The mutant GLUT1 co-localizes with early endosomal markers.}
+\caption{A subset of the mutant GLUT1 colocalizes with early endosomal markers.}
 \vspace*{-3mm}
 \small \justify
-Wild-type (WT) and mutant (P485L) GLUT1-expressing cells were induced with doxycycline and then stained for GLUT1 with mouse anti-FLAG and Alexa 488-conjugated anti-mouse antibodies (green). EEA1 (A-C, G-I) and Rab5 (D-F, J-L) were stained with their corresponding rabbit monoclonal antibodies (Table~\ref{tab:IF}) and Alexa 568-conjugated anti-rabbit antibodies (red). The Rab5 co-staining images were taken with zoom 3 and cropped into the size as shown. Scale = 10 \textmu m.
+Wild-type (WT, A-F) and mutant (P485L, G-L) GLUT1-expressing cells were induced with doxycycline and then stained for GLUT1 with mouse anti-FLAG and Alexa 488-conjugated anti-mouse antibodies (green). EEA1 (A-C, G-I) and Rab5 (D-F, J-L) were stained with their corresponding rabbit monoclonal antibodies (Table~\ref{tab:IF}) and Alexa 568-conjugated anti-rabbit antibodies (red). The Rab5 co-staining images were taken with zoom 3 and cropped into the size as shown. Scale = 10 \textmu m.
 \label{fig:ee}
 \end{figure}
+
 To further determine the subcellular localization of the mutant GLUT1, the GLUT1 expressing cells were co-immunostained with antibodies against organelle-specific marker proteins, including markers for early endosomes, recycling endosomes, late endosomes and the trans-Golgi network. The wild-type GLUT1 showed no colocalization with EEA1 and Rab5, two markers for early endosomes (Figure~\ref{fig:ee} C and I)~\cite{Mu}. By contrast, extensive colocalization was observed between the mutant GLUT1 and the early endosomal markers (Figure~\ref{fig:ee} F and L). Rab5 is a small GTPase involved in the formation of clathrin-coated vesicles (CCV) at the plasma membrane, their subsequent fusion with early endosomes, and the fusion between early endosomes, whereas EEA1 is one of the effector proteins of Rab5 and is recruited selectively on the membrane of early endosomes~\cite{Christoforidis,Rubino,Ballmer}. Because the endocytic CCV is devoid of EEA1, the staining patterns produced by antibodies to EEA1 and Rab5 were not identical (Figure~\ref{fig:ee} B, E, H and K). 
 %Some colocalization was observed between Rab5 and the mutant GLUT1, however, the images for this co-staining experiment was taken with a lower resolution than other images, thus were excluded for quantitative colocalization analysis.
 
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/re}
-\caption{The mutant GLUT1 co-localizes with recycling endosomal markers.}
+\caption{The mutant GLUT1 does not colocalize with recycling endosomal markers.}
 \vspace*{-3mm}
 \small \justify
-But not the wild-type GLUT1. Scale = 10 \textmu m.
+Cells expressing FLAG-tagged wild-type (WT) and mutant (P485L) GLUT1 were co-immunostained with antibodies against FLAG (green) and recycling endosomal markers (red), namely Rab4 (A-C, G-I) and Rab11 (D-F, J-L). Scale = 10 \textmu m.
 \label{fig:re}
 \end{figure}
+We then asked whether the mutant GLUT1 follows the same endosomal recycling as transferrin. Antibodies against two Rab proteins implicated in two distinct recycling pathways, Rab4 and Rab11, were used for this purpose. Rab4 plays a role in fast recycling from early endosomes back to the plasma membrane, whereas Rab11 is a marker for the slow recycling pathway from early endosomes to recycling endosomes, and finally back to the plasma membrane~\cite{Grant}. The mutant GLUT1 did not colocalize with Rab4 or Rab11 (Figure~\ref{fig:re} I and L). It is worth noting that both Rab11 and the wild-type GLUT1 showed staining on the cell surface (Figure~\ref{fig:re} C and F), which is consistent with their respective functional roles. 
 
 \begin{figure}[h]
 \centering
 \begin{subfigure}[h]{\linewidth}
 	\includegraphics[scale=0.7]{Figures/le}
 	\label{fig:le1}
+	\vspace*{-3mm}
+	\small \justify
+	\centering (Continued on the next page.)
 \end{subfigure}
 \end{figure}
-%
 \begin{figure}[h]\ContinuedFloat
 \centering
 \begin{subfigure}[h]{\linewidth}
 	\includegraphics[scale=0.7]{Figures/le2}
 	\label{fig:le2}
 \end{subfigure}
-\caption{The mutant GLUT1 co-localizes with late endosomal markers.}
+\caption{The mutant GLUT1 colocalizes with Rab9.}
 \vspace*{-3mm}
 \small \justify
-But not the wild-type GLUT1. Scale = 10 \textmu m.
+Cells expressing FLAG-tagged wild-type (WT) and mutant (P485L) GLUT1 were co-immunostained with antibodies against FLAG (green) and late endosomal markers (red), namely Rab9 (A-C, J-L), Rab7 (D-F, M-O) and LAMP1 (G-I, P-R). Scale = 10 \textmu m.
 \label{fig:le}
 \end{figure}
-A great proportion of endocytosed mutant GLUT1 was contained in Rab9-positive endosomes.
+Having shown that the mutant GLUT1 is not a cargo for endosomal recycling, we next investigated whether it is located in late endosomes. Three different late endosomal markers were used for the colocalization analysis: Rab9 mediates trafficking from late endosomes to the trans-Golgi network, Rab7 mediates trafficking from late endosomes to lysosomes, and LAMP1 is associated with endo-lysosomal structures~\cite{Stenmark,Saftig}. As expected, the wild-type GLUT1 did not colocalize with either late endosomal marker (Figure~\ref{fig:le}) C, F and I). Surprisingly, the mutant GLUT1 did not show significiant colocalization with Rab7 or LAMP1 either (Figure~\ref{fig:le} O and R), suggesting that the lysosomal degradation pathway might not be a major part of the mutant GLUT1 trafficking. However, the mutant GLUT1 did show significant tendency to colocalize with Rab9 (Figure~\ref{fig:le} L), indicating that a great proportion of endocytosed mutant GLUT1 might reside in the trans-Golgi network.
+% A great proportion of endocytosed mutant GLUT1 was contained in Rab9-positive endosomes.
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/tgn}
 \caption{The mutant GLUT1 co-localizes with TGN markers.}
 \vspace*{-3mm}
 \small \justify
-But not the wild-type GLUT1. Scale = 10 \textmu m.
+Cells expressing FLAG-tagged wild-type (WT) and mutant (P485L) GLUT1 were co-immunostained with antibodies against FLAG (green) and late endosomal markers (red), namely Vti1a (A-C, G-I) and Vti1b (D-F, J-L). Scale = 10 \textmu m.
 \label{fig:tgn}
 \end{figure}
 
+Through the recruitment of specific effector proteins, the Rab GTPases regulate intracellular trafficking processes such as membrane recruitment and membrane fusion~\cite{Stenmark}. As the other key component of the intracellular trafficking apparatus, The SNARE complexes are the principal effector of membrane fusion by forming tetrahelical bundles~\cite{Stenmark,Chen,Ohya}. Two SNARE proteins with distinct but overlapping localization, Vti1a and Vti1b, were used as markers for Golgi-associated trafficking to study the subcellular localization of the mutant GLUT1. Localized at the trans-Golgi network, Vti1a mediates the receipt of cargoes from early endosomes (Rab9-independent) and late endosomes (Rab9-dependent)~\cite{Ganley}. Vti1b is predominantly localized on tubules and vesicles in the trans-Golgi area and on late endosomes, where it has been shown to mediate the fusion of late endosomes together and with lysosomes~\cite{Kreykenbohm,Antonin,Pryor}. In contrast to the distinct localization of the wild-type GLUT1 and Golgi markers, the mutant GLUT1 showed extensive colocalization with both markers (Figure~\ref{fig:le} C, F, I and L), thereby confirming that the mutant GLUT1 localized to the trans-Golgi network.
+%To confirm this, the colocalization of GLUT1 and trans-Golgi markers was analyzed. 
+%colocalize at the perinuclear region
+
+Finally, the colocalization of GLUT1 variants and co-immunostaining markers was quantified by processing the images with the software Imaris~\cite{Costes}. The co-immunostaining images for FLAG and Rab5 (Figure~\ref{fig:ee} F and L) were excluded from quantitative analysis because the resolutions were not optimal. As shown in Figure~\ref{fig:coloc}, Transferrin, Rab9, Vti1a and Vti1b showed high tendency to colocalize with the mutant GLUT1, indicating that the endocytosed mutant GLUT1 might be largely localized in early endosomes, late endosomes and the trans-Golgi network.
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/coloc}
