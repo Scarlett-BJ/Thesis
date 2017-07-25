@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{62}%
+\begin{thebibliography}{61}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -309,52 +309,19 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Epilepsy Research}\ }\textbf
   {\bibinfo {volume} {84}},\ \bibinfo {pages} {254--256} (\bibinfo {year}
   {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Pandey}(2009)}]{Pandey}%
+\bibitem [{\citenamefont {Meyer}\ \emph {et~al.}(2017)\citenamefont {Meyer},
+  \citenamefont {Uyar}, \citenamefont {Kirchner}, \citenamefont {Cheng},
+  \citenamefont {Akalin},\ and\ \citenamefont {Selbach}}]{Meyer2}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~N.}\ \bibnamefont
-  {Pandey}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Functional roles
-  of short sequence motifs in the endocytosis of membrane receptors.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Frontiers in
-  Bioscience (Landmark Ed)}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo
-  {pages} {5339--5360} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Dinkel}\ \emph {et~al.}(2016)\citenamefont {Dinkel},
-  \citenamefont {Van~Roey}, \citenamefont {Michael}, \citenamefont {Kumar},
-  \citenamefont {Uyar}, \citenamefont {Altenberg}, \citenamefont
-  {Milchevskaya}, \citenamefont {Schneider}, \citenamefont {K{\"u}hn},
-  \citenamefont {Behrendt}, \citenamefont {Dahl}, \citenamefont {Damerell},
-  \citenamefont {Diebel}, \citenamefont {Kalman}, \citenamefont {Klein},
-  \citenamefont {Knudsen}, \citenamefont {M{\"a}der}, \citenamefont {Merrill},
-  \citenamefont {Staudt}, \citenamefont {Thiel}, \citenamefont {Welti},
-  \citenamefont {Davey}, \citenamefont {Diella},\ and\ \citenamefont
-  {Gibson}}]{Dinkel}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Dinkel}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Van~Roey}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Michael}}, \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {Kumar}}, \bibinfo {author}
-  {\bibfnamefont {B.}~\bibnamefont {Uyar}}, \bibinfo {author} {\bibfnamefont
-  {B.}~\bibnamefont {Altenberg}}, \bibinfo {author} {\bibfnamefont
-  {V.}~\bibnamefont {Milchevskaya}}, \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Schneider}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {K{\"u}hn}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Behrendt}}, \bibinfo {author} {\bibfnamefont {S.~L.}\
-  \bibnamefont {Dahl}}, \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
-  {Damerell}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Diebel}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kalman}}, \bibinfo
-  {author} {\bibfnamefont {S.}~\bibnamefont {Klein}}, \bibinfo {author}
-  {\bibfnamefont {A.~C.}\ \bibnamefont {Knudsen}}, \bibinfo {author}
-  {\bibfnamefont {C.}~\bibnamefont {M{\"a}der}}, \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {Merrill}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Staudt}}, \bibinfo {author} {\bibfnamefont
-  {V.}~\bibnamefont {Thiel}}, \bibinfo {author} {\bibfnamefont
-  {L.}~\bibnamefont {Welti}}, \bibinfo {author} {\bibfnamefont {N.~E.}\
-  \bibnamefont {Davey}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
-  {Diella}}, \ and\ \bibinfo {author} {\bibfnamefont {T.~J.}\ \bibnamefont
-  {Gibson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {{ELM}
-  2016---data update and new functionality of the eukaryotic linear motif
-  resource.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Nucleic Acids Research}\ }\textbf {\bibinfo {volume} {44}},\ \bibinfo
-  {pages} {D294--D300} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Meyer}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Uyar}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Kirchner}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Cheng}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Akalin}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Selbach}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Mutations in disordered regions cause disease by creating
+  endocytosis motifs.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {bioRxiv}\ } (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Couzens}\ \emph {et~al.}(2013)\citenamefont
   {Couzens}, \citenamefont {Knight}, \citenamefont {Kean}, \citenamefont {Teo},
   \citenamefont {Weiss}, \citenamefont {Dunham}, \citenamefont {Lin},
