@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  24 JUL 2017 22:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  25 JUL 2017 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2345,7 +2345,7 @@ A5-BirA-FLAG us-ing Gate-
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-<Figures/vector.pdf, id=277, 615.19644pt x 370.11214pt>
+<Figures/vector.pdf, id=272, 615.19644pt x 370.11214pt>
 File: Figures/vector.pdf Graphic file (type pdf)
 
 <use Figures/vector.pdf>
@@ -2360,7 +2360,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <Figures/BioID.pdf, id=285, 617.57024pt x 384.56693pt>
+] <Figures/BioID.pdf, id=280, 617.57024pt x 384.56693pt>
 File: Figures/BioID.pdf Graphic file (type pdf)
 
 <use Figures/BioID.pdf>
@@ -2371,7 +2371,7 @@ Package pdftex.def Info: Figures/BioID.pdf used on input line 39.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4 <./Figures/vector.pdf>] [5 <./Figures/BioID.pdf>]
-<Figures/treatment.pdf, id=334, 616.60808pt x 229.82643pt>
+<Figures/treatment.pdf, id=329, 616.60808pt x 229.82643pt>
 File: Figures/treatment.pdf Graphic file (type pdf)
 
 <use Figures/treatment.pdf>
@@ -2393,7 +2393,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 Chapter 3.
-<Figures/WB.pdf, id=405, 615.35829pt x 415.983pt>
+<Figures/WB.pdf, id=400, 615.35829pt x 415.983pt>
 File: Figures/WB.pdf Graphic file (type pdf)
  <use Figures/WB.pdf>
 Package pdftex.def Info: Figures/WB.pdf used on input line 15.
@@ -2402,7 +2402,7 @@ Package pdftex.def Info: Figures/WB.pdf used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/if.pdf, id=410, 618.0957pt x 547.3753pt>
+<Figures/if.pdf, id=405, 618.0957pt x 547.3753pt>
 File: Figures/if.pdf Graphic file (type pdf)
  <use Figures/if.pdf>
 Package pdftex.def Info: Figures/if.pdf used on input line 29.
@@ -2414,7 +2414,7 @@ Package pdftex.def Info: Figures/if.pdf used on input line 29.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Figures/WB.pdf>] [15 <./Figures/if.pdf>]
-<Figures/wb2.pdf, id=531, 614.56279pt x 223.1282pt>
+<Figures/wb2.pdf, id=526, 614.56279pt x 223.1282pt>
 File: Figures/wb2.pdf Graphic file (type pdf)
  <use Figures/wb2.pdf>
 Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
@@ -2422,13 +2422,13 @@ Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
 
 [16
 
- <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=589, 619.48228pt x 223.07973pt>
+ <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=584, 619.48228pt x 223.07973pt>
 File: Figures/wb3.pdf Graphic file (type pdf)
 
 <use Figures/wb3.pdf>
 Package pdftex.def Info: Figures/wb3.pdf used on input line 57.
 (pdftex.def)             Requested size: 433.63463pt x 156.15474pt.
- <Figures/glut1.pdf, id=595, 618.56865pt x 404.2567pt>
+ <Figures/glut1.pdf, id=590, 618.56865pt x 404.2567pt>
 File: Figures/glut1.pdf Graphic file (type pdf)
 
 <use Figures/glut1.pdf>
@@ -2439,26 +2439,26 @@ Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./Figures/wb3.pdf>]
-<Figures/bioid2.pdf, id=664, 615.49706pt x 393.18794pt>
+<Figures/bioid2.pdf, id=659, 615.49706pt x 393.18794pt>
 File: Figures/bioid2.pdf Graphic file (type pdf)
 
 <use Figures/bioid2.pdf>
 Package pdftex.def Info: Figures/bioid2.pdf used on input line 85.
 (pdftex.def)             Requested size: 430.845pt x 275.22968pt.
- [18 <./Figures/glut1.pdf>] [19 <./Figures/bioid2.pdf>] <Figures/GO.pdf, id=741
+ [18 <./Figures/glut1.pdf>] [19 <./Figures/bioid2.pdf>] <Figures/GO.pdf, id=736
 , 617.26097pt x 514.0802pt>
 File: Figures/GO.pdf Graphic file (type pdf)
  <use Figures/GO.pdf>
 Package pdftex.def Info: Figures/GO.pdf used on input line 100.
 (pdftex.def)             Requested size: 432.07973pt x 359.85368pt.
 
-[20 <./Figures/GO.pdf>] <Figures/tf.pdf, id=786, 617.59836pt x 388.07837pt>
+[20 <./Figures/GO.pdf>] <Figures/tf.pdf, id=781, 617.59836pt x 388.07837pt>
 File: Figures/tf.pdf Graphic file (type pdf)
 
 <use Figures/tf.pdf>
 Package pdftex.def Info: Figures/tf.pdf used on input line 114.
 (pdftex.def)             Requested size: 432.3159pt x 271.653pt.
- <Figures/EE.pdf, id=787, 616.90417pt x 754.80444pt>
+ <Figures/EE.pdf, id=782, 616.90417pt x 754.80444pt>
 File: Figures/EE.pdf Graphic file (type pdf)
 
 <use Figures/EE.pdf>
@@ -2474,13 +2474,11 @@ Overfull \hbox (7.32245pt too wide) in paragraph at lines 111--130
 ated en-do-cy-to-sis, doxycycline-
  []
 
+[21 <./Figures/tf.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/re.pdf, id=795, 617.17729pt x 750.85983pt>
+<Figures/re.pdf, id=820, 617.17729pt x 750.85983pt>
 File: Figures/re.pdf Graphic file (type pdf)
  <use Figures/re.pdf>
 Package pdftex.def Info: Figures/re.pdf used on input line 136.
@@ -2489,7 +2487,7 @@ Package pdftex.def Info: Figures/re.pdf used on input line 136.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/le.pdf, id=799, 616.99998pt x 559.08226pt>
+<Figures/le.pdf, id=824, 616.99998pt x 559.08226pt>
 File: Figures/le.pdf Graphic file (type pdf)
  <use Figures/le.pdf>
 Package pdftex.def Info: Figures/le.pdf used on input line 148.
@@ -2498,7 +2496,7 @@ Package pdftex.def Info: Figures/le.pdf used on input line 148.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/le2.pdf, id=800, 617.5021pt x 558.48076pt>
+<Figures/le2.pdf, id=825, 617.5021pt x 558.48076pt>
 File: Figures/le2.pdf Graphic file (type pdf)
  <use Figures/le2.pdf>
 Package pdftex.def Info: Figures/le2.pdf used on input line 158.
@@ -2507,23 +2505,27 @@ Package pdftex.def Info: Figures/le2.pdf used on input line 158.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/tgn.pdf, id=806, 617.97935pt x 749.69275pt>
+<Figures/tgn.pdf, id=831, 617.97935pt x 749.69275pt>
 File: Figures/tgn.pdf Graphic file (type pdf)
  <use Figures/tgn.pdf>
 Package pdftex.def Info: Figures/tgn.pdf used on input line 171.
 (pdftex.def)             Requested size: 432.5826pt x 524.78134pt.
 
-[21]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./Figures/tf.pdf>] <Figures/coloc.pdf, id=858, 560.0925pt x 305.14pt>
+[22] <Figures/coloc.pdf, id=853, 560.0925pt x 305.14pt>
 File: Figures/coloc.pdf Graphic file (type pdf)
 
 <use Figures/coloc.pdf>
-Package pdftex.def Info: Figures/coloc.pdf used on input line 186.
+Package pdftex.def Info: Figures/coloc.pdf used on input line 188.
 (pdftex.def)             Requested size: 392.06207pt x 213.59653pt.
 )
+Overfull \hbox (23.3416pt too wide) in paragraph at lines 183--233
+\T1/ptm/m/n/12 ti-fied by mea-sur-ing Pear-son's thresh-olded colo-cal-iza-tion
+ co-ef-fi-cents [[]]. The co-immunostaining
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2617,7 +2619,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  28834 strings out of 493014
  576872 string characters out of 6133352
- 592799 words of memory out of 5000000
+ 591803 words of memory out of 5000000
  31882 multiletter control sequences out of 15000+600000
  53210 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2634,10 +2636,10 @@ mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (55 pages, 78980365 bytes).
+Output written on main.pdf (55 pages, 78980840 bytes).
 PDF statistics:
- 1237 PDF objects out of 1440 (max. 8388607)
- 968 compressed objects within 10 object streams
+ 1234 PDF objects out of 1440 (max. 8388607)
+ 965 compressed objects within 10 object streams
  163 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 
