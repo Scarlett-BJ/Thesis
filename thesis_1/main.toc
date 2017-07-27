@@ -2,13 +2,22 @@
 \contentsline {chapter}{Abstract}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {1.1}The GLUT1\textsuperscript {P485L} mutation}{1}{section.7}
-\contentsline {section}{\numberline {1.2}Clathrin-mediated endocytosis and endocytic pathways}{2}{section.9}
-\contentsline {chapter}{\numberline {2}Discussion}{7}{chapter.11}
+\contentsline {section}{\numberline {1.1}The GLUT1\textsuperscript {P485L} mutation}{2}{section.8}
+\contentsline {section}{\numberline {1.2}Clathrin-mediated endocytosis and endocytic pathways}{3}{section.10}
+\contentsline {chapter}{\numberline {2}Materials and methods}{7}{chapter.12}
+\contentsline {chapter}{\numberline {3}Results}{17}{chapter.20}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {2.1}GLUT1 localization}{7}{section.12}
-\contentsline {section}{\numberline {2.2}Leakiness and loss of GLUT1 expression}{7}{section.13}
-\contentsline {chapter}{List of Abbreviations}{9}{table.15}
-\contentsline {chapter}{Acknowledgements}{11}{section*.16}
-\contentsline {chapter}{Literature}{13}{section*.17}
-\contentsline {chapter}{Statement of independent work}{17}{section*.19}
+\contentsline {section}{\numberline {3.1}Assessment of inducible GLUT1 expression}{17}{section.21}
+\contentsline {section}{\numberline {3.2}Effect of blocking proteolysis on GLUT1 levels}{20}{section.24}
+\contentsline {section}{\numberline {3.3}Cellular localization of GLUT1 variants}{21}{section.27}
+\contentsline {section}{\numberline {3.4}Proximity labeling of GLUT1 variants}{22}{section.29}
+\contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{25}{section.32}
+\contentsline {chapter}{\numberline {4}Discussion}{35}{chapter.40}
+\global \c@tocdepth 1\relax 
+\contentsline {section}{\numberline {4.1}GLUT1 localization}{35}{section.41}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{35}{section.42}
+\contentsline {section}{\numberline {4.3}Conclusion and outlook}{35}{section.43}
+\contentsline {chapter}{List of Abbreviations}{37}{table.45}
+\contentsline {chapter}{Acknowledgements}{39}{section*.46}
+\contentsline {chapter}{Literature}{41}{section*.47}
+\contentsline {chapter}{Statement of independent work}{49}{section*.49}
