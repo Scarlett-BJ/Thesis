@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{61}%
+\begin{thebibliography}{25}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -103,15 +103,14 @@
   {\bibinfo  {journal} {Annual Review of Physiology}\ }\textbf {\bibinfo
   {volume} {47}},\ \bibinfo {pages} {503--517} (\bibinfo {year}
   {1985})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Paul W.~Hruz}(2001{\natexlab{a}})}]{Paul-W.-Hruz}%
+\bibitem [{\citenamefont {Paul W.~Hruz}(2001)}]{Paul-W.-Hruz}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M.~M.}\
   \bibnamefont {Paul W.~Hruz}},\ }\bibfield  {title} {\enquote {\bibinfo
   {title} {Structural analysis of the {GLUT}1 facilitative glucose
   transporter.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Molecular Membrane Biology}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
-  {pages} {183--193} (\bibinfo {year} {2001}{\natexlab{a}})}\BibitemShut
-  {NoStop}%
+  {pages} {183--193} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Duelli}\ and\ \citenamefont
   {Kuschinsky}(2001)}]{Duelli}%
   \BibitemOpen
@@ -322,594 +321,69 @@
   {\bibinfo {title} {Mutations in disordered regions cause disease by creating
   endocytosis motifs.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {bioRxiv}\ } (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Couzens}\ \emph {et~al.}(2013)\citenamefont
-  {Couzens}, \citenamefont {Knight}, \citenamefont {Kean}, \citenamefont {Teo},
-  \citenamefont {Weiss}, \citenamefont {Dunham}, \citenamefont {Lin},
-  \citenamefont {Bagshaw}, \citenamefont {Sicheri}, \citenamefont {Pawson},
-  \citenamefont {Wrana}, \citenamefont {Choi},\ and\ \citenamefont
-  {Gingras}}]{Couzens}%
+\bibitem [{\citenamefont {Bonifacino}\ and\ \citenamefont
+  {Traub}(2003)}]{Bonifacino}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
-  {Couzens}}, \bibinfo {author} {\bibfnamefont {J.~D.~R.}\ \bibnamefont
-  {Knight}}, \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Kean}},
-  \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Teo}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Weiss}}, \bibinfo {author} {\bibfnamefont
-  {W.~H.}\ \bibnamefont {Dunham}}, \bibinfo {author} {\bibfnamefont {Z.-Y.}\
-  \bibnamefont {Lin}}, \bibinfo {author} {\bibfnamefont {R.~D.}\ \bibnamefont
-  {Bagshaw}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Sicheri}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Pawson}}, \bibinfo
-  {author} {\bibfnamefont {J.~L.}\ \bibnamefont {Wrana}}, \bibinfo {author}
-  {\bibfnamefont {H.}~\bibnamefont {Choi}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {A.-C.}\ \bibnamefont {Gingras}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Protein interaction network of the mammalian
-  {H}ippo pathway reveals mechanisms of kinase-phosphatase interactions.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
-  Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
-  (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Rappsilber}\ \emph {et~al.}(2007)\citenamefont
-  {Rappsilber}, \citenamefont {Mann},\ and\ \citenamefont
-  {Ishihama}}]{Rappsilber}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont
+  {Bonifacino}}\ and\ \bibinfo {author} {\bibfnamefont {L.~M.}\ \bibnamefont
+  {Traub}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Signals for
+  sorting of transmembrane proteins to endosomes and lysosomes.}}\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {Annual Review of
+  Biochemistry}\ }\textbf {\bibinfo {volume} {72}},\ \bibinfo {pages}
+  {395--447} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sandoval}\ \emph {et~al.}(2000)\citenamefont
+  {Sandoval}, \citenamefont {Mart?nez-Arca}, \citenamefont {Valdueza},
+  \citenamefont {Palacios},\ and\ \citenamefont {Holman}}]{Sandoval}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Rappsilber}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Mann}}, \
-  and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Ishihama}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Protocol for
-  micro-purification, enrichment, pre-fractionation and storage of peptides for
-  proteomics using {S}tage{T}ips.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nature Protoccols}\ }\textbf {\bibinfo {volume} {2}},\
-  \bibinfo {pages} {1896--1906} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Cox}\ \emph {et~al.}(2014)\citenamefont {Cox},
-  \citenamefont {Hein}, \citenamefont {Luber}, \citenamefont {Paron},
-  \citenamefont {Nagaraj},\ and\ \citenamefont {Mann}}]{Cox}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Cox}}, \bibinfo {author} {\bibfnamefont {M.~Y.}\ \bibnamefont {Hein}},
-  \bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Luber}}, \bibinfo
-  {author} {\bibfnamefont {I.}~\bibnamefont {Paron}}, \bibinfo {author}
-  {\bibfnamefont {N.}~\bibnamefont {Nagaraj}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {M.}~\bibnamefont {Mann}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Accurate proteome-wide label-free quantification by
-  delayed normalization and maximal peptide ratio extraction, termed
-  {M}ax{LFQ}.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Molecular \& Cellular Proteomics: MCP}\ }\textbf {\bibinfo {volume} {13}},\
-  \bibinfo {pages} {2513--2526} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Tyanova}\ \emph {et~al.}(2016)\citenamefont
-  {Tyanova}, \citenamefont {Temu}, \citenamefont {Sinitcyn}, \citenamefont
-  {Carlson}, \citenamefont {Hein}, \citenamefont {Geiger}, \citenamefont
-  {Mann},\ and\ \citenamefont {Cox}}]{Tyanova}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Tyanova}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Temu}},
-  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Sinitcyn}}, \bibinfo
-  {author} {\bibfnamefont {A.}~\bibnamefont {Carlson}}, \bibinfo {author}
-  {\bibfnamefont {M.~Y.}\ \bibnamefont {Hein}}, \bibinfo {author}
-  {\bibfnamefont {T.}~\bibnamefont {Geiger}}, \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Mann}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {Cox}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {The {P}erseus computational platform for comprehensive analysis of
-  (prote)omics data.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Nature Methods}\ }\textbf {\bibinfo {volume} {13}},\ \bibinfo
-  {pages} {731--740} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Tripathi}\ \emph {et~al.}(2015)\citenamefont
-  {Tripathi}, \citenamefont {Pohl}, \citenamefont {Zhou}, \citenamefont
-  {Rodriguez-Frandsen}, \citenamefont {Wang}, \citenamefont {Stein},
-  \citenamefont {Moulton}, \citenamefont {DeJesus}, \citenamefont {Che},
-  \citenamefont {Mulder}, \citenamefont {Y{\'a}ng{\"u}ez}, \citenamefont
-  {Andenmatten}, \citenamefont {Pache}, \citenamefont {Manicassamy},
-  \citenamefont {Albrecht}, \citenamefont {Gonzalez}, \citenamefont {Nguyen},
-  \citenamefont {Brass}, \citenamefont {Elledge}, \citenamefont {White},
-  \citenamefont {Shapira}, \citenamefont {Hacohen}, \citenamefont {Karlas},
-  \citenamefont {Meyer}, \citenamefont {Shales}, \citenamefont {Gatorano},
-  \citenamefont {Johnson}, \citenamefont {Jang}, \citenamefont {Johnson},
-  \citenamefont {Verschueren}, \citenamefont {Sanders}, \citenamefont {Krogan},
-  \citenamefont {Shaw}, \citenamefont {K{\"o}nig}, \citenamefont {Stertz},
-  \citenamefont {Garc{\'\i}a-Sastre},\ and\ \citenamefont {Chanda}}]{Tripathi}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Tripathi}}, \bibinfo {author} {\bibfnamefont {M.~O.}\ \bibnamefont {Pohl}},
-  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Zhou}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Rodriguez-Frandsen}}, \bibinfo {author}
-  {\bibfnamefont {G.}~\bibnamefont {Wang}}, \bibinfo {author} {\bibfnamefont
-  {D.~A.}\ \bibnamefont {Stein}}, \bibinfo {author} {\bibfnamefont {H.~M.}\
-  \bibnamefont {Moulton}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {DeJesus}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Che}},
-  \bibinfo {author} {\bibfnamefont {L.~C.~F.}\ \bibnamefont {Mulder}}, \bibinfo
-  {author} {\bibfnamefont {E.}~\bibnamefont {Y{\'a}ng{\"u}ez}}, \bibinfo
-  {author} {\bibfnamefont {D.}~\bibnamefont {Andenmatten}}, \bibinfo {author}
-  {\bibfnamefont {L.}~\bibnamefont {Pache}}, \bibinfo {author} {\bibfnamefont
-  {B.}~\bibnamefont {Manicassamy}}, \bibinfo {author} {\bibfnamefont {R.~A.}\
-  \bibnamefont {Albrecht}}, \bibinfo {author} {\bibfnamefont {M.~G.}\
-  \bibnamefont {Gonzalez}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Nguyen}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Brass}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Elledge}}, \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {White}}, \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {Shapira}}, \bibinfo {author} {\bibfnamefont
-  {N.}~\bibnamefont {Hacohen}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Karlas}}, \bibinfo {author} {\bibfnamefont {T.~F.}\
-  \bibnamefont {Meyer}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Shales}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Gatorano}},
-  \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Johnson}}, \bibinfo
-  {author} {\bibfnamefont {G.}~\bibnamefont {Jang}}, \bibinfo {author}
-  {\bibfnamefont {T.}~\bibnamefont {Johnson}}, \bibinfo {author} {\bibfnamefont
-  {E.}~\bibnamefont {Verschueren}}, \bibinfo {author} {\bibfnamefont
-  {D.}~\bibnamefont {Sanders}}, \bibinfo {author} {\bibfnamefont
-  {N.}~\bibnamefont {Krogan}}, \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Shaw}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {K{\"o}nig}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Stertz}},
-  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Garc{\'\i}a-Sastre}}, \
-  and\ \bibinfo {author} {\bibfnamefont {S.~K.}\ \bibnamefont {Chanda}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Meta- and orthogonal
-  integration of influenza {OMIC}s data defines a role for {UBR}4 in virus
-  budding.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Cell
-  Host \& Microbe}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo {pages}
-  {723--735} (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Costes}\ \emph {et~al.}(2004)\citenamefont {Costes},
-  \citenamefont {Daelemans}, \citenamefont {Cho}, \citenamefont {Dobbin},
-  \citenamefont {Pavlakis},\ and\ \citenamefont {Lockett}}]{Costes}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~V.}\ \bibnamefont
-  {Costes}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Daelemans}},
-  \bibinfo {author} {\bibfnamefont {E.~H.}\ \bibnamefont {Cho}}, \bibinfo
-  {author} {\bibfnamefont {Z.}~\bibnamefont {Dobbin}}, \bibinfo {author}
-  {\bibfnamefont {G.}~\bibnamefont {Pavlakis}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {Lockett}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Automatic and quantitative measurement of protein-protein
-  colocalization in live cells.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Biophysical Journal}\ }\textbf {\bibinfo {volume}
-  {86}},\ \bibinfo {pages} {3993--4003} (\bibinfo {year} {2004})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Hillen}\ and\ \citenamefont {Berens}(1994)}]{Hillen}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
-  {Hillen}}\ and\ \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
-  {Berens}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Mechanisms
-  underlying expression of {T}n10 encoded tetracycline resistance.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Annual Review of
-  Microbiology}\ }\textbf {\bibinfo {volume} {48}},\ \bibinfo {pages}
-  {345--369} (\bibinfo {year} {1994})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Xu}\ \emph {et~al.}(2003)\citenamefont {Xu},
-  \citenamefont {Mizuguchi}, \citenamefont {Mayumi},\ and\ \citenamefont
-  {Hayakawa}}]{Xu}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.-L.}\ \bibnamefont
-  {Xu}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Mizuguchi}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Mayumi}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {T.}~\bibnamefont {Hayakawa}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Regulated gene expression from adenovirus
-  vectors: a systematic comparison of various inducible systems.}}\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {Gene}\ }\textbf {\bibinfo
-  {volume} {309}},\ \bibinfo {pages} {145 -- 151} (\bibinfo {year}
-  {2003})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zel'tser}\ \emph {et~al.}(1978)\citenamefont
-  {Zel'tser}, \citenamefont {Balabanova}, \citenamefont {Lapchinskaia},
-  \citenamefont {Anufrieva},\ and\ \citenamefont {Gerasimova}}]{Zeltser}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~Z.}\ \bibnamefont
-  {Zel'tser}}, \bibinfo {author} {\bibfnamefont {E.~L.}\ \bibnamefont
-  {Balabanova}}, \bibinfo {author} {\bibfnamefont {A.~V.}\ \bibnamefont
-  {Lapchinskaia}}, \bibinfo {author} {\bibfnamefont {R.~G.}\ \bibnamefont
-  {Anufrieva}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~S.}\ \bibnamefont
-  {Gerasimova}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Comparative
-  toxicity of oxytetracycline and its semisynthetic derivatives, methacycline
-  and doxycycline.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Antibiotiki}\ }\textbf {\bibinfo {volume} {23}},\ \bibinfo {pages}
-  {533--536} (\bibinfo {year} {1978})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Pham}\ \emph {et~al.}(2008)\citenamefont {Pham},
-  \citenamefont {Moretti}, \citenamefont {Goodall},\ and\ \citenamefont
-  {Pitson}}]{Pham}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~H.}\ \bibnamefont
-  {Pham}}, \bibinfo {author} {\bibfnamefont {P.~A.~B.}\ \bibnamefont
-  {Moretti}}, \bibinfo {author} {\bibfnamefont {G.~J.}\ \bibnamefont
-  {Goodall}}, \ and\ \bibinfo {author} {\bibfnamefont {S.~M.}\ \bibnamefont
-  {Pitson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Attenuation of
-  leakiness in doxycycline-inducible expression via incorporation of 3'
-  {AU}-rich m{RNA} destabilizing elements.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Biotechniques}\ }\textbf {\bibinfo {volume}
-  {45}},\ \bibinfo {pages} {155--156} (\bibinfo {year} {2008})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Senkel}\ \emph {et~al.}(2009)\citenamefont {Senkel},
-  \citenamefont {Waldner}, \citenamefont {Ryffel},\ and\ \citenamefont
-  {Thomas}}]{Senkel}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Senkel}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Waldner}},
-  \bibinfo {author} {\bibfnamefont {G.~U.}\ \bibnamefont {Ryffel}}, \ and\
-  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Thomas}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Improved conditional expression systems
-  resulting in physiological level of {HNF}4? expression confirm {HNF}4?
-  induced apoptosis in the pancreatic ?-cell line {INS}-1},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {BMC Research Notes}\ }\textbf
-  {\bibinfo {volume} {2}},\ \bibinfo {pages} {210--210} (\bibinfo {year}
-  {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Tanida}\ \emph {et~al.}(2005)\citenamefont {Tanida},
-  \citenamefont {Minematsu-Ikeguchi}, \citenamefont {Ueno},\ and\ \citenamefont
-  {Kominami}}]{Tanida}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
-  {Tanida}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
-  {Minematsu-Ikeguchi}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Ueno}}, \ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {Kominami}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Lysosomal
-  turnover, but not a cellular level, of endogenous {LC}3 is a marker for
-  autophagy.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Autophagy}\ }\textbf {\bibinfo {volume} {1}},\ \bibinfo {pages} {84--91}
-  (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Lee}\ and\ \citenamefont {Goldberg}(2017)}]{Lee.2}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~H.}\ \bibnamefont
-  {Lee}}\ and\ \bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
-  {Goldberg}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Proteasome
-  inhibitors: valuable new tools for cell biologists},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Trends in Cell Biology}\ }\textbf
-  {\bibinfo {volume} {8}},\ \bibinfo {pages} {397--403} (\bibinfo {year}
-  {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Yamamoto}\ \emph {et~al.}(1998)\citenamefont
-  {Yamamoto}, \citenamefont {Tagawa}, \citenamefont {Yoshimori}, \citenamefont
-  {Moriyama}, \citenamefont {Masaki},\ and\ \citenamefont
-  {Tashiro}}]{Yamamoto}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Yamamoto}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Tagawa}},
-  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Yoshimori}}, \bibinfo
-  {author} {\bibfnamefont {Y.}~\bibnamefont {Moriyama}}, \bibinfo {author}
-  {\bibfnamefont {R.}~\bibnamefont {Masaki}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {Y.}~\bibnamefont {Tashiro}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Bafilomycin {A}1 prevents maturation of autophagic
-  vacuoles by inhibiting fusion between autophagosomes and lysosomes in rat
-  hepatoma cell line, h-4-ii-e cells.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Cell Structure and Function}\ }\textbf {\bibinfo
-  {volume} {23}},\ \bibinfo {pages} {33--42} (\bibinfo {year}
-  {1998})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Klionsky}\ \emph {et~al.}(2008)\citenamefont
-  {Klionsky}, \citenamefont {Elazar}, \citenamefont {Seglen},\ and\
-  \citenamefont {Rubinsztein}}]{Klionsky}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~J.}\ \bibnamefont
-  {Klionsky}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Elazar}},
-  \bibinfo {author} {\bibfnamefont {P.~O.}\ \bibnamefont {Seglen}}, \ and\
-  \bibinfo {author} {\bibfnamefont {D.~C.}\ \bibnamefont {Rubinsztein}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Does bafilomycin {A}1 block
-  the fusion of autophagosomes with lysosomes?}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Autophagy}\ }\textbf {\bibinfo {volume}
-  {4}},\ \bibinfo {pages} {849--850} (\bibinfo {year} {2008})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Fehr}\ and\ \citenamefont {Yu}(2010)}]{Fehr}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~R.}\ \bibnamefont
-  {Fehr}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Yu}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Human cytomegalovirus gene
-  {UL}21a encodes a short-lived cytoplasmic protein and facilitates virus
-  replication in fibroblasts.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Journal of Virology}\ }\textbf {\bibinfo {volume} {84}},\
-  \bibinfo {pages} {291--302} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mueckler}\ \emph {et~al.}(1985)\citenamefont
-  {Mueckler}, \citenamefont {Caruso}, \citenamefont {Baldwin}, \citenamefont
-  {Panico}, \citenamefont {Blench}, \citenamefont {Morris}, \citenamefont
-  {Allard}, \citenamefont {Lienhard},\ and\ \citenamefont
-  {Lodish}}]{Mueckler.2}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Mueckler}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Caruso}},
-  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Baldwin}}, \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {Panico}}, \bibinfo {author}
-  {\bibfnamefont {I.}~\bibnamefont {Blench}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Morris}}, \bibinfo {author} {\bibfnamefont
-  {W.}~\bibnamefont {Allard}}, \bibinfo {author} {\bibfnamefont
-  {G.}~\bibnamefont {Lienhard}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Lodish}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Sequence and structure of a human glucose transporter.}}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo
-  {volume} {229}},\ \bibinfo {pages} {941--945} (\bibinfo {year}
-  {1985})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hresko}\ \emph {et~al.}(1994)\citenamefont {Hresko},
-  \citenamefont {Kruse}, \citenamefont {Strube},\ and\ \citenamefont
-  {Mueckler}}]{Hresko}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~C.}\ \bibnamefont
-  {Hresko}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Kruse}},
-  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Strube}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {Mueckler}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Topology of the {G}lut 1 glucose transporter
-  deduced from glycosylation scanning mutagenesis.}}\ }\href@noop {} {\bibfield
-   {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
-  {\bibinfo {volume} {269}},\ \bibinfo {pages} {20482--8} (\bibinfo {year}
-  {1994})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Paul W.~Hruz}(2001{\natexlab{b}})}]{Hruz}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~M.~M.}\
-  \bibnamefont {Paul W.~Hruz}},\ }\bibfield  {title} {\enquote {\bibinfo
-  {title} {Structural analysis of the {GLUT}1 facilitative glucose
-  transporter.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Molecular Membrane Biology}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo
-  {pages} {183--193} (\bibinfo {year} {2001}{\natexlab{b}})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Kim}\ \emph {et~al.}(2014)\citenamefont {Kim},
-  \citenamefont {KC}, \citenamefont {Zhu}, \citenamefont {Motamedchaboki},
-  \citenamefont {Doye},\ and\ \citenamefont {Roux}}]{Kim}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~I.}\ \bibnamefont
-  {Kim}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {KC}}, \bibinfo
-  {author} {\bibfnamefont {W.}~\bibnamefont {Zhu}}, \bibinfo {author}
-  {\bibfnamefont {K.}~\bibnamefont {Motamedchaboki}}, \bibinfo {author}
-  {\bibfnamefont {V.}~\bibnamefont {Doye}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {K.~J.}\ \bibnamefont {Roux}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Probing nuclear pore complex architecture with
-  proximity-dependent biotinylation.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Proceedings of the National Academy of Sciences}\
-  }\textbf {\bibinfo {volume} {111}},\ \bibinfo {pages} {E2453--E2461}
-  (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Dong}\ \emph {et~al.}(2016)\citenamefont {Dong},
-  \citenamefont {Tay}, \citenamefont {Swa}, \citenamefont {Gunaratne},
-  \citenamefont {Leung}, \citenamefont {Burke},\ and\ \citenamefont
-  {Manser}}]{Dong}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-M.}\ \bibnamefont
-  {Dong}}, \bibinfo {author} {\bibfnamefont {F.~P.-L.}\ \bibnamefont {Tay}},
-  \bibinfo {author} {\bibfnamefont {H.~L.-F.}\ \bibnamefont {Swa}}, \bibinfo
-  {author} {\bibfnamefont {J.}~\bibnamefont {Gunaratne}}, \bibinfo {author}
-  {\bibfnamefont {T.}~\bibnamefont {Leung}}, \bibinfo {author} {\bibfnamefont
-  {B.}~\bibnamefont {Burke}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {E.}~\bibnamefont {Manser}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Proximity biotinylation provides insight into the molecular composition of
-  focal adhesions at the nanometer scale.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Sci Signal}\ }\textbf {\bibinfo {volume}
-  {9}},\ \bibinfo {pages} {rs4} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {He}\ \emph {et~al.}(2009)\citenamefont {He},
-  \citenamefont {Vasiliou},\ and\ \citenamefont {Nebert}}]{He}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {He}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Vasiliou}}, \ and\
-  \bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont {Nebert}},\ }\bibfield
-   {title} {\enquote {\bibinfo {title} {Analysis and update of the human solute
-  carrier ({SLC}) gene superfamily.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Human Genomics}\ }\textbf {\bibinfo {volume} {3}},\
-  \bibinfo {pages} {195--205} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Himanen}\ \emph {et~al.}(2001)\citenamefont
-  {Himanen}, \citenamefont {Rajashankar}, \citenamefont {Lackmann},
-  \citenamefont {Cowan}, \citenamefont {Henkemeyer},\ and\ \citenamefont
-  {Nikolov}}]{Himanen}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-P.}\ \bibnamefont
-  {Himanen}}, \bibinfo {author} {\bibfnamefont {K.~R.}\ \bibnamefont
-  {Rajashankar}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Lackmann}}, \bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Cowan}},
-  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Henkemeyer}}, \ and\
-  \bibinfo {author} {\bibfnamefont {D.~B.}\ \bibnamefont {Nikolov}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Crystal structure of an
-  {E}ph receptor-ephrin complex.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nature}\ }\textbf {\bibinfo {volume} {414}},\ \bibinfo
-  {pages} {933--938} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Rojas}\ \emph {et~al.}(2007)\citenamefont {Rojas},
-  \citenamefont {Kametaka}, \citenamefont {Haft},\ and\ \citenamefont
-  {Bonifacino}}]{Rojas}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Rojas}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kametaka}},
-  \bibinfo {author} {\bibfnamefont {C.~R.}\ \bibnamefont {Haft}}, \ and\
-  \bibinfo {author} {\bibfnamefont {J.~S.}\ \bibnamefont {Bonifacino}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Interchangeable but
-  essential functions of {SNX}1 and {SNX}2 in the association of retromer with
-  endosomes and the trafficking of mannose 6-phosphate receptors.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Molecular and
-  Cellular Biology}\ }\textbf {\bibinfo {volume} {27}},\ \bibinfo {pages}
-  {1112--1124} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Carlton}\ \emph {et~al.}(2004)\citenamefont
-  {Carlton}, \citenamefont {Bujny}, \citenamefont {Peter}, \citenamefont
-  {Oorschot}, \citenamefont {Rutherford}, \citenamefont {Mellor}, \citenamefont
-  {Klumperman}, \citenamefont {McMahon},\ and\ \citenamefont
-  {Cullen}}]{Carlton}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Carlton}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Bujny}},
-  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Peter}}, \bibinfo
-  {author} {\bibfnamefont {V.~M.~J.}\ \bibnamefont {Oorschot}}, \bibinfo
-  {author} {\bibfnamefont {A.}~\bibnamefont {Rutherford}}, \bibinfo {author}
-  {\bibfnamefont {H.}~\bibnamefont {Mellor}}, \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {Klumperman}}, \bibinfo {author} {\bibfnamefont {H.~T.}\
-  \bibnamefont {McMahon}}, \ and\ \bibinfo {author} {\bibfnamefont {P.~J.}\
-  \bibnamefont {Cullen}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Sorting nexin-1 mediates tubular endosome-to-{TGN} transport through
-  coincidence sensing of high-curvature membranes and 3-phosphoinositides},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Current Biology}\
-  }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1791--1800} (\bibinfo
-  {year} {2004})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mari}\ \emph {et~al.}(2008)\citenamefont {Mari},
-  \citenamefont {Bujny}, \citenamefont {Zeuschner}, \citenamefont {Geerts},
-  \citenamefont {Griffith}, \citenamefont {Petersen}, \citenamefont {Cullen},
-  \citenamefont {Klumperman},\ and\ \citenamefont {Geuze}}]{Mari}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Mari}}, \bibinfo {author} {\bibfnamefont {M.~V.}\ \bibnamefont {Bujny}},
-  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Zeuschner}}, \bibinfo
-  {author} {\bibfnamefont {W.~J.~C.}\ \bibnamefont {Geerts}}, \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {Griffith}}, \bibinfo {author}
-  {\bibfnamefont {C.~M.}\ \bibnamefont {Petersen}}, \bibinfo {author}
-  {\bibfnamefont {P.~J.}\ \bibnamefont {Cullen}}, \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {Klumperman}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {H.~J.}\ \bibnamefont {Geuze}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {{SNX}1 defines an early endosomal recycling exit for
-  sortilin and mannose 6-phosphate receptors},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Traffic}\ }\textbf {\bibinfo {volume} {9}},\
-  \bibinfo {pages} {380--393} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Harterink}\ \emph {et~al.}(2011)\citenamefont
-  {Harterink}, \citenamefont {Port}, \citenamefont {Lorenowicz}, \citenamefont
-  {McGough}, \citenamefont {Silhankova}, \citenamefont {Betist}, \citenamefont
-  {van Weering}, \citenamefont {van Heesbeen}, \citenamefont {Middelkoop},
-  \citenamefont {Basler}, \citenamefont {Cullen},\ and\ \citenamefont
-  {Korswagen}}]{Harterink}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Harterink}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Port}},
-  \bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Lorenowicz}},
-  \bibinfo {author} {\bibfnamefont {I.~J.}\ \bibnamefont {McGough}}, \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {Silhankova}}, \bibinfo {author}
-  {\bibfnamefont {M.~C.}\ \bibnamefont {Betist}}, \bibinfo {author}
-  {\bibfnamefont {J.~R.~T.}\ \bibnamefont {van Weering}}, \bibinfo {author}
-  {\bibfnamefont {R.~G. H.~P.}\ \bibnamefont {van Heesbeen}}, \bibinfo {author}
-  {\bibfnamefont {T.~C.}\ \bibnamefont {Middelkoop}}, \bibinfo {author}
-  {\bibfnamefont {K.}~\bibnamefont {Basler}}, \bibinfo {author} {\bibfnamefont
-  {P.~J.}\ \bibnamefont {Cullen}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {H.~C.}\ \bibnamefont {Korswagen}},\ }\bibfield  {title} {\enquote {\bibinfo
-  {title} {A {SNX}3-dependent retromer pathway mediates retrograde transport of
-  the {W}nt sorting receptor {W}ntless and is required for {W}nt secretion.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\
-  }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {914--923} (\bibinfo
-  {year} {2011})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mills}\ \emph {et~al.}(2003)\citenamefont {Mills},
-  \citenamefont {Praefcke}, \citenamefont {Vallis}, \citenamefont {Peter},
-  \citenamefont {Olesen}, \citenamefont {Gallop}, \citenamefont {Butler},
-  \citenamefont {Evans},\ and\ \citenamefont {McMahon}}]{Mills}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~G.}\ \bibnamefont
-  {Mills}}, \bibinfo {author} {\bibfnamefont {G.~J.~K.}\ \bibnamefont
-  {Praefcke}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Vallis}},
-  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Peter}}, \bibinfo
-  {author} {\bibfnamefont {L.~E.}\ \bibnamefont {Olesen}}, \bibinfo {author}
-  {\bibfnamefont {J.~L.}\ \bibnamefont {Gallop}}, \bibinfo {author}
-  {\bibfnamefont {P.~J.~G.}\ \bibnamefont {Butler}}, \bibinfo {author}
-  {\bibfnamefont {P.~R.}\ \bibnamefont {Evans}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {H.~T.}\ \bibnamefont {McMahon}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Epsin{R}.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {The Journal of Cell Biology}\ }\textbf
-  {\bibinfo {volume} {160}},\ \bibinfo {pages} {213} (\bibinfo {year}
-  {2003})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Kalthoff}\ \emph {et~al.}(2002)\citenamefont
-  {Kalthoff}, \citenamefont {Groos}, \citenamefont {Kohl}, \citenamefont
-  {Mahrhold},\ and\ \citenamefont {Ungewickell}}]{Kalthoff}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
-  {Kalthoff}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Groos}},
-  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Kohl}}, \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {Mahrhold}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {E.~J.}\ \bibnamefont {Ungewickell}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Clint: a novel clathrin-binding {ENTH}-domain
-  protein at the {G}olgi.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Molecular Biology of the Cell}\ }\textbf {\bibinfo {volume}
-  {13}},\ \bibinfo {pages} {4060--4073} (\bibinfo {year} {2002})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Hirst}\ \emph {et~al.}(2015)\citenamefont {Hirst},
-  \citenamefont {Edgar}, \citenamefont {Borner}, \citenamefont {Li},
-  \citenamefont {Sahlender}, \citenamefont {Antrobus},\ and\ \citenamefont
-  {Robinson}}]{Hirst}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Hirst}}, \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Edgar}},
-  \bibinfo {author} {\bibfnamefont {G.~H.~H.}\ \bibnamefont {Borner}}, \bibinfo
-  {author} {\bibfnamefont {S.}~\bibnamefont {Li}}, \bibinfo {author}
-  {\bibfnamefont {D.~A.}\ \bibnamefont {Sahlender}}, \bibinfo {author}
-  {\bibfnamefont {R.}~\bibnamefont {Antrobus}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {M.~S.}\ \bibnamefont {Robinson}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Contributions of epsin{R} and gadkin to
-  clathrin-mediated intracellular trafficking.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Molecular Biology of the Cell}\ }\textbf
-  {\bibinfo {volume} {26}},\ \bibinfo {pages} {3085--3103} (\bibinfo {year}
-  {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Byrd}\ \emph {et~al.}(2000)\citenamefont {Byrd},
-  \citenamefont {Park}, \citenamefont {Schaffer}, \citenamefont {Garmroudi},\
-  and\ \citenamefont {MacDonald}}]{Byrd}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont
-  {Byrd}}, \bibinfo {author} {\bibfnamefont {J.~H.~Y.}\ \bibnamefont {Park}},
-  \bibinfo {author} {\bibfnamefont {B.~S.}\ \bibnamefont {Schaffer}}, \bibinfo
-  {author} {\bibfnamefont {F.}~\bibnamefont {Garmroudi}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {R.~G.}\ \bibnamefont {MacDonald}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Dimerization of the insulin-like growth
-  factor ii/mannose 6-phosphate receptor.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
-  {\bibinfo {volume} {275}},\ \bibinfo {pages} {18647--18656} (\bibinfo {year}
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~V.}\ \bibnamefont
+  {Sandoval}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Mart?nez-Arca}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Valdueza}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Palacios}},
+  \ and\ \bibinfo {author} {\bibfnamefont {G.~D.}\ \bibnamefont {Holman}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Distinct reading of
+  different structural determinants modulates the dileucine-mediated transport
+  steps of the lysosomal membrane protein {LIMPII} and the insulin-sensitive
+  glucose transporter {GLUT}4.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf {\bibinfo
+  {volume} {275}},\ \bibinfo {pages} {39874--39885} (\bibinfo {year}
   {2000})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Daro}\ \emph {et~al.}(1996)\citenamefont {Daro},
-  \citenamefont {van~der Sluijs}, \citenamefont {Galli},\ and\ \citenamefont
-  {Mellman}}]{Daro}%
+\bibitem [{\citenamefont {McMahon}\ and\ \citenamefont
+  {Boucrot}(2011)}]{McMahon}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {Daro}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {van~der
-  Sluijs}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Galli}}, \ and\
-  \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Mellman}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Rab4 and cellubrevin define different
-  early endosome populations on the pathway of transferrin receptor
-  recycling.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Proceedings of the National Academy of Sciences}\ }\textbf {\bibinfo
-  {volume} {93}},\ \bibinfo {pages} {9559--9564} (\bibinfo {year}
-  {1996})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hanover}\ \emph {et~al.}(1984)\citenamefont
-  {Hanover}, \citenamefont {Willingham},\ and\ \citenamefont
-  {Pastan}}]{Hanover}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.~T.}\ \bibnamefont
+  {McMahon}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Boucrot}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Molecular
+  mechanism and physiological functions of clathrin-mediated endocytosis.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nature Reviews
+  Molecular Cell Biology}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo {pages}
+  {517--533} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Humphries}\ and\ \citenamefont
+  {Way}(2013)}]{Humphries}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~A.}\ \bibnamefont
-  {Hanover}}, \bibinfo {author} {\bibfnamefont {M.~C.}\ \bibnamefont
-  {Willingham}}, \ and\ \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
-  {Pastan}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Kinetics of
-  transit of transferrin and epidermal growth factor through clathrin-coated
-  membranes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Cell}\ }\textbf {\bibinfo {volume} {39}},\ \bibinfo {pages} {283--293}
-  (\bibinfo {year} {1984})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mu}\ \emph {et~al.}(1995)\citenamefont {Mu},
-  \citenamefont {Callaghan}, \citenamefont {Steele-Mortimer}, \citenamefont
-  {Stenmark}, \citenamefont {Parton}, \citenamefont {Campbell}, \citenamefont
-  {McCluskey}, \citenamefont {Yeo}, \citenamefont {Tock},\ and\ \citenamefont
-  {Toh}}]{Mu}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~C.}\ \bibnamefont
+  {Humphries}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Way}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The non-canonical
+  roles of clathrin and actin in pathogen internalization, egress and
+  spread.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nature
+  Reviews Microbiology}\ }\textbf {\bibinfo {volume} {11}},\ \bibinfo {pages}
+  {551--560} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huotari}\ and\ \citenamefont
+  {Helenius}(2011)}]{Huotari}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.-T.}\ \bibnamefont
-  {Mu}}, \bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont {Callaghan}},
-  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Steele-Mortimer}},
-  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Stenmark}}, \bibinfo
-  {author} {\bibfnamefont {R.~G.}\ \bibnamefont {Parton}}, \bibinfo {author}
-  {\bibfnamefont {P.~L.}\ \bibnamefont {Campbell}}, \bibinfo {author}
-  {\bibfnamefont {J.}~\bibnamefont {McCluskey}}, \bibinfo {author}
-  {\bibfnamefont {J.-P.}\ \bibnamefont {Yeo}}, \bibinfo {author} {\bibfnamefont
-  {E.~P.~C.}\ \bibnamefont {Tock}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {B.-H.}\ \bibnamefont {Toh}},\ }\bibfield  {title} {\enquote {\bibinfo
-  {title} {{EEA}1, an early endosome-associated protein.}}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\
-  }\textbf {\bibinfo {volume} {270}},\ \bibinfo {pages} {13503--13511}
-  (\bibinfo {year} {1995})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Christoforidis}\ \emph {et~al.}(1999)\citenamefont
-  {Christoforidis}, \citenamefont {Miaczynska}, \citenamefont {Ashman},
-  \citenamefont {Wilm}, \citenamefont {Zhao}, \citenamefont {Yip},
-  \citenamefont {Waterfield}, \citenamefont {Backer},\ and\ \citenamefont
-  {Zerial}}]{Christoforidis}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Huotari}}\ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Helenius}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Endosome
+  maturation.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
+  EMBO Journal}\ }\textbf {\bibinfo {volume} {30}},\ \bibinfo {pages}
+  {3481--3500} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Stenmark}(2009)}]{Stenmark}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
-  {Christoforidis}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Miaczynska}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Ashman}},
-  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Wilm}}, \bibinfo {author}
-  {\bibfnamefont {L.}~\bibnamefont {Zhao}}, \bibinfo {author} {\bibfnamefont
-  {S.-C.}\ \bibnamefont {Yip}}, \bibinfo {author} {\bibfnamefont {M.~D.}\
-  \bibnamefont {Waterfield}}, \bibinfo {author} {\bibfnamefont {J.~M.}\
-  \bibnamefont {Backer}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Phosphatidylinositol-3-{OH} kinases are {R}ab5 effectors.}}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\ }\textbf
-  {\bibinfo {volume} {1}},\ \bibinfo {pages} {249--252} (\bibinfo {year}
-  {1999})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Rubino}\ \emph {et~al.}(2000)\citenamefont {Rubino},
-  \citenamefont {Miaczynska}, \citenamefont {Lippe},\ and\ \citenamefont
-  {Zerial}}]{Rubino}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Rubino}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Miaczynska}},
-  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Lippe}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Selective membrane recruitment of {EEA}1
-  suggests a role in directional transport of clathrin-coated vesicles to early
-  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J
-  Biol Chem}\ }\textbf {\bibinfo {volume} {275}},\ \bibinfo {pages}
-  {3745--3748} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ballmer-Hofer}\ \emph {et~al.}(2011)\citenamefont
-  {Ballmer-Hofer}, \citenamefont {Andersson}, \citenamefont {Ratcliffe},\ and\
-  \citenamefont {Berger}}]{Ballmer}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
-  {Ballmer-Hofer}}, \bibinfo {author} {\bibfnamefont {A.~E.}\ \bibnamefont
-  {Andersson}}, \bibinfo {author} {\bibfnamefont {L.~E.}\ \bibnamefont
-  {Ratcliffe}}, \ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Berger}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Neuropilin-1
-  promotes {VEGFR}-2 trafficking through {R}ab11 vesicles thereby specifying
-  signal output.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Blood}\ }\textbf {\bibinfo {volume} {118}},\ \bibinfo {pages} {816--826}
-  (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Stenmark}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Rab {GTP}ases
+  as coordinators of vesicle traffic.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
+  {\bibinfo {volume} {10}},\ \bibinfo {pages} {513--525} (\bibinfo {year}
+  {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Grant}\ and\ \citenamefont
   {Donaldson}(2009)}]{Grant}%
   \BibitemOpen
@@ -920,108 +394,30 @@
   {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
   {\bibinfo {volume} {10}},\ \bibinfo {pages} {597--608} (\bibinfo {year}
   {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Stenmark}(2009)}]{Stenmark}%
+\bibitem [{\citenamefont {Maxfield}\ and\ \citenamefont
+  {Yamashiro}(1987)}]{Maxfield}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Stenmark}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Rab {GTP}ases
-  as coordinators of vesicle traffic.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
-  {\bibinfo {volume} {10}},\ \bibinfo {pages} {513--525} (\bibinfo {year}
-  {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Saftig}\ and\ \citenamefont
-  {Klumperman}(2009)}]{Saftig}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~R.}\ \bibnamefont
+  {Maxfield}}\ and\ \bibinfo {author} {\bibfnamefont {D.~J.}\ \bibnamefont
+  {Yamashiro}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Endosome
+  acidification and the pathways of receptor-mediated endocytosis.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Advances in
+  Experimental Medicine and Biology}\ }\textbf {\bibinfo {volume} {225}},\
+  \bibinfo {pages} {189--198} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Johannes}\ and\ \citenamefont {Popoff}()}]{Johannes}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Saftig}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Klumperman}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Lysosome
-  biogenesis and lysosomal membrane proteins: trafficking meets function.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nature Reviews
-  Molecular Cell Biology}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages}
-  {623--635} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Chen}\ and\ \citenamefont {Scheller}(2001)}]{Chen}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Johannes}}\ and\ \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Popoff}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Tracing the
+  retrograde route in protein trafficking.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Cell}\ }\textbf {\bibinfo {volume} {135}},\
+  \bibinfo {pages} {1175--1187}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Seaman}(2012)}]{Seaman}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.~A.}\ \bibnamefont
-  {Chen}}\ and\ \bibinfo {author} {\bibfnamefont {R.~H.}\ \bibnamefont
-  {Scheller}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {{SNARE}-mediated membrane fusion.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nature Reviews Molecular Cell Biology}\ }\textbf
-  {\bibinfo {volume} {2}},\ \bibinfo {pages} {98--106} (\bibinfo {year}
-  {2001})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ohya}\ \emph {et~al.}(2009)\citenamefont {Ohya},
-  \citenamefont {Miaczynska}, \citenamefont {Coskun}, \citenamefont {Lommer},
-  \citenamefont {Runge}, \citenamefont {Drechsel}, \citenamefont
-  {Kalaidzidis},\ and\ \citenamefont {Zerial}}]{Ohya}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
-  {Ohya}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Miaczynska}},
-  \bibinfo {author} {\bibfnamefont {U.}~\bibnamefont {Coskun}}, \bibinfo
-  {author} {\bibfnamefont {B.}~\bibnamefont {Lommer}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Runge}}, \bibinfo {author} {\bibfnamefont
-  {D.}~\bibnamefont {Drechsel}}, \bibinfo {author} {\bibfnamefont
-  {Y.}~\bibnamefont {Kalaidzidis}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Reconstitution of {R}ab- and {SNARE}-dependent membrane fusion by synthetic
-  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Nature}\ }\textbf {\bibinfo {volume} {459}},\ \bibinfo {pages} {1091--1097}
-  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ganley}\ \emph {et~al.}(2008)\citenamefont {Ganley},
-  \citenamefont {Espinosa},\ and\ \citenamefont {Pfeffer}}]{Ganley}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~G.}\ \bibnamefont
-  {Ganley}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Espinosa}}, \
-  and\ \bibinfo {author} {\bibfnamefont {S.~R.}\ \bibnamefont {Pfeffer}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {A syntaxin 10-{SNARE}
-  complex distinguishes two distinct transport routes from endosomes to the
-  trans-golgi in human cells.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Journal of Cell Biology}\ }\textbf {\bibinfo {volume} {180}},\
-  \bibinfo {pages} {159--172} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Kreykenbohm}\ \emph {et~al.}(2002)\citenamefont
-  {Kreykenbohm}, \citenamefont {Wenzel}, \citenamefont {Antonin}, \citenamefont
-  {Atlachkine},\ and\ \citenamefont {von Mollard}}]{Kreykenbohm}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
-  {Kreykenbohm}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Wenzel}},
-  \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Antonin}}, \bibinfo
-  {author} {\bibfnamefont {V.}~\bibnamefont {Atlachkine}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {G.~F.}\ \bibnamefont {von Mollard}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {The {SNARE}s vti1a and vti1b have
-  distinct localization and {SNARE} complex partners.}}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {European Journal of Cell
-  Biology}\ }\textbf {\bibinfo {volume} {81}},\ \bibinfo {pages} {273--280}
-  (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Antonin}\ \emph {et~al.}(2000)\citenamefont
-  {Antonin}, \citenamefont {Holroyd}, \citenamefont {Fasshauer}, \citenamefont
-  {Pabst}, \citenamefont {Von~Mollard},\ and\ \citenamefont {Jahn}}]{Antonin}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
-  {Antonin}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Holroyd}},
-  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Fasshauer}}, \bibinfo
-  {author} {\bibfnamefont {S.}~\bibnamefont {Pabst}}, \bibinfo {author}
-  {\bibfnamefont {G.~F.}\ \bibnamefont {Von~Mollard}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {R.}~\bibnamefont {Jahn}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {A {SNARE} complex mediating fusion of late endosomes
-  defines conserved properties of snare structure and function.}}\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {EMBO Journal}\ }\textbf
-  {\bibinfo {volume} {19}},\ \bibinfo {pages} {6453--6464} (\bibinfo {year}
-  {2000})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Pryor}\ \emph {et~al.}(2004)\citenamefont {Pryor},
-  \citenamefont {Mullock}, \citenamefont {Bright}, \citenamefont {Lindsay},
-  \citenamefont {Gray}, \citenamefont {Richardson}, \citenamefont {Stewart},
-  \citenamefont {James}, \citenamefont {Piper},\ and\ \citenamefont
-  {Luzio}}]{Pryor}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~R.}\ \bibnamefont
-  {Pryor}}, \bibinfo {author} {\bibfnamefont {B.~M.}\ \bibnamefont {Mullock}},
-  \bibinfo {author} {\bibfnamefont {N.~A.}\ \bibnamefont {Bright}}, \bibinfo
-  {author} {\bibfnamefont {M.~R.}\ \bibnamefont {Lindsay}}, \bibinfo {author}
-  {\bibfnamefont {S.~R.}\ \bibnamefont {Gray}}, \bibinfo {author}
-  {\bibfnamefont {S.~C.~W.}\ \bibnamefont {Richardson}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Stewart}}, \bibinfo {author} {\bibfnamefont
-  {D.~E.}\ \bibnamefont {James}}, \bibinfo {author} {\bibfnamefont {R.~C.}\
-  \bibnamefont {Piper}}, \ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\
-  \bibnamefont {Luzio}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Combinatorial {SNARE} complexes with {VAMP}7 or {VAMP}8 define different
-  late endocytic fusion events.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {EMBO Reports}\ }\textbf {\bibinfo {volume} {5}},\
-  \bibinfo {pages} {590--595} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~N.~J.}\
+  \bibnamefont {Seaman}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The
+  retromer complex - endosomal protein recycling and beyond.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Cell Science}\
+  }\textbf {\bibinfo {volume} {125}},\ \bibinfo {pages} {4693--4702} (\bibinfo
+  {year} {2012})}\BibitemShut {NoStop}%
 \end{thebibliography}%

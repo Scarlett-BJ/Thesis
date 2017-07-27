@@ -3,8 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: apsrev4-1.bst
 A level-1 auxiliary file: Chapters/Chapter1.aux
-A level-1 auxiliary file: Chapters/Chapter2.aux
-A level-1 auxiliary file: Chapters/Chapter3.aux
 A level-1 auxiliary file: Chapters/Chapter4.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -29,45 +27,46 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (0) verbatim
 Control: production of eprint (0) enabled
-You've used 62 entries,
+Warning--empty year in Johannes
+You've used 26 entries,
             5847 wiz_defined-function locations,
-            2048 strings with 30653 characters,
-and the built_in function-call counts, 89364 in all, are:
-= -- 4961
-> -- 3226
-< -- 630
-+ -- 963
-- -- 831
-* -- 15510
-:= -- 8003
-add.period$ -- 122
-call.type$ -- 62
-change.case$ -- 305
-chr.to.int$ -- 72
-cite$ -- 62
-duplicate$ -- 8093
-empty$ -- 6491
-format.name$ -- 1825
-if$ -- 17754
-int.to.chr$ -- 2
-int.to.str$ -- 69
-missing$ -- 1029
-newline$ -- 235
-num.names$ -- 183
-pop$ -- 2916
+            1805 strings with 20924 characters,
+and the built_in function-call counts, 35251 in all, are:
+= -- 2008
+> -- 1203
+< -- 265
++ -- 368
+- -- 315
+* -- 5964
+:= -- 3206
+add.period$ -- 50
+call.type$ -- 26
+change.case$ -- 125
+chr.to.int$ -- 37
+cite$ -- 27
+duplicate$ -- 3218
+empty$ -- 2555
+format.name$ -- 687
+if$ -- 6956
+int.to.chr$ -- 1
+int.to.str$ -- 33
+missing$ -- 411
+newline$ -- 127
+num.names$ -- 75
+pop$ -- 1179
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 100
 quote$ -- 0
-skip$ -- 2629
+skip$ -- 1070
 stack$ -- 0
-substring$ -- 2354
-swap$ -- 8446
-text.length$ -- 407
+substring$ -- 974
+swap$ -- 3298
+text.length$ -- 149
 text.prefix$ -- 0
 top$ -- 9
-type$ -- 1084
-warning$ -- 0
-while$ -- 246
+type$ -- 430
+warning$ -- 1
+while$ -- 108
 width$ -- 0
-write$ -- 600
+write$ -- 275
 (There was 1 error message)
