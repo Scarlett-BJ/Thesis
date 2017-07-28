@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{69}%
+\begin{thebibliography}{70}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -1105,4 +1105,11 @@
   late endocytic fusion events.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {EMBO Reports}\ }\textbf {\bibinfo {volume} {5}},\
   \bibinfo {pages} {590--595} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Webb}\ and\ \citenamefont {Dorey}(1995)}]{Webb}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~H.}\ \bibnamefont
+  {Webb}}\ and\ \bibinfo {author} {\bibfnamefont {C.~K.}\ \bibnamefont
+  {Dorey}},\ }\enquote {\bibinfo {title} {The pixilated image.}}\ \ (\bibinfo
+  {publisher} {Springer US},\ \bibinfo {address} {Boston, MA},\ \bibinfo {year}
+  {1995})\ pp.\ \bibinfo {pages} {55--67}\BibitemShut {NoStop}%
 \end{thebibliography}%
