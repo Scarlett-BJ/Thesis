@@ -14,9 +14,9 @@
 \contentsline {section}{\numberline {3.5}Co-localization study of GLUT1 variants}{25}{section.32}
 \contentsline {chapter}{\numberline {4}Discussion}{35}{chapter.40}
 \global \c@tocdepth 1\relax 
-\contentsline {section}{\numberline {4.1}GLUT1 localization}{35}{section.41}
-\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{35}{section.42}
-\contentsline {section}{\numberline {4.3}Conclusion and outlook}{35}{section.43}
+\contentsline {section}{\numberline {4.1}Subcellular localization of GLUT1}{35}{section.41}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{36}{section.42}
+\contentsline {section}{\numberline {4.3}Conclusion and outlook}{36}{section.43}
 \contentsline {chapter}{List of Abbreviations}{37}{table.45}
 \contentsline {chapter}{Acknowledgements}{39}{section*.46}
 \contentsline {chapter}{Literature}{41}{section*.47}
