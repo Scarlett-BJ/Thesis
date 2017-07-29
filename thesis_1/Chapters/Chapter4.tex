@@ -9,12 +9,21 @@ In a recent study by our group, a novel interaction was discovered between a sho
 
 In this thesis, we used two HEK293 stable cell lines with stable inducible GLUT1 expression to further investigate the effect of the GLUT1\textsuperscript{P485L} mutation on the intracellular localization and trafficking of the protein.
 
-\section{Subcellular localization of GLUT1}
-In agreement with previous observations in HeLa cells transiently transfected with GLUT1, confocal images of GLUT1 localization in HEK293 cells stably expressing FLAG-GLUT1 confirmed the mislocalization of the mutant GLUT1 in intracellular vesicles~\cite{Meyer2}. Furthermore, the mutant GLUT1 showed colocalization with early endosomal markers (EEA1, Rab5), a late endosomal marker (Rab9), and markers for the trans-Golgi network (Vti1a, Vti1b).
-% Rab7, LAMP1
-% quantification
-% bioid
-%\section{Intracellular trafficking of GLUT1}
+\section{Subcellular localization of the mutant GLUT1}
+In agreement with previous observations in HeLa cells transiently transfected with GLUT1, confocal images of GLUT1 localization in HEK293 cells stably expressing FLAG-GLUT1 confirmed the mislocalization of the mutant GLUT1 in intracellular vesicles~\cite{Meyer2}. In contrast, the wild-type GLUT1 showed a predominantly plasma membrane distribution. This differential localization of the GLUT1 variants has been confirmed by immunostaining using an antibody against GLUT1 (Figure~\ref{fig:glut1}).
+
+Furthermore, the subcellular distribution of the mutant GLUT1 was compared with the distribution of several markers for intracellular compartments. We found that the mutant GLUT1 partially localized to early endosomes, as labeled by classical early markers EEA1 and Rab5 (Figure~\ref{fig:ee}), and with late endosomes, based on Rab9 staining. However, the mutant GLUT1 was significantly less colocalized with another late endosomal marker Rab7 in comparison to Rab9 (Figure~\ref{fig:le}). This is because Rab7 and Rab9 are localized to distinct domains on late endosomes and have different functional roles in intracellular trafficking~\cite{Barbero}. Rab7 regulates the selective sorting of cargos from early endosomes to late endosomes and transport from late endosomes to lysosomes, whereas Rab9 regulates transport from late endosomes to the trans-Golgi network~\cite{Girard,Barbero}. 
+
+Because Rab9 has been reported to be removed upon membrane fusion of late endosomes and the Golgi complex, additional labeling with markers for the trans-Golgi network was performed and confirmed the Golgi localization of the mutant GLUT1 (Figure~\ref{fig:tgn})~\cite{Barbero}. While both being SNARE proteins and homologous to the yeast Q-SNARE Vti1p, the two markers used in this thesis, Vti1a and Vti1b, have overlappping but distinct subcellular distributions~\cite{Kreykenbohm}. Vti1a has been shown to participate in the receipt of cargos arriving at the trans-Golgi network from early endosomes and late endosomes, the latter of which requires Rab9 and the recruitment of its effects~\cite{Ganley}. Vti1b has been reported to show a broader distribution among different organelles, including early endosomes, late endosomes, the trans-Golgi network and lysosomes, and its roles include participation in late endosome fusion, late endosome-lysosome fusion and vesicle budding from the trans-Golgi network~\cite{Kreykenbohm,Murray}. The involvement of Vti1a and Vti1b in different intracellular trafficking pathways makes it difficult to interpret the possible trafficking routes of the mutant GLUT1 from the colocalization studies. However, the colocalization of the mutant GLUT1 with Rab9 as well as Vti1a suggests that the mutant GLUT1 might be a cargo of the retrograde transport from late endosomes to the trans-Golgi network.
+
+The lack of colocalization between the mutant GLUT1 and recycling endosomal markers suggests that neither the fast nor the slow recycling pathway plays a crucial role in the trafficking of the mutant GLUT1 (Figure~\ref{fig:re}). It is therefore interesting to check whether the mutant GLUT1 undergoes lysosomal degradation. Co-immunostaining did not show much colocalization of the mutant GLUT1 with LAMP1 (Figure~\ref{fig:le}), which is a transmembrane protein mainly localized on lysosomes~\cite{Schroder}. However, the quantification of colocalization suggests that there might be a weak correlation between GLUT1 and LAMP1 distribution ($r=0.11$, Figure~\ref{fig:coloc})). Besides, the inhibition of lysosomal degradation with Bafilomycin A1 also seems to increase the mutant GLUT1 protein levels as assessed by Western blotting (Figure~\ref{fig:wb2}). Replicate confocal images for colocalization analysis and replicate experiments of Bafilomycin inhibition are needed to better characterize whether the mutant GLUT1 is partially shuttled to lysosomes for degradation. Additionally, it would be interesting to see whether the mutant GLUT1 would colocalize more extensively with LAMP1 after Bafilomycin A1 treatment to block lysosomal degradation.
+
+Consistent with the colocalization analysis of confocal fluorescence microscopy images, BioID experiments showed that the mutant GLUT1 specifically colocalizes with proteins involved in the retrograde transport (SNX1, SNX2, SNX3, SNX6, AP1B1, IGF2R and CLINT1) (Figure~\ref{fig:bioid2}). No protein specifically associated with endosomal recycling or lysosomal degradation was identified in the experiments. In the analysis of the mass spectrometry data from BioID experiments, unspecific biotinylation and background noise was subtracted by filtering  
+% However, a proximal protein to the mutant GLUT1 identified in the experiments, GOPC, has been reported to interact with \textbeta1-adrenergic receptors in the trans-Golgi network and protect them from lysosomal degradation~\cite{Koliwer}. Another protein, SCAMP1, has been suggested to facilitate endocytosis by recruiting clathrin coats to the plasma membrane and the trans-Golgi network~\cite{doi: 10.1074/jbc.275.17.12752, 2000}. 
+
+Replicate experiments would 
+% bioid vs KM's bioid
+% wT trafficking
 % motif
 \section{Leakiness and loss of GLUT1 expression}
 %When culturing cells in medium containing fetal bovine serum (FBS), please note that many lots of FBS contain tetracycline as FBS is generally isolated from cows that have been fed a diet containing tetracycline. If you culture your cells in medium containing FBS that is not reduced in tetracycline, you may observe low basal expression of your gene of interest in the absence of tetracycline
@@ -33,5 +42,10 @@ Because the loss of expression over time was observed in a sub-population of bot
 , new cells were thaw and the expression of GLUT1 variants were analyzed again with Western blotting and immunofluorescence microscopy. (Supplementary Figure%figure!
 
 \section{Conclusion and outlook}
+colocalization analysis with of the endogenous GLUT1 in patient-derived cells might reveal more information on the intracellular trafficking of the mutant GLUT1, as the overexpression of GLUT1 and BirA-FLAG tagging might cause mislocalization of the protein or disturbance of intracellular compartments in the HEK293 stable cell lines.
+
+siRNA
+
+additional mutation on the dileucine motif
 %----------------------------------------------------------------------------------------
 % Define some commands to keep the formatting separated from the content 

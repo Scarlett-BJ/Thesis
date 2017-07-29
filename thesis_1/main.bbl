@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{70}%
+\begin{thebibliography}{75}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -1112,4 +1112,80 @@
   {Dorey}},\ }\enquote {\bibinfo {title} {The pixilated image.}}\ \ (\bibinfo
   {publisher} {Springer US},\ \bibinfo {address} {Boston, MA},\ \bibinfo {year}
   {1995})\ pp.\ \bibinfo {pages} {55--67}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Barbero}\ \emph {et~al.}(2002)\citenamefont
+  {Barbero}, \citenamefont {Bittova},\ and\ \citenamefont {Pfeffer}}]{Barbero}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Barbero}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Bittova}}, \
+  and\ \bibinfo {author} {\bibfnamefont {S.~R.}\ \bibnamefont {Pfeffer}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Visualization of
+  {R}ab9-mediated vesicle transport from endosomes to the trans-{G}olgi in
+  living cells.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {The Journal of Cell Biology}\ }\textbf {\bibinfo {volume} {156}},\ \bibinfo
+  {pages} {511} (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Girard}\ \emph {et~al.}(2014)\citenamefont {Girard},
+  \citenamefont {Chmiest}, \citenamefont {Fournier}, \citenamefont {Johannes},
+  \citenamefont {Paul}, \citenamefont {Vedie},\ and\ \citenamefont
+  {Lamaze}}]{Girard}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Girard}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Chmiest}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Fournier}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Johannes}}, \bibinfo {author}
+  {\bibfnamefont {J.-L.}\ \bibnamefont {Paul}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Vedie}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Lamaze}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Rab7 is functionally required for selective cargo sorting
+  at the early endosome.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Traffic}\ }\textbf {\bibinfo {volume} {15}},\ \bibinfo {pages}
+  {309--326} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Murray}\ \emph {et~al.}(2005)\citenamefont {Murray},
+  \citenamefont {Wylie}, \citenamefont {Khromykh}, \citenamefont {Hume},\ and\
+  \citenamefont {Stow}}]{Murray}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~Z.}\ \bibnamefont
+  {Murray}}, \bibinfo {author} {\bibfnamefont {F.~G.}\ \bibnamefont {Wylie}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Khromykh}}, \bibinfo
+  {author} {\bibfnamefont {D.~A.}\ \bibnamefont {Hume}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {J.~L.}\ \bibnamefont {Stow}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Syntaxin 6 and {V}ti1b form a novel {SNARE}
+  complex, which is up-regulated in activated macrophages to facilitate
+  exocytosis of tumor necrosis factor-?.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
+  {\bibinfo {volume} {280}},\ \bibinfo {pages} {10478--10483} (\bibinfo {year}
+  {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Schr{\"o}der}\ \emph {et~al.}(2007)\citenamefont
+  {Schr{\"o}der}, \citenamefont {Wrocklage}, \citenamefont {Pan}, \citenamefont
+  {J{\"a}ger}, \citenamefont {K{\"o}sters}, \citenamefont {Sch{\"a}fer},
+  \citenamefont {Els{\"a}sser}, \citenamefont {Mann},\ and\ \citenamefont
+  {Hasilik}}]{Schroder}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Schr{\"o}der}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Wrocklage}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Pan}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {J{\"a}ger}}, \bibinfo
+  {author} {\bibfnamefont {B.}~\bibnamefont {K{\"o}sters}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Sch{\"a}fer}}, \bibinfo {author}
+  {\bibfnamefont {H.-P.}\ \bibnamefont {Els{\"a}sser}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Mann}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Hasilik}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Integral and associated lysosomal membrane proteins.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Traffic}\ }\textbf
+  {\bibinfo {volume} {8}},\ \bibinfo {pages} {1676--1686} (\bibinfo {year}
+  {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Koliwer}\ \emph {et~al.}(2015)\citenamefont
+  {Koliwer}, \citenamefont {Park}, \citenamefont {Bauch}, \citenamefont {von
+  Zastrow},\ and\ \citenamefont {Kreienkamp}}]{Koliwer}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Koliwer}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Park}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Bauch}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {von Zastrow}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {H.-J.}\ \bibnamefont {Kreienkamp}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {The {G}olgi-associated {PDZ} domain
+  protein {PIST/GOPC} stabilizes the ?1-adrenergic receptor in intracellular
+  compartments after internalization.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf {\bibinfo
+  {volume} {290}},\ \bibinfo {pages} {6120--6129} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
 \end{thebibliography}%

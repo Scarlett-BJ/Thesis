@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  29 JUL 2017 01:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  29 JUL 2017 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2236,7 +2236,7 @@ LaTeX Info: Redefining \nameref on input line 108.
 \c__siunitx_mathtt_int=\count182
 
 1: section
-<Figures/Charite.pdf, id=84, 95.35625pt x 37.13875pt>
+<Figures/Charite.pdf, id=80, 95.35625pt x 37.13875pt>
 File: Figures/Charite.pdf Graphic file (type pdf)
 
 <use Figures/Charite.pdf>
@@ -2244,7 +2244,7 @@ Package pdftex.def Info: Figures/Charite.pdf used on input line 123.
 (pdftex.def)             Requested size: 95.356pt x 37.13866pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 125.
- <Figures/molmed.pdf, id=85, 77.28876pt x 61.22874pt>
+ <Figures/molmed.pdf, id=81, 77.28876pt x 61.22874pt>
 File: Figures/molmed.pdf Graphic file (type pdf)
 
 <use Figures/molmed.pdf>
@@ -2313,7 +2313,7 @@ LaTeX Font Info:    No file LGRptm.fd. on input line 8.
 LaTeX Font Warning: Font shape `LGR/ptm/m/n' undefined
 (Font)              using `LGR/cmr/m/n' instead on input line 8.
 
-<Figures/topology.pdf, id=247, 616.67958pt x 376.37164pt>
+<Figures/topology.pdf, id=242, 616.67958pt x 376.37164pt>
 File: Figures/topology.pdf Graphic file (type pdf)
 
 <use Figures/topology.pdf>
@@ -2337,7 +2337,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `superscript' on input line 23.
 
-<Figures/motif.pdf, id=348, 616.0553pt x 95.4517pt>
+<Figures/motif.pdf, id=343, 616.0553pt x 95.4517pt>
 File: Figures/motif.pdf Graphic file (type pdf)
  <use Figures/motif.pdf>
 Package pdftex.def Info: Figures/motif.pdf used on input line 32.
@@ -2355,7 +2355,7 @@ Overfull \hbox (0.7586pt too wide) in paragraph at lines 40--40
  
  []
 
-<Figures/endocytosis.pdf, id=365, 616.0156pt x 578.46535pt>
+<Figures/endocytosis.pdf, id=360, 616.0156pt x 578.46535pt>
 File: Figures/endocytosis.pdf Graphic file (type pdf)
 
 <use Figures/endocytosis.pdf>
@@ -2382,7 +2382,7 @@ A5-BirA-FLAG us-ing Gate-
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-<Figures/vector.pdf, id=478, 615.19644pt x 370.11214pt>
+<Figures/vector.pdf, id=473, 615.19644pt x 370.11214pt>
 File: Figures/vector.pdf Graphic file (type pdf)
 
 <use Figures/vector.pdf>
@@ -2397,7 +2397,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <Figures/BioID.pdf, id=485, 617.57024pt x 384.56693pt>
+] <Figures/BioID.pdf, id=480, 617.57024pt x 384.56693pt>
 File: Figures/BioID.pdf Graphic file (type pdf)
 
 <use Figures/BioID.pdf>
@@ -2408,7 +2408,7 @@ Package pdftex.def Info: Figures/BioID.pdf used on input line 39.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [8 <./Figures/vector.pdf>] [9 <./Figures/BioID.pdf>]
-<Figures/treatment.pdf, id=534, 616.60808pt x 229.82643pt>
+<Figures/treatment.pdf, id=529, 616.60808pt x 229.82643pt>
 File: Figures/treatment.pdf Graphic file (type pdf)
 
 <use Figures/treatment.pdf>
@@ -2430,7 +2430,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 Chapter 3.
-<Figures/WB.pdf, id=607, 615.35829pt x 415.983pt>
+<Figures/WB.pdf, id=602, 615.35829pt x 415.983pt>
 File: Figures/WB.pdf Graphic file (type pdf)
  <use Figures/WB.pdf>
 Package pdftex.def Info: Figures/WB.pdf used on input line 15.
@@ -2439,7 +2439,7 @@ Package pdftex.def Info: Figures/WB.pdf used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/if.pdf, id=612, 618.0957pt x 547.3753pt>
+<Figures/if.pdf, id=607, 618.0957pt x 547.3753pt>
 File: Figures/if.pdf Graphic file (type pdf)
  <use Figures/if.pdf>
 Package pdftex.def Info: Figures/if.pdf used on input line 29.
@@ -2451,7 +2451,7 @@ Package pdftex.def Info: Figures/if.pdf used on input line 29.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18 <./Figures/WB.pdf>] [19 <./Figures/if.pdf>]
-<Figures/wb2.pdf, id=732, 614.56279pt x 223.1282pt>
+<Figures/wb2.pdf, id=727, 614.56279pt x 223.1282pt>
 File: Figures/wb2.pdf Graphic file (type pdf)
  <use Figures/wb2.pdf>
 Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
@@ -2459,13 +2459,13 @@ Package pdftex.def Info: Figures/wb2.pdf used on input line 46.
 
 [20
 
- <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=789, 619.48228pt x 223.07973pt>
+ <./Figures/wb2.pdf>] <Figures/wb3.pdf, id=784, 619.48228pt x 223.07973pt>
 File: Figures/wb3.pdf Graphic file (type pdf)
 
 <use Figures/wb3.pdf>
 Package pdftex.def Info: Figures/wb3.pdf used on input line 57.
 (pdftex.def)             Requested size: 433.63463pt x 156.15474pt.
- <Figures/glut1.pdf, id=795, 618.56865pt x 404.2567pt>
+ <Figures/glut1.pdf, id=790, 618.56865pt x 404.2567pt>
 File: Figures/glut1.pdf Graphic file (type pdf)
 
 <use Figures/glut1.pdf>
@@ -2476,29 +2476,32 @@ Package pdftex.def Info: Figures/glut1.pdf used on input line 72.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [21 <./Figures/wb3.pdf>]
-<Figures/bioid2.pdf, id=867, 616.02228pt x 366.87384pt>
+<Figures/bioid2.pdf, id=862, 618.41708pt x 405.12885pt>
 File: Figures/bioid2.pdf Graphic file (type pdf)
 
 <use Figures/bioid2.pdf>
 Package pdftex.def Info: Figures/bioid2.pdf used on input line 85.
-(pdftex.def)             Requested size: 431.21265pt x 256.80992pt.
- [22 <./Figures/glut1.pdf>] [23 <./Figures/bioid2.pdf>] <Figures/GO.pdf, id=943
-, 617.26097pt x 514.0802pt>
+(pdftex.def)             Requested size: 432.889pt x 283.58826pt.
+ [22 <./Figures/glut1.pdf>] [23 <./Figures/bioid2.pdf>] <Figures/GO.pdf, id=937
+, 616.5739pt x 592.03593pt>
 File: Figures/GO.pdf Graphic file (type pdf)
  <use Figures/GO.pdf>
 Package pdftex.def Info: Figures/GO.pdf used on input line 100.
-(pdftex.def)             Requested size: 432.07973pt x 359.85368pt.
+(pdftex.def)             Requested size: 431.59879pt x 414.42232pt.
 
-[24 <./Figures/GO.pdf>] <Figures/tf.pdf, id=988, 617.59836pt x 388.07837pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24] [25 <./Figures/GO.pdf>]
+<Figures/tf.pdf, id=988, 617.59836pt x 388.07837pt>
 File: Figures/tf.pdf Graphic file (type pdf)
-
-<use Figures/tf.pdf>
+ <use Figures/tf.pdf>
 Package pdftex.def Info: Figures/tf.pdf used on input line 114.
 (pdftex.def)             Requested size: 432.3159pt x 271.653pt.
- <Figures/EE.pdf, id=989, 616.90417pt x 754.80444pt>
-File: Figures/EE.pdf Graphic file (type pdf)
 
-<use Figures/EE.pdf>
+<Figures/EE.pdf, id=989, 616.90417pt x 754.80444pt>
+File: Figures/EE.pdf Graphic file (type pdf)
+ <use Figures/EE.pdf>
 Package pdftex.def Info: Figures/EE.pdf used on input line 123.
 (pdftex.def)             Requested size: 431.82997pt x 528.35951pt.
 
@@ -2514,19 +2517,19 @@ ated en-do-cy-to-sis, doxycycline-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[26
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/re.pdf, id=998, 617.17729pt x 750.85983pt>
+ <./Figures/tf.pdf>] <Figures/re.pdf, id=1029, 617.17729pt x 750.85983pt>
 File: Figures/re.pdf Graphic file (type pdf)
- <use Figures/re.pdf>
+
+<use Figures/re.pdf>
 Package pdftex.def Info: Figures/re.pdf used on input line 137.
 (pdftex.def)             Requested size: 432.02115pt x 525.5983pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/le.pdf, id=1002, 616.99998pt x 559.08226pt>
+<Figures/le.pdf, id=1033, 616.99998pt x 559.08226pt>
 File: Figures/le.pdf Graphic file (type pdf)
  <use Figures/le.pdf>
 Package pdftex.def Info: Figures/le.pdf used on input line 149.
@@ -2535,7 +2538,7 @@ Package pdftex.def Info: Figures/le.pdf used on input line 149.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/le2.pdf, id=1003, 617.5021pt x 558.48076pt>
+<Figures/le2.pdf, id=1034, 617.5021pt x 558.48076pt>
 File: Figures/le2.pdf Graphic file (type pdf)
  <use Figures/le2.pdf>
 Package pdftex.def Info: Figures/le2.pdf used on input line 159.
@@ -2544,17 +2547,16 @@ Package pdftex.def Info: Figures/le2.pdf used on input line 159.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/tgn.pdf, id=1009, 617.97935pt x 749.69275pt>
+<Figures/tgn.pdf, id=1040, 617.97935pt x 749.69275pt>
 File: Figures/tgn.pdf Graphic file (type pdf)
  <use Figures/tgn.pdf>
 Package pdftex.def Info: Figures/tgn.pdf used on input line 172.
 (pdftex.def)             Requested size: 432.5826pt x 524.78134pt.
 
-[25]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./Figures/tf.pdf>] <Figures/coloc.pdf, id=1060, 560.0925pt x 305.14pt>
+[27] <Figures/coloc.pdf, id=1064, 560.0925pt x 305.14pt>
 File: Figures/coloc.pdf Graphic file (type pdf)
 
 <use Figures/coloc.pdf>
@@ -2564,19 +2566,22 @@ Package pdftex.def Info: Figures/coloc.pdf used on input line 189.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27] [28 <./Figures/EE.pdf>] [29 <./Figures/re.pdf>] [30 <./Figures/le.pdf>]
-[31 <./Figures/le2.pdf>] [32 <./Figures/tgn.pdf>] [33 <./Figures/coloc.pdf>]
+[28] [29 <./Figures/EE.pdf>] [30 <./Figures/re.pdf>] [31 <./Figures/le.pdf>]
+[32 <./Figures/le2.pdf>] [33 <./Figures/tgn.pdf>] [34 <./Figures/coloc.pdf>]
 \openout2 = `Chapters/Chapter4.aux'.
 
 
-(./Chapters/Chapter4.tex [34
+(./Chapters/Chapter4.tex
+Chapter 4.
+1: section
+[35
 
+
+
+] [36]) [37] [38
 
 
 ]
-Chapter 4.
-1: section
-[35]) [36]
 Overfull \hbox (19.1773pt too wide) in alignment at lines 241--263
  [] [] 
  []
@@ -2592,17 +2597,14 @@ Overfull \hbox (19.1773pt too wide) in alignment at lines 283--302
  []
 
 1: section
-[37
-
-
-] [38]
+[39] [40]
 --------------------
  Acknowledgements
 --------------------
 1: section
-[39
+[41
 
-] [40
+] [42
 
 ]
 --------------------
@@ -2614,13 +2616,13 @@ Package natbib Warning: Citation `apsrev41Control' undefined on input line 338.
 
 (./main.bbl
 1: section
-[41] [42] [43] [44] [45] [46]
+[43] [44] [45] [46] [47] [48]
 Underfull \hbox (badness 1975) in paragraph at lines 1043--1049
 []\T1/ptm/m/n/12 T. Ohya, M. Mi-aczyn-ska, U. Coskun, B. Lom-mer, A. Runge, D. 
 Drech-sel,
  []
 
-[47]) [48]
+[49]) [50]
 --------------------
  Statement of independent work
 --------------------
@@ -2629,7 +2631,7 @@ Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
 1: section
-[49
+[51
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
@@ -2637,52 +2639,37 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
 (./Chapters/Chapter3.aux) (./Chapters/Chapter4.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 755BE3FC90D080BFFB6DF8E641924686;3649.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 8DF012EE2F033C2A464F31C3789BD4FF;3822
-(rerunfilecheck)             After:  85F4CF0114A3BC0C0A37237BBC66957B;3588.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28901 strings out of 493014
- 577923 string characters out of 6133352
- 593252 words of memory out of 5000000
- 31926 multiletter control sequences out of 15000+600000
+ 28919 strings out of 493014
+ 578177 string characters out of 6133352
+ 592709 words of memory out of 5000000
+ 31940 multiletter control sequences out of 15000+600000
  56058 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,20n,74p,10377b,1034s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.50} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.46} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{section.44} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/ut
-mri8a.pfb>
-Output written on main.pdf (59 pages, 80020125 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on main.pdf (61 pages, 80028504 bytes).
 PDF statistics:
- 1456 PDF objects out of 1728 (max. 8388607)
- 1148 compressed objects within 12 object streams
- 182 named destinations out of 1000 (max. 500000)
- 271 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1482 PDF objects out of 1728 (max. 8388607)
+ 1172 compressed objects within 12 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
 
