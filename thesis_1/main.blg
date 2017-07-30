@@ -29,46 +29,45 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (0) verbatim
 Control: production of eprint (0) enabled
-Warning--empty year in Johannes
-You've used 80 entries,
+You've used 90 entries,
             5847 wiz_defined-function locations,
-            2164 strings with 35238 characters,
-and the built_in function-call counts, 115055 in all, are:
-= -- 6418
-> -- 4134
-< -- 807
-+ -- 1239
-- -- 1061
-* -- 19936
-:= -- 10310
-add.period$ -- 158
-call.type$ -- 80
-change.case$ -- 395
-chr.to.int$ -- 90
-cite$ -- 81
-duplicate$ -- 10405
-empty$ -- 8373
-format.name$ -- 2353
-if$ -- 22872
+            2224 strings with 37849 characters,
+and the built_in function-call counts, 128924 in all, are:
+= -- 7236
+> -- 4608
+< -- 898
++ -- 1383
+- -- 1179
+* -- 22307
+:= -- 11572
+add.period$ -- 178
+call.type$ -- 90
+change.case$ -- 445
+chr.to.int$ -- 100
+cite$ -- 90
+duplicate$ -- 11660
+empty$ -- 9393
+format.name$ -- 2623
+if$ -- 25632
 int.to.chr$ -- 2
-int.to.str$ -- 87
-missing$ -- 1323
-newline$ -- 289
-num.names$ -- 237
-pop$ -- 3751
+int.to.str$ -- 97
+missing$ -- 1482
+newline$ -- 319
+num.names$ -- 267
+pop$ -- 4206
 preamble$ -- 1
-purify$ -- 316
+purify$ -- 356
 quote$ -- 0
-skip$ -- 3394
+skip$ -- 3810
 stack$ -- 0
-substring$ -- 3081
-swap$ -- 10857
-text.length$ -- 523
+substring$ -- 3475
+swap$ -- 12153
+text.length$ -- 582
 text.prefix$ -- 0
 top$ -- 9
-type$ -- 1396
-warning$ -- 1
-while$ -- 317
+type$ -- 1565
+warning$ -- 0
+while$ -- 356
 width$ -- 0
-write$ -- 759
+write$ -- 850
 (There was 1 error message)

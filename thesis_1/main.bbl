@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{79}%
+\begin{thebibliography}{89}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -415,14 +415,15 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Advances in
   Experimental Medicine and Biology}\ }\textbf {\bibinfo {volume} {225}},\
   \bibinfo {pages} {189--198} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Johannes}\ and\ \citenamefont {Popoff}()}]{Johannes}%
+\bibitem [{\citenamefont {Johannes}\ and\ \citenamefont
+  {Popoff}(2017)}]{Johannes}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
   {Johannes}}\ and\ \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
   {Popoff}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Tracing the
   retrograde route in protein trafficking.}}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {Cell}\ }\textbf {\bibinfo {volume} {135}},\
-  \bibinfo {pages} {1175--1187}}\BibitemShut {NoStop}%
+  \bibinfo {pages} {1175--1187} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Seaman}(2012)}]{Seaman}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~N.~J.}\
@@ -431,6 +432,59 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Journal of Cell Science}\
   }\textbf {\bibinfo {volume} {125}},\ \bibinfo {pages} {4693--4702} (\bibinfo
   {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Eyster}\ \emph {et~al.}(2009)\citenamefont {Eyster},
+  \citenamefont {Higginson}, \citenamefont {Huebner}, \citenamefont
+  {Porat-Shliom}, \citenamefont {Weigert}, \citenamefont {Wu}, \citenamefont
+  {Shen},\ and\ \citenamefont {Donaldson}}]{Eyster}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont
+  {Eyster}}, \bibinfo {author} {\bibfnamefont {J.~D.}\ \bibnamefont
+  {Higginson}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Huebner}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Porat-Shliom}}, \bibinfo
+  {author} {\bibfnamefont {R.}~\bibnamefont {Weigert}}, \bibinfo {author}
+  {\bibfnamefont {W.~W.}\ \bibnamefont {Wu}}, \bibinfo {author} {\bibfnamefont
+  {R.-F.}\ \bibnamefont {Shen}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {J.~G.}\ \bibnamefont {Donaldson}},\ }\bibfield  {title} {\enquote {\bibinfo
+  {title} {Discovery of new cargo proteins that enter cells through
+  clathrin-independent endocytosis.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Traffic}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo
+  {pages} {590--599} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McGough}\ \emph {et~al.}(2014)\citenamefont
+  {McGough}, \citenamefont {Steinberg}, \citenamefont {Gallon}, \citenamefont
+  {Yatsu}, \citenamefont {Ohbayashi}, \citenamefont {Heesom}, \citenamefont
+  {Fukuda},\ and\ \citenamefont {Cullen}}]{McGough}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.~J.}\ \bibnamefont
+  {McGough}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Steinberg}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Gallon}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Yatsu}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Ohbayashi}}, \bibinfo {author}
+  {\bibfnamefont {K.~J.}\ \bibnamefont {Heesom}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Fukuda}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.~J.}\ \bibnamefont {Cullen}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Identification of molecular heterogeneity in
+  {SNX}27-retromer-mediated endosome-to-plasma-membrane recycling.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of Cell
+  Science}\ }\textbf {\bibinfo {volume} {127}},\ \bibinfo {pages} {4940--4953}
+  (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Steinberg}\ \emph {et~al.}(2013)\citenamefont
+  {Steinberg}, \citenamefont {Gallon}, \citenamefont {Winfield}, \citenamefont
+  {Thomas}, \citenamefont {Bell}, \citenamefont {Heesom}, \citenamefont
+  {Tavar{\'e}},\ and\ \citenamefont {Cullen}}]{Steinberg}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Steinberg}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Gallon}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Winfield}}, \bibinfo
+  {author} {\bibfnamefont {E.~C.}\ \bibnamefont {Thomas}}, \bibinfo {author}
+  {\bibfnamefont {A.~J.}\ \bibnamefont {Bell}}, \bibinfo {author}
+  {\bibfnamefont {K.~J.}\ \bibnamefont {Heesom}}, \bibinfo {author}
+  {\bibfnamefont {J.~M.}\ \bibnamefont {Tavar{\'e}}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {P.~J.}\ \bibnamefont {Cullen}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {A global analysis of {SNX}27--retromer assembly
+  and cargo specificity reveals a function in glucose and metal ion
+  transport.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat
+  Cell Biol}\ }\textbf {\bibinfo {volume} {15}},\ \bibinfo {pages} {461--471}
+  (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Couzens}\ \emph {et~al.}(2013)\citenamefont
   {Couzens}, \citenamefont {Knight}, \citenamefont {Kean}, \citenamefont {Teo},
   \citenamefont {Weiss}, \citenamefont {Dunham}, \citenamefont {Lin},
@@ -1254,6 +1308,21 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Traffic}\ }\textbf
   {\bibinfo {volume} {8}},\ \bibinfo {pages} {1676--1686} (\bibinfo {year}
   {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Legendre-Guillemin}\ \emph
+  {et~al.}(2004)\citenamefont {Legendre-Guillemin}, \citenamefont {Wasiak},
+  \citenamefont {Hussain}, \citenamefont {Angers},\ and\ \citenamefont
+  {McPherson}}]{Legendre}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Legendre-Guillemin}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Wasiak}}, \bibinfo {author} {\bibfnamefont {N.~K.}\ \bibnamefont {Hussain}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Angers}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {P.~S.}\ \bibnamefont {McPherson}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {{ENTH/ANTH} proteins and
+  clathrin-mediated membrane budding.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Cell Science}\ }\textbf {\bibinfo {volume}
+  {117}},\ \bibinfo {pages} {9--18} (\bibinfo {year} {2004})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Lo}\ \emph {et~al.}(2015)\citenamefont {Lo},
   \citenamefont {Zhang}, \citenamefont {Lu}, \citenamefont {Zheng},
   \citenamefont {Zhang}, \citenamefont {Kanellopoulou}, \citenamefont {Zhang},
@@ -1302,4 +1371,89 @@
   {} {\bibfield  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo
   {volume} {349}},\ \bibinfo {pages} {436} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McNiven}\ and\ \citenamefont
+  {Thompson}(2006)}]{McNiven}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {McNiven}}\ and\ \bibinfo {author} {\bibfnamefont {H.~M.}\ \bibnamefont
+  {Thompson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Vesicle
+  formation at the plasma membrane and trans-{G}olgi network: The same but
+  different.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Science}\ }\textbf {\bibinfo {volume} {313}},\ \bibinfo {pages} {1591}
+  (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dietrich}\ \emph {et~al.}(1997)\citenamefont
+  {Dietrich}, \citenamefont {Kastrup}, \citenamefont {Nielsen}, \citenamefont
+  {Odum},\ and\ \citenamefont {Geisler}}]{Dietrich}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Dietrich}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Kastrup}},
+  \bibinfo {author} {\bibfnamefont {B.~L.}\ \bibnamefont {Nielsen}}, \bibinfo
+  {author} {\bibfnamefont {N.}~\bibnamefont {Odum}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Geisler}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Regulation and function of the {CD}3gamma {D}xxx{LL}
+  motif: a binding site for adaptor protein-1 and adaptor protein-2 in
+  vitro.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
+  of Cell Biology}\ }\textbf {\bibinfo {volume} {138}},\ \bibinfo {pages}
+  {271--281} (\bibinfo {year} {1997})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Diril}\ \emph {et~al.}(2009)\citenamefont {Diril},
+  \citenamefont {Schmidt}, \citenamefont {Krau{\ss}}, \citenamefont {Gawlik},
+  \citenamefont {Joost}, \citenamefont {Sch{\"u}rmann}, \citenamefont
+  {Haucke},\ and\ \citenamefont {Augustin}}]{Diril}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~K.}\ \bibnamefont
+  {Diril}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Schmidt}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Krau{\ss}}}, \bibinfo
+  {author} {\bibfnamefont {V.}~\bibnamefont {Gawlik}}, \bibinfo {author}
+  {\bibfnamefont {H.-G.}\ \bibnamefont {Joost}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Sch{\"u}rmann}}, \bibinfo {author}
+  {\bibfnamefont {V.}~\bibnamefont {Haucke}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Augustin}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Lysosomal localization of {GLUT}8 in the testis --the
+  {EXXXLL} motif of {GLUT}8 is sufficient for its intracellular sorting via
+  {AP}1- and {AP}2-mediated interaction.}}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {FEBS Journal}\ }\textbf {\bibinfo {volume}
+  {276}},\ \bibinfo {pages} {3729--3743} (\bibinfo {year} {2009})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Petris}\ and\ \citenamefont {Mercer}(1999)}]{Petris}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont
+  {Petris}}\ and\ \bibinfo {author} {\bibfnamefont {J.~F.}\ \bibnamefont
+  {Mercer}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The {M}enkes
+  protein ({ATP7A; MNK}) cycles via the plasma membrane both in basal and
+  elevated extracellular copper using a c-terminal di-leucine endocytic
+  signal.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Human
+  Molecular Genetics}\ }\textbf {\bibinfo {volume} {8}},\ \bibinfo {pages}
+  {2107--2115} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Petris}\ \emph {et~al.}(1998)\citenamefont {Petris},
+  \citenamefont {Camakaris}, \citenamefont {Greenough}, \citenamefont
+  {LaFontaine},\ and\ \citenamefont {Mercer}}]{Petris2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~J.}\ \bibnamefont
+  {Petris}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Camakaris}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Greenough}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {LaFontaine}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {J.~F.~B.}\ \bibnamefont {Mercer}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {A c-terminal di-leucine is required for
+  localization of the {M}enkes protein in the trans-{G}olgi network.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Human Molecular
+  Genetics}\ }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {2063--2071}
+  (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Minami}\ \emph {et~al.}(2015)\citenamefont {Minami},
+  \citenamefont {Tashiro}, \citenamefont {Okada}, \citenamefont {Hirata},
+  \citenamefont {Yamaguchi}, \citenamefont {Takayama}, \citenamefont
+  {Mizuguchi},\ and\ \citenamefont {Kawabata}}]{Minami}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Minami}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Tashiro}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Okada}}, \bibinfo
+  {author} {\bibfnamefont {N.}~\bibnamefont {Hirata}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Yamaguchi}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Takayama}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Mizuguchi}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Kawabata}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {Generation of brain microvascular endothelial-like cells
+  from human induced pluripotent stem cells by co-culture with {C}6 glioma
+  cells.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLOS
+  ONE}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {e0128890--}
+  (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \end{thebibliography}%
