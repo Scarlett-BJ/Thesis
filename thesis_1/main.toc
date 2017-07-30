@@ -15,9 +15,9 @@
 \contentsline {chapter}{\numberline {4}Discussion}{35}{chapter.40}
 \global \c@tocdepth 1\relax 
 \contentsline {section}{\numberline {4.1}Subcellular localization of the mutant GLUT1}{35}{section.41}
-\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{37}{section.42}
-\contentsline {section}{\numberline {4.3}Conclusion and outlook}{37}{section.43}
+\contentsline {section}{\numberline {4.2}Leakiness and loss of GLUT1 expression}{38}{section.42}
+\contentsline {section}{\numberline {4.3}Conclusion and outlook}{38}{section.43}
 \contentsline {chapter}{List of Abbreviations}{39}{table.45}
 \contentsline {chapter}{Acknowledgements}{41}{section*.46}
 \contentsline {chapter}{Literature}{43}{section*.47}
-\contentsline {chapter}{Statement of independent work}{51}{section*.49}
+\contentsline {chapter}{Statement of independent work}{53}{section*.49}

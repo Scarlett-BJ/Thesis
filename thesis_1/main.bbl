@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{75}%
+\begin{thebibliography}{79}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -377,6 +377,16 @@
   maturation.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {The
   EMBO Journal}\ }\textbf {\bibinfo {volume} {30}},\ \bibinfo {pages}
   {3481--3500} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hirst}\ and\ \citenamefont
+  {Robinson}(1998)}]{Hirst2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Hirst}}\ and\ \bibinfo {author} {\bibfnamefont {M.~S.}\ \bibnamefont
+  {Robinson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Clathrin and
+  adaptors.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Biochimica et Biophysica Acta (BBA) - Molecular Cell Research}\ }\textbf
+  {\bibinfo {volume} {1404}},\ \bibinfo {pages} {173--193} (\bibinfo {year}
+  {1998})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Stenmark}(2009)}]{Stenmark}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
@@ -904,6 +914,77 @@
   {journal} {\bibinfo  {journal} {Molecular Biology of the Cell}\ }\textbf
   {\bibinfo {volume} {26}},\ \bibinfo {pages} {3085--3103} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Natsume}\ \emph {et~al.}(2006)\citenamefont
+  {Natsume}, \citenamefont {Tanabe}, \citenamefont {Kon}, \citenamefont
+  {Yoshida}, \citenamefont {Watanabe}, \citenamefont {Torii},\ and\
+  \citenamefont {Satake}}]{Natsume}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Natsume}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Tanabe}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kon}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Yoshida}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Watanabe}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Torii}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Satake}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {{SMAP}2, a novel {ARF} {GTP}ase-activating protein, interacts with clathrin
+  and clathrin assembly protein and functions on the {AP}-1--positive early
+  endosome/trans-{G}olgi network.}}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Molecular Biology of the Cell}\ }\textbf {\bibinfo
+  {volume} {17}},\ \bibinfo {pages} {2592--2603} (\bibinfo {year}
+  {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Funaki}\ \emph {et~al.}(2013)\citenamefont {Funaki},
+  \citenamefont {Kon}, \citenamefont {Tanabe}, \citenamefont {Natsume},
+  \citenamefont {Sato}, \citenamefont {Shimizu}, \citenamefont {Yoshida},
+  \citenamefont {Wong}, \citenamefont {Ogura}, \citenamefont {Ogawa},
+  \citenamefont {Inoue}, \citenamefont {Ogonuki}, \citenamefont {Miki},
+  \citenamefont {Mochida}, \citenamefont {Endoh}, \citenamefont {Yomogida},
+  \citenamefont {Fukumoto}, \citenamefont {Horai}, \citenamefont {Iwakura},
+  \citenamefont {Ito}, \citenamefont {Toshimori}, \citenamefont {Watanabe},\
+  and\ \citenamefont {Satake}}]{Funaki}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Funaki}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kon}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Tanabe}}, \bibinfo
+  {author} {\bibfnamefont {W.}~\bibnamefont {Natsume}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Sato}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Shimizu}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Yoshida}}, \bibinfo {author} {\bibfnamefont {W.~F.}\
+  \bibnamefont {Wong}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Ogura}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Ogawa}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Inoue}}, \bibinfo
+  {author} {\bibfnamefont {N.}~\bibnamefont {Ogonuki}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Miki}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Mochida}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Endoh}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Yomogida}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Fukumoto}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Horai}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Iwakura}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Ito}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Toshimori}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Watanabe}},
+  \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Satake}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {The {A}rf {GAP} {SMAP}2 is
+  necessary for organized vesicle budding from the trans-{G}olgi network and
+  subsequent acrosome formation in spermiogenesis.}}\ }\href@noop {} {\bibfield
+   {journal} {\bibinfo  {journal} {Molecular Biology of the Cell}\ }\textbf
+  {\bibinfo {volume} {24}},\ \bibinfo {pages} {2633--2644} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Tanabe}\ \emph {et~al.}(2005)\citenamefont {Tanabe},
+  \citenamefont {Torii}, \citenamefont {Natsume}, \citenamefont
+  {Braesch-Andersen}, \citenamefont {Watanabe},\ and\ \citenamefont
+  {Satake}}]{Tanabe}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Tanabe}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Torii}},
+  \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Natsume}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Braesch-Andersen}}, \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Watanabe}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Satake}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {A novel {GTP}ase-activating protein for {ARF}6
+  directly interacts with clathrin and regulates clathrin-dependent
+  endocytosis.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Molecular Biology of the Cell}\ }\textbf {\bibinfo {volume} {16}},\ \bibinfo
+  {pages} {1617--1628} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Byrd}\ \emph {et~al.}(2000)\citenamefont {Byrd},
   \citenamefont {Park}, \citenamefont {Schaffer}, \citenamefont {Garmroudi},\
   and\ \citenamefont {MacDonald}}]{Byrd}%
@@ -1173,19 +1254,52 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Traffic}\ }\textbf
   {\bibinfo {volume} {8}},\ \bibinfo {pages} {1676--1686} (\bibinfo {year}
   {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Koliwer}\ \emph {et~al.}(2015)\citenamefont
-  {Koliwer}, \citenamefont {Park}, \citenamefont {Bauch}, \citenamefont {von
-  Zastrow},\ and\ \citenamefont {Kreienkamp}}]{Koliwer}%
+\bibitem [{\citenamefont {Lo}\ \emph {et~al.}(2015)\citenamefont {Lo},
+  \citenamefont {Zhang}, \citenamefont {Lu}, \citenamefont {Zheng},
+  \citenamefont {Zhang}, \citenamefont {Kanellopoulou}, \citenamefont {Zhang},
+  \citenamefont {Liu}, \citenamefont {Fritz}, \citenamefont {Marsh},
+  \citenamefont {Husami}, \citenamefont {Kissell}, \citenamefont {Nortman},
+  \citenamefont {Chaturvedi}, \citenamefont {Haines}, \citenamefont {Young},
+  \citenamefont {Mo}, \citenamefont {Filipovich}, \citenamefont {Bleesing},
+  \citenamefont {Mustillo}, \citenamefont {Stephens}, \citenamefont {Rueda},
+  \citenamefont {Chougnet}, \citenamefont {Hoebe}, \citenamefont {McElwee},
+  \citenamefont {Hughes}, \citenamefont {Karakoc-Aydiner}, \citenamefont
+  {Matthews}, \citenamefont {Price}, \citenamefont {Su}, \citenamefont {Rao},
+  \citenamefont {Lenardo},\ and\ \citenamefont {Jordan}}]{Lo}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Koliwer}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Park}},
-  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Bauch}}, \bibinfo
-  {author} {\bibfnamefont {M.}~\bibnamefont {von Zastrow}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {H.-J.}\ \bibnamefont {Kreienkamp}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {The {G}olgi-associated {PDZ} domain
-  protein {PIST/GOPC} stabilizes the ?1-adrenergic receptor in intracellular
-  compartments after internalization.}}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf {\bibinfo
-  {volume} {290}},\ \bibinfo {pages} {6120--6129} (\bibinfo {year}
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Lo}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Zhang}}, \bibinfo
+  {author} {\bibfnamefont {W.}~\bibnamefont {Lu}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Zheng}}, \bibinfo {author} {\bibfnamefont
+  {Q.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Kanellopoulou}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
+  {Z.}~\bibnamefont {Liu}}, \bibinfo {author} {\bibfnamefont {J.~M.}\
+  \bibnamefont {Fritz}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Marsh}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Husami}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Kissell}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Nortman}}, \bibinfo {author}
+  {\bibfnamefont {V.}~\bibnamefont {Chaturvedi}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Haines}}, \bibinfo {author} {\bibfnamefont
+  {L.~R.}\ \bibnamefont {Young}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Mo}}, \bibinfo {author} {\bibfnamefont {A.~H.}\
+  \bibnamefont {Filipovich}}, \bibinfo {author} {\bibfnamefont {J.~J.}\
+  \bibnamefont {Bleesing}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Mustillo}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Stephens}},
+  \bibinfo {author} {\bibfnamefont {C.~M.}\ \bibnamefont {Rueda}}, \bibinfo
+  {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Chougnet}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Hoebe}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {McElwee}}, \bibinfo {author} {\bibfnamefont {J.~D.}\
+  \bibnamefont {Hughes}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Karakoc-Aydiner}}, \bibinfo {author} {\bibfnamefont {H.~F.}\ \bibnamefont
+  {Matthews}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Price}},
+  \bibinfo {author} {\bibfnamefont {H.~C.}\ \bibnamefont {Su}}, \bibinfo
+  {author} {\bibfnamefont {V.~K.}\ \bibnamefont {Rao}}, \bibinfo {author}
+  {\bibfnamefont {M.~J.}\ \bibnamefont {Lenardo}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {M.~B.}\ \bibnamefont {Jordan}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Patients with {LRBA} deficiency show {CTLA}4
+  loss and immune dysregulation responsive to abatacept therapy.}}\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo
+  {volume} {349}},\ \bibinfo {pages} {436} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
 \end{thebibliography}%
