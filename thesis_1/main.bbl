@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{89}%
+\begin{thebibliography}{92}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -387,6 +387,16 @@
   {Biochimica et Biophysica Acta (BBA) - Molecular Cell Research}\ }\textbf
   {\bibinfo {volume} {1404}},\ \bibinfo {pages} {173--193} (\bibinfo {year}
   {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McNiven}\ and\ \citenamefont
+  {Thompson}(2006)}]{McNiven}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {McNiven}}\ and\ \bibinfo {author} {\bibfnamefont {H.~M.}\ \bibnamefont
+  {Thompson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Vesicle
+  formation at the plasma membrane and trans-{G}olgi network: The same but
+  different.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Science}\ }\textbf {\bibinfo {volume} {313}},\ \bibinfo {pages} {1591}
+  (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Stenmark}(2009)}]{Stenmark}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
@@ -424,6 +434,27 @@
   retrograde route in protein trafficking.}}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {Cell}\ }\textbf {\bibinfo {volume} {135}},\
   \bibinfo {pages} {1175--1187} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Progida}\ and\ \citenamefont
+  {Bakke}(2016)}]{Progida}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Progida}}\ and\ \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Bakke}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Bidirectional
+  traffic between the {G}olgi and the endosomes - machineries and
+  regulation.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J
+  Cell Sci}\ }\textbf {\bibinfo {volume} {129}},\ \bibinfo {pages} {3971--3982}
+  (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Klinger}\ \emph {et~al.}(2015)\citenamefont
+  {Klinger}, \citenamefont {Siupka},\ and\ \citenamefont {Nielsen}}]{Klinger}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~C.}\ \bibnamefont
+  {Klinger}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Siupka}}, \
+  and\ \bibinfo {author} {\bibfnamefont {M.~S.}\ \bibnamefont {Nielsen}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Retromer-mediated
+  trafficking of transmembrane receptors and transporters.}}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Membranes}\ }\textbf {\bibinfo
+  {volume} {5}},\ \bibinfo {pages} {288--306} (\bibinfo {year}
+  {2015})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Seaman}(2012)}]{Seaman}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~N.~J.}\
@@ -509,6 +540,27 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Science
   Signaling}\ }\textbf {\bibinfo {volume} {6}},\ \bibinfo {pages} {rs15}
   (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kamiyama}\ \emph {et~al.}(2016)\citenamefont
+  {Kamiyama}, \citenamefont {Sekine}, \citenamefont {Barsi-Rhyne},
+  \citenamefont {Hu}, \citenamefont {Chen}, \citenamefont {Gilbert},
+  \citenamefont {Ishikawa}, \citenamefont {Leonetti}, \citenamefont {Marshall},
+  \citenamefont {Weissman},\ and\ \citenamefont {Huang}}]{Kamiyama}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Kamiyama}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Sekine}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Barsi-Rhyne}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Hu}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Chen}}, \bibinfo {author} {\bibfnamefont
+  {L.~A.}\ \bibnamefont {Gilbert}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Ishikawa}}, \bibinfo {author} {\bibfnamefont {M.~D.}\
+  \bibnamefont {Leonetti}}, \bibinfo {author} {\bibfnamefont {W.~F.}\
+  \bibnamefont {Marshall}}, \bibinfo {author} {\bibfnamefont {J.~S.}\
+  \bibnamefont {Weissman}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Huang}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {Versatile protein tagging in cells with split fluorescent protein.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat Commun}\
+  }\textbf {\bibinfo {volume} {7}},\ \bibinfo {pages} {11046} (\bibinfo {year}
+  {2016})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Rappsilber}\ \emph {et~al.}(2007)\citenamefont
   {Rappsilber}, \citenamefont {Mann},\ and\ \citenamefont
   {Ishihama}}]{Rappsilber}%
@@ -680,11 +732,11 @@
   \bibinfo {author} {\bibfnamefont {G.~U.}\ \bibnamefont {Ryffel}}, \ and\
   \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Thomas}},\ }\bibfield
   {title} {\enquote {\bibinfo {title} {Improved conditional expression systems
-  resulting in physiological level of {HNF}4? expression confirm {HNF}4?
-  induced apoptosis in the pancreatic ?-cell line {INS}-1},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {BMC Research Notes}\ }\textbf
-  {\bibinfo {volume} {2}},\ \bibinfo {pages} {210--210} (\bibinfo {year}
-  {2009})}\BibitemShut {NoStop}%
+  resulting in physiological level of {HNF}4\textalpha{} expression confirm
+  {HNF}4\textalpha{} induced apoptosis in the pancreatic \textbeta-cell line
+  {INS}-1},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {BMC
+  Research Notes}\ }\textbf {\bibinfo {volume} {2}},\ \bibinfo {pages}
+  {210--210} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Tanida}\ \emph {et~al.}(2005)\citenamefont {Tanida},
   \citenamefont {Minematsu-Ikeguchi}, \citenamefont {Ueno},\ and\ \citenamefont
   {Kominami}}]{Tanida}%
@@ -703,7 +755,7 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~H.}\ \bibnamefont
   {Lee}}\ and\ \bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
   {Goldberg}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Proteasome
-  inhibitors: valuable new tools for cell biologists},}\ }\href@noop {}
+  inhibitors: valuable new tools for cell biologists.}}\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Trends in Cell Biology}\ }\textbf
   {\bibinfo {volume} {8}},\ \bibinfo {pages} {397--403} (\bibinfo {year}
   {2017})}\BibitemShut {NoStop}%
@@ -720,7 +772,7 @@
   {\bibfnamefont {Y.}~\bibnamefont {Tashiro}},\ }\bibfield  {title} {\enquote
   {\bibinfo {title} {Bafilomycin {A}1 prevents maturation of autophagic
   vacuoles by inhibiting fusion between autophagosomes and lysosomes in rat
-  hepatoma cell line, h-4-ii-e cells.}}\ }\href@noop {} {\bibfield  {journal}
+  hepatoma cell line, {H-4-II-E} cells.}}\ }\href@noop {} {\bibfield  {journal}
   {\bibinfo  {journal} {Cell Structure and Function}\ }\textbf {\bibinfo
   {volume} {23}},\ \bibinfo {pages} {33--42} (\bibinfo {year}
   {1998})}\BibitemShut {NoStop}%
@@ -816,8 +868,9 @@
   {E.}~\bibnamefont {Manser}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
   {Proximity biotinylation provides insight into the molecular composition of
   focal adhesions at the nanometer scale.}}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Sci Signal}\ }\textbf {\bibinfo {volume}
-  {9}},\ \bibinfo {pages} {rs4} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+  {journal} {\bibinfo  {journal} {Science Signaling}\ }\textbf {\bibinfo
+  {volume} {9}},\ \bibinfo {pages} {rs4} (\bibinfo {year} {2016})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {He}\ \emph {et~al.}(2009)\citenamefont {He},
   \citenamefont {Vasiliou},\ and\ \citenamefont {Nebert}}]{He}%
   \BibitemOpen
@@ -873,7 +926,7 @@
   \bibnamefont {McMahon}}, \ and\ \bibinfo {author} {\bibfnamefont {P.~J.}\
   \bibnamefont {Cullen}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
   {Sorting nexin-1 mediates tubular endosome-to-{TGN} transport through
-  coincidence sensing of high-curvature membranes and 3-phosphoinositides},}\
+  coincidence sensing of high-curvature membranes and 3-phosphoinositides.}}\
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Current Biology}\
   }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {1791--1800} (\bibinfo
   {year} {2004})}\BibitemShut {NoStop}%
@@ -892,7 +945,7 @@
   {\bibfnamefont {J.}~\bibnamefont {Klumperman}}, \ and\ \bibinfo {author}
   {\bibfnamefont {H.~J.}\ \bibnamefont {Geuze}},\ }\bibfield  {title} {\enquote
   {\bibinfo {title} {{SNX}1 defines an early endosomal recycling exit for
-  sortilin and mannose 6-phosphate receptors},}\ }\href@noop {} {\bibfield
+  sortilin and mannose 6-phosphate receptors.}}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {Traffic}\ }\textbf {\bibinfo {volume} {9}},\
   \bibinfo {pages} {380--393} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Harterink}\ \emph {et~al.}(2011)\citenamefont
@@ -916,9 +969,9 @@
   {H.~C.}\ \bibnamefont {Korswagen}},\ }\bibfield  {title} {\enquote {\bibinfo
   {title} {A {SNX}3-dependent retromer pathway mediates retrograde transport of
   the {W}nt sorting receptor {W}ntless and is required for {W}nt secretion.}}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\
-  }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {914--923} (\bibinfo
-  {year} {2011})}\BibitemShut {NoStop}%
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nature Cell
+  Biology}\ }\textbf {\bibinfo {volume} {13}},\ \bibinfo {pages} {914--923}
+  (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Mills}\ \emph {et~al.}(2003)\citenamefont {Mills},
   \citenamefont {Praefcke}, \citenamefont {Vallis}, \citenamefont {Peter},
   \citenamefont {Olesen}, \citenamefont {Gallop}, \citenamefont {Butler},
@@ -1115,7 +1168,7 @@
   \bibnamefont {Backer}}, \ and\ \bibinfo {author} {\bibfnamefont
   {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
   {Phosphatidylinositol-3-{OH} kinases are {R}ab5 effectors.}}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Nat Cell Biol}\ }\textbf
+  {\bibfield  {journal} {\bibinfo  {journal} {Nature Cell Biology}\ }\textbf
   {\bibinfo {volume} {1}},\ \bibinfo {pages} {249--252} (\bibinfo {year}
   {1999})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Rubino}\ \emph {et~al.}(2000)\citenamefont {Rubino},
@@ -1128,9 +1181,9 @@
   {author} {\bibfnamefont {M.}~\bibnamefont {Zerial}},\ }\bibfield  {title}
   {\enquote {\bibinfo {title} {Selective membrane recruitment of {EEA}1
   suggests a role in directional transport of clathrin-coated vesicles to early
-  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {J
-  Biol Chem}\ }\textbf {\bibinfo {volume} {275}},\ \bibinfo {pages}
-  {3745--3748} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+  endosomes.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Biological Chemistry}\ }\textbf {\bibinfo {volume} {275}},\
+  \bibinfo {pages} {3745--3748} (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Ballmer-Hofer}\ \emph {et~al.}(2011)\citenamefont
   {Ballmer-Hofer}, \citenamefont {Andersson}, \citenamefont {Ratcliffe},\ and\
   \citenamefont {Berger}}]{Ballmer}%
@@ -1285,7 +1338,7 @@
   {author} {\bibfnamefont {J.~L.}\ \bibnamefont {Stow}},\ }\bibfield  {title}
   {\enquote {\bibinfo {title} {Syntaxin 6 and {V}ti1b form a novel {SNARE}
   complex, which is up-regulated in activated macrophages to facilitate
-  exocytosis of tumor necrosis factor-?.}}\ }\href@noop {} {\bibfield
+  exocytosis of tumor necrosis factor-\textalpha.}}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {Journal of Biological Chemistry}\ }\textbf
   {\bibinfo {volume} {280}},\ \bibinfo {pages} {10478--10483} (\bibinfo {year}
   {2005})}\BibitemShut {NoStop}%
@@ -1371,16 +1424,6 @@
   {} {\bibfield  {journal} {\bibinfo  {journal} {Science}\ }\textbf {\bibinfo
   {volume} {349}},\ \bibinfo {pages} {436} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {McNiven}\ and\ \citenamefont
-  {Thompson}(2006)}]{McNiven}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
-  {McNiven}}\ and\ \bibinfo {author} {\bibfnamefont {H.~M.}\ \bibnamefont
-  {Thompson}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Vesicle
-  formation at the plasma membrane and trans-{G}olgi network: The same but
-  different.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Science}\ }\textbf {\bibinfo {volume} {313}},\ \bibinfo {pages} {1591}
-  (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Dietrich}\ \emph {et~al.}(1997)\citenamefont
   {Dietrich}, \citenamefont {Kastrup}, \citenamefont {Nielsen}, \citenamefont
   {Odum},\ and\ \citenamefont {Geisler}}]{Dietrich}%
@@ -1454,6 +1497,6 @@
   {\bibinfo {title} {Generation of brain microvascular endothelial-like cells
   from human induced pluripotent stem cells by co-culture with {C}6 glioma
   cells.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {PLOS
-  ONE}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {e0128890--}
+  ONE}\ }\textbf {\bibinfo {volume} {10}},\ \bibinfo {pages} {e0128890}
   (\bibinfo {year} {2015})}\BibitemShut {NoStop}%
 \end{thebibliography}%

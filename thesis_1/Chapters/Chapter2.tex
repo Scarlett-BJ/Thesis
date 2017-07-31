@@ -4,7 +4,7 @@
 \label{Chapter2} % For referencing the chapter elsewhere, use \ref{Chapter2}
 
 \bfseries{Cell line generation}\\
-\normalfont Doxycycline-inducible wild-type and mutant GLUT1-expressing cell lines had been generated previously in the lab of Markus Landthaler at Max Delbr\"{u}ck Center. In brief, the gene \textit{SLC2A1} was purchased from Harvard Plasmid Repository and a stop codon was added with the primers listed in Table~\ref{tab:primers} (BioTeZ). The P485L mutation was introduced by PCR-directed mutagenesis with the primers listed in Table~\ref{tab:primers}. The wild-type and mutant \textit{SLC2A1} coding sequences were recombined into the vector pDEST-pcDNA5-BirA-FLAG using Gateway cloning system (ThermoFisher) (Figure~\ref{fig:vectors})~\cite{Couzens}. HEK293 Flp-In T-Rex cells (Invitrogen) were cotransfected with pOG44 Flp-recombinase expression vector (ThermoFisher) and the recombinant vector containing wild-type or mutant GLUT1 to generate stable cell lines. Two days following transfection, cells were selected with 100 \textmu g/mL Hygromycin B (InvivoGen) for 2 weeks. A control HEK293 cell line for BioID experiments had been generated in the lab using the identical technique with an integrated transgene for the inducible expression of the first 10 strands of GFP (GFP1-10).
+\normalfont Doxycycline-inducible wild-type and mutant GLUT1-expressing cell lines had been generated previously in the lab of Markus Landthaler at Max Delbr\"{u}ck Center. In brief, the gene \textit{SLC2A1} was purchased from Harvard Plasmid Repository and a stop codon was added with the primers listed in Table~\ref{tab:primers} (BioTeZ). The P485L mutation was introduced by PCR-directed mutagenesis with the primers listed in Table~\ref{tab:primers}. The wild-type and mutant \textit{SLC2A1} coding sequences were recombined into the vector pDEST-pcDNA5-BirA-FLAG using Gateway cloning system (ThermoFisher) (Figure~\ref{fig:vectors})~\cite{Couzens}. HEK293 Flp-In T-Rex cells (Invitrogen) were cotransfected with pOG44 Flp-recombinase expression vector (ThermoFisher) and the recombinant vector containing wild-type or mutant GLUT1 to generate stable cell lines. Two days following transfection, cells were selected with 100 \textmu g/mL Hygromycin B (InvivoGen) for 2 weeks. A control HEK293 cell line for BioID experiments had been generated in the lab using the identical technique with an integrated transgene for the inducible expression of the first 10 strands of GFP (GFP1-10)~\cite{Kamiyama}.
 
 \begin{table}[h]
 %\captionsetup{font=normalsize}
@@ -26,6 +26,9 @@ P485L mutation & Forward: CTGTTCCATCTCCTGGGGGCT \newline Reverse: CTCCTCGGGTGTCT
 \centering
 \includegraphics[scale=0.7]{Figures/vector}
 \caption{Graphic map of the recombinant plasmid.}
+\vspace*{-3mm}
+\small \justify
+The wild-type or mutant SLC2A1 coding sequence was recombined into the vector pDEST-pcDNA5-BirA-FLAG using Gateway cloning system. The recombinant vector was later used to transfect HEK293 Flp-In T-Rex cells.
 \label{fig:vectors}
 \end{figure}
 The stable cell lines were stored in cryogenic vials (Croning) in liquid nitrogen. To recover cells, one vial of each cell line was warmed up to \SI{37}{\celsius} and the contents were diluted in 10 mL pre-warmed DMEM (Life Technologies) complemented with 10\% fetal bovine serum (Pan-Biotech). The medium is referred to as complete DMEM in the following. After spinning down at room temperature and 500 rpm for 3 min, the cell pellets were resuspended in 10 mL complete DMEM and seeded in T-75 flasks (CELLSTAR).
@@ -37,7 +40,10 @@ The stable cell lines were stored in cryogenic vials (Croning) in liquid nitroge
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.7]{Figures/BioID}
-\caption{Experimental setup of triple SILAC labels.}
+\caption{Experimental setup of triple SILAC labels in BioID experiments.}
+\vspace*{-3mm}
+\small \justify
+The forward (A) and the reverse (B) experiments consist of three cell lines with different SILAC labels. After harvesting cells, the triple SILAC labels were combined in each experiment.
 \label{fig:bioid}
 \end{figure}
 Cells used for BioID experiments were cultured in SILAC DMEM (Life Technologies) complemented with 2 mM glutamine (Glutamax, Life Technologies), 1 mM pyruvate (Life Technologies), 0.1 mM non-essential amino acids (Life Technologies) and 10\% dialyzed fetal bovine serum (Pan-Biotech). In addition, L-arginine (Arg0, Sigma-Aldrich) and L-lysine (Lys0, Sigma-Aldrich) were added to the Light SILAC DMEM to a final concentration of 0.199 mM and 0.339 mM, respectively. Alternatively, Arg6 and Lys4 or Arg10 and Lys8 were added in place of their Light counterparts to make Medium-heavy SILAC DMEM and Heavy SILAC DMEM, respectively. PBS-EDTA (Lonza) was used to detach the cells when passaging to avoid isotope contamination. After six passages cells were fully labeled as assessed by MS.
@@ -81,6 +87,9 @@ Sheep anti-mouse IgG & GE Healthcare & 1:25 000 & HRP\\
 \centering
 \includegraphics[scale=0.7]{Figures/treatment}
 \caption{A timeline of inhibition experiments.}
+\vspace*{-3mm}
+\small \justify
+HEK293 cells were seeded in 6-well plates and induced with 0.1 \textmu g/mL doxycycline before being treated with 250 nM bafilomycin A1/DMSO (A) or being transfected with UL21a-HA and treated with 20 mM MG132/DMSO (B). After harvesting, cell lysates were analyzed with Western blotting.
 \label{fig:inhibition}
 \end{figure}
 \normalfont Inhibitor treatment experiments were performed as the doxycycline (DOX) induction experiments but only with the 24 hr induction time point. In addition to inducing GLUT1 expression with 0.1 \textmu g/mL doxycycline, different inhibitors or DMSO (Biomol) control were added. Lysosomal degradation was inhibited using 250 nM bafilomycin A1 (Invitrogen, BAF) in DMSO for 6 hr before the cells were lysed for Western blotting analysis (Figure~\ref{fig:inhibition} A).
@@ -99,7 +108,7 @@ Peptides were separated on a reverse-phase column on a High Performance Liquid C
 
 The resulting raw files were analyzed using MaxQuant 1.5.2.8~\cite{Cox}. The reference human proteome database, consisting of 159 616 entries, was downloaded from the UniProt Knowledgebase on February 28th, 2017. Lys4, Arg6 and Lys8, Arg10 were added to the labels. Variable modifications were set as N-terminal acetylation and oxidation of methionines. The \textit{in silico} digestion of peptides in the reference database was performed with trypsin/P site-specific cleavage. Default global parameters were kept except that "re-quantify" and "match between runs" were turned on. The false discovery rate, assessed by in-parallel searching in a decoy database generated by reversing the reference database, was set to 0.01 at peptide and protein levels. 
 
-The following analysis was performed using Perseus v1.5.8.4 and R v3.3.3~\cite{Tyanova}. The proteins identified from the reverse database, potential contaminants and proteins identified only by a modification site were removed. The intensities and ratios were logarithmized (base 10 and 2, respectively). To determine specific proximity interactions, only proteins whose wild-type/L and mutant/L fold changes were larger than 2 in both forward and reverse experiments were kept for further analysis. Metascape was used for GO enrichment analysis~\cite{Tripathi}.
+The following analysis was performed using Perseus v1.5.8.4 and R v3.3.3~\cite{Tyanova}. The proteins identified from the reverse database, potential contaminants and proteins identified only by a modification site were removed. The intensities and ratios were logarithmized (base 10 and 2, respectively). To determine specific proximity interactions, only proteins whose wild-type/L or mutant/L fold changes were larger than 2 in both forward and reverse experiments were kept for further analysis. Metascape was used for GO enrichment analysis~\cite{Tripathi}.
 \\
 \\*
 \bfseries{Transferrin uptake}\\
@@ -128,7 +137,7 @@ Rabbit monoclonal anti-Rab11 & Cell Signaling Technology & 1:100 & \\
 Rabbit monoclonal anti-LAMP1 & Cell Signaling Technology & 1:100 & \\
 Mouse monoclonal anti-Vti1a & BD Biosciences & 1:100\\
 Mouse monoclonal anti-Vti1b & BD Biosciences & 1:100\\
-Mouse monoclonal anti-STX6 & BD Biosciences & 1:100\\
+%Mouse monoclonal anti-STX6 & BD Biosciences & 1:100\\
 Goat anti-mouse IgG (H+L) & Invitrogen & 1:500 & Alexa Fluor 488\\
 Goat anti-rabbit IgG (H+L) & Invitrogen & 1:500 & Alexa Fluor 488\\
 Donkey anti-rabbit IgG (H+L) & Invitrogen & 1:500 & Alexa Fluor 568\\
