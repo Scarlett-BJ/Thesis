@@ -4,6 +4,12 @@
 \label{Chapter1} % For referencing the chapter elsewhere, use \ref{Chapter1} 
 \addtocontents{toc}{\setcounter{tocdepth}{1}}
 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+
 %----------------------------------------------------------------------------------------
 As the primary glucose transporter across the endothelial cells of the blood-brain barrier, the facilitated glucose transporter member 1 (GLUT1) protein plays a central role in the regulation of brain energy metabolism and maintenance of central nervous system homeostasis~\cite{Pascual}. Human GLUT1 is encoded by the \textit{SLC2A1} gene on the short arm of chromosome 1, consists of 492 amino acids and contains 12 transmembrane \textalpha{} helices (Figure~\ref{fig:topo})~\cite{MUECKLER,Uldry}. GLUT1 is highly expressed in endothelial cells and glial cells, but is ubiquitously expressed at lower levels as well~\cite{Lee,Wheeler}. Two isoforms of GLUT1 have been found, namely the 55kDa form with N-linked glycosylation at Asn45 and the 45kDa unglycosylated form~\cite{Paul-W.-Hruz,Duelli}.
 \begin{figure}[h]
@@ -34,6 +40,23 @@ A previous study in our group combined high-throughput peptide pull-downs and qu
 \label{fig:motif}
 \end{figure}
 
+\begin{comment}
+\begin{table}[h]
+\caption{Gain of dileucine motifs in the mutated peptides.}
+\label{tab:motif}
+\small
+\centering
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}ll}
+\toprule
+\tabhead{Protein} & \tabhead{Wild-type peptide} & \tabhead{Mutant peptide}\\
+\midrule
+GLUT1 & TPEELFH\textbf{P}LGADSQV & TPEELFH\textbf{L}LGADSQV\\
+ITPR1 & PGTGGHGPLSLNSPD & PGTGGHGLLSLNSPD\\
+CACNA1H & PGTGGHGPLSLNSPD & PGTGGHGLLSLNSPD\\
+\bottomrule\\
+\end{tabular*}
+\end{table}
+\end{comment}
 Based on these findings, it was hypothesized that the GLUT1\textsuperscript{P485L} mutation causes clathrin-mediated endocytosis and possibly the subsequent lysosomal degradation of GLUT1, leading to the development of G1DS. This hypothesis and the intracellular trafficking of the mutant GLUT1 was further investigated in this thesis.
 
 \section{Clathrin-mediated endocytosis and endocytic pathways}
@@ -60,8 +83,3 @@ Cargo proteins can also be transported from early endosomes, late endosomes or r
 
 Previous research has shown that while localizing at the plasma membrane at steady state, the wild-type GLUT1 undergoes continuous clathrin-independent endocytosis and recycling from endosomes to the plasma membrane~\cite{Eyster,McGough}. It has been suggested that a small proportion of GLUT1 might traffic to early endosomes en route to late endosomes and lysosomes after being endocytosed~\cite{Eyster,McGough}. The majority of endocytosed GLUT1 is efficiently transported back to the cell surface as a SNX27-retromer cargo~\cite{Steinberg}.
 % Define some commands to keep the formatting separated from the content 
-\newcommand{\keyword}[1]{\textbf{#1}}
-\newcommand{\tabhead}[1]{\textbf{#1}}
-\newcommand{\code}[1]{\texttt{#1}}
-\newcommand{\file}[1]{\texttt{\bfseries#1}}
-\newcommand{\option}[1]{\texttt{\itshape#1}}
