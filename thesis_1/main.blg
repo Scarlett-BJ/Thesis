@@ -29,45 +29,45 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (0) verbatim
 Control: production of eprint (0) enabled
-You've used 93 entries,
+You've used 97 entries,
             5847 wiz_defined-function locations,
-            2243 strings with 38531 characters,
-and the built_in function-call counts, 132863 in all, are:
-= -- 7469
-> -- 4738
-< -- 924
-+ -- 1421
-- -- 1211
-* -- 22972
-:= -- 11935
-add.period$ -- 184
-call.type$ -- 93
-change.case$ -- 460
-chr.to.int$ -- 103
-cite$ -- 93
-duplicate$ -- 12022
-empty$ -- 9686
-format.name$ -- 2698
-if$ -- 26416
+            2270 strings with 39501 characters,
+and the built_in function-call counts, 138998 in all, are:
+= -- 7808
+> -- 4965
+< -- 965
++ -- 1491
+- -- 1269
+* -- 24048
+:= -- 12479
+add.period$ -- 192
+call.type$ -- 97
+change.case$ -- 480
+chr.to.int$ -- 107
+cite$ -- 97
+duplicate$ -- 12566
+empty$ -- 10134
+format.name$ -- 2826
+if$ -- 27640
 int.to.chr$ -- 2
-int.to.str$ -- 100
-missing$ -- 1528
-newline$ -- 328
-num.names$ -- 276
-pop$ -- 4340
+int.to.str$ -- 104
+missing$ -- 1597
+newline$ -- 340
+num.names$ -- 288
+pop$ -- 4534
 preamble$ -- 1
-purify$ -- 368
+purify$ -- 384
 quote$ -- 0
-skip$ -- 3931
+skip$ -- 4105
 stack$ -- 0
-substring$ -- 3578
-swap$ -- 12522
-text.length$ -- 598
+substring$ -- 3764
+swap$ -- 13097
+text.length$ -- 627
 text.prefix$ -- 0
 top$ -- 9
-type$ -- 1614
+type$ -- 1687
 warning$ -- 0
-while$ -- 366
+while$ -- 382
 width$ -- 0
-write$ -- 877
+write$ -- 913
 (There was 1 error message)

@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (0) verbatim
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{92}%
+\begin{thebibliography}{96}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -122,6 +122,52 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Physiology}\ }\textbf {\bibinfo
   {volume} {16}},\ \bibinfo {pages} {71} (\bibinfo {year} {2001})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Asano}\ \emph {et~al.}(1991)\citenamefont {Asano},
+  \citenamefont {Katagiri}, \citenamefont {Takata}, \citenamefont {Lin},
+  \citenamefont {Ishihara}, \citenamefont {Inukai}, \citenamefont {Tsukuda},
+  \citenamefont {Kikuchi}, \citenamefont {Hirano},\ and\ \citenamefont
+  {Yazaki}}]{Asano}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Asano}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Katagiri}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Takata}}, \bibinfo
+  {author} {\bibfnamefont {J.~L.}\ \bibnamefont {Lin}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Ishihara}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Inukai}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Tsukuda}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Kikuchi}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Hirano}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Yazaki}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
+  {The role of {N}-glycosylation of {GLUT1} for glucose transport activity.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal of
+  Biological Chemistry}\ }\textbf {\bibinfo {volume} {266}},\ \bibinfo {pages}
+  {24632--24636} (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Levine}\ \emph {et~al.}(1998)\citenamefont {Levine},
+  \citenamefont {Cloherty}, \citenamefont {Fidyk},\ and\ \citenamefont
+  {Carruthers}}]{Levine}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~B.}\ \bibnamefont
+  {Levine}}, \bibinfo {author} {\bibfnamefont {E.~K.}\ \bibnamefont
+  {Cloherty}}, \bibinfo {author} {\bibfnamefont {N.~J.}\ \bibnamefont {Fidyk}},
+  \ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Carruthers}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Structural and physiologic
+  determinants of human erythrocyte sugar transport regulation by adenosine
+  triphosphate.}}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Biochemistry}\ }\textbf {\bibinfo {volume} {37}},\ \bibinfo {pages}
+  {12221--12232} (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Liu}\ \emph {et~al.}(2001)\citenamefont {Liu},
+  \citenamefont {Vera}, \citenamefont {Peng},\ and\ \citenamefont
+  {Golde}}]{Liu}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Liu}}, \bibinfo {author} {\bibfnamefont {J.~C.}\ \bibnamefont {Vera}},
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Peng}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {D.~W.}\ \bibnamefont {Golde}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {The predicted {ATP}-binding domains in the
+  hexose transporter glut1 critically affect transporter activity.}}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Biochemistry}\
+  }\textbf {\bibinfo {volume} {40}},\ \bibinfo {pages} {7874--7881} (\bibinfo
+  {year} {2001})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {De~Vivo}\ \emph {et~al.}(1991)\citenamefont
   {De~Vivo}, \citenamefont {Trifiletti}, \citenamefont {Jacobson},
   \citenamefont {Ronen}, \citenamefont {Behmand},\ and\ \citenamefont
@@ -1376,6 +1422,27 @@
   {\bibinfo  {journal} {Journal of Cell Science}\ }\textbf {\bibinfo {volume}
   {117}},\ \bibinfo {pages} {9--18} (\bibinfo {year} {2004})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Saint-Pol}\ \emph {et~al.}(2004)\citenamefont
+  {Saint-Pol}, \citenamefont {Yelamos}, \citenamefont {Amessou}, \citenamefont
+  {Mills}, \citenamefont {Dugast}, \citenamefont {Tenza}, \citenamefont {Schu},
+  \citenamefont {Antony}, \citenamefont {McMahon}, \citenamefont {Lamaze},\
+  and\ \citenamefont {Johannes}}]{Saint-Pol}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Saint-Pol}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Yelamos}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Amessou}}, \bibinfo
+  {author} {\bibfnamefont {I.~G.}\ \bibnamefont {Mills}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Dugast}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Tenza}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Schu}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Antony}}, \bibinfo {author} {\bibfnamefont {H.~T.}\ \bibnamefont {McMahon}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Lamaze}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Johannes}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Clathrin adaptor epsin{R} is required for
+  retrograde sorting on early endosomal membranes.}}\ }\href@noop {} {\bibfield
+   {journal} {\bibinfo  {journal} {Developmental Cell}\ }\textbf {\bibinfo
+  {volume} {6}},\ \bibinfo {pages} {525--538} (\bibinfo {year}
+  {2004})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Lo}\ \emph {et~al.}(2015)\citenamefont {Lo},
   \citenamefont {Zhang}, \citenamefont {Lu}, \citenamefont {Zheng},
   \citenamefont {Zhang}, \citenamefont {Kanellopoulou}, \citenamefont {Zhang},
